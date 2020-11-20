@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 17%
@@ -31,17 +31,14 @@ Mit Customer Journey Analytics können Sie steuern, wie Sie Ihre Online- und Off
 
 * **[Verschieben von Adobe Analytics-Segmenten in Customer Journey Analytics (Video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Erfahren Sie mehr darüber, wie Sie Ihre Adobe Analytics-Segmente in Customer Journey Analytics neu erstellen*
 
 * **[Verschieben Sie Ihre berechneten Metriken von Adobe Analytics in Customer Journey Analytics (Video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Hier finden Sie Tipps zum Neuerstellen Ihrer errechneten Adobe Analytics-Metriken in Customer Journey Analytics*
 
 * **[Erstellen von Kanal-übergreifenden Filtern (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *Erstellen von Filtern in Customer Journey Analytics, die mehr als eine Datenquelle und mehr als einen Kanal verwenden*
 
 ## Personalauswahl
