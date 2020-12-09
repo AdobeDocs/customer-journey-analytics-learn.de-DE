@@ -1,17 +1,18 @@
 ---
 title: Zuordnungseinstellungen in Data-Ansichten in Customer Journey Analytics
-description: Beim Konfigurieren von Data Ansichten in Customer Journey Analytics können Sie Zuordnungseinstellungen wählen, um zu steuern, wie Dimensionen und Metriken zusammenarbeiten. Dieses Video führt Sie durch die Standardeinstellungen, die Optionen und die Interaktion der Metrik- und Dimensionszuordnungseinstellungen.
+description: Beim Konfigurieren von Data Ansichten in Adobe Customer Journey Analytics können Sie Zuordnungseinstellungen wählen, um zu steuern, wie Dimensionen und Metriken zusammenarbeiten. Dieses Video führt Sie durch die Standardeinstellungen, die Optionen und die Interaktion der Metrik- und Dimensionszuordnungseinstellungen.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
