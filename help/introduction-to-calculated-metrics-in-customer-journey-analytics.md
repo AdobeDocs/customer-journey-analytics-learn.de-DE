@@ -1,26 +1,27 @@
 ---
 title: Einführung in berechnete Metriken in Customer Journey Analytics
 description: In diesem Video werden wir die Grundlagen der Erstellung von berechneten Metriken im Customer Journey Analytics Adobe durchgehen.
-feature: customer journey analytics - calculated metrics
+feature: 'Metriken  '
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '71'
+ht-degree: 12%
 
 ---
 
 
-# Introduction to [!UICONTROL Calculated Metrics] in Customer Journey Analytics
+# Einführung in [!UICONTROL Berechnete Metriken] in Customer Journey Analytics
 
-In diesem Video werden wir die Grundlagen der Erstellung von [!UICONTROL berechneten Metriken] in Customer Journey Analytics durchgehen.
+In diesem Video gehen wir durch die Grundlagen der Erstellung von [!UICONTROL Berechnete Metriken] in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
 
