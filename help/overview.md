@@ -1,29 +1,29 @@
 ---
 title: Customer Journey Analytics Videos und Tutorials
 description: Eine Sammlung von Videos und Tutorials zum Customer Journey Analytics von Adoben.
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 17%
+source-wordcount: '308'
+ht-degree: 14%
 
 ---
 
 
 # Überblick
 
-Willkommen auf der [!DNL Customer Journey Analytics] Tutorials.  Die Verwendung dieser Lernprogramme zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html) gibt Ihnen ein besseres Verständnis, wie Sie mit Adobe Analytics schneller als je zuvor Kundeneinblicke mit mehreren Kanälen gewinnen können.  Als ersten Schritt
+Willkommen auf der [!DNL Customer Journey Analytics] Tutorials-Site.  Durch die Verwendung dieser Lernprogramme zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics schneller als je zuvor Einblicke in mehrere Kanal erhalten.  Als ersten Schritt
 
-* Die neuesten Neuigkeiten finden Sie im Abschnitt **&quot;Neue Funktionen&quot;** unten
-* **Personalauswahl** hebt einige unserer bevorzugten Inhalte hervor
-* Inhalt nach Thema und Unterthema in der **linken Navigation**
-* Verwenden Sie das **Suchfeld** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
+* Die neuesten Informationen finden Sie im Abschnitt **&quot;Neue Funktionen&quot;** unten
+* **Mitarbeiter-** Pickshighlights beleuchten einige unserer bevorzugten Inhalte
+* Inhalten nach Thema und Unterthema in der **linken Navigation**
+* Verwenden Sie das Feld **search** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
 
 Mit Customer Journey Analytics können Sie steuern, wie Sie Ihre Online- und Offline-Daten in Analysis Workspace mit jeder beliebigen Kunden-ID verbinden. Dadurch können Sie Aufgaben wie Attribution, Segmentierung, Fluss- und Fallout-Steuerung etc. über Ihren gesamten Kundendatensatz.
 
