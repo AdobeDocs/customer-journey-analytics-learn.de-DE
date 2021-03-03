@@ -1,26 +1,27 @@
 ---
 title: Customer Journey Analytics mit Datenquellen in der Plattform verbinden
 description: Mit Adobe Customer Journey Analytics (CJA) können Sie Analysis Workspace über den Datensätzen von Adobe Experience Platform installieren, um eine Analyse Ihrer Daten über mehrere Kanal hinweg durchzuführen. In diesem Video erfahren Sie, wie Sie eine Verbindung zwischen CJA und den Plattformdatensätzen herstellen können. Dazu gehört auch das Festlegen der Verbindung zum Streamen laufender Daten über die Plattform in CJA.
-feature: customer journey analytics
+feature: Verbindungen
 topics: null
-audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30140.jpg
 kt: 3954
+role: '"Data Engineer, Data Architect"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '168'
 ht-degree: 8%
 
 ---
 
 
-# Customer Journey Analytics mit Data [!UICONTROL Sources] in der Plattform verbinden
+# Customer Journey Analytics mit Daten [!UICONTROL Quellen] in der Plattform verbinden
 
-Customer Journey Analytics (CJA) gibt Ihnen Analysis Workspace zusätzlich zu [!UICONTROL Datensätzen] aus Adobe Experience Platform, um eine Analyse Ihrer Daten über mehrere Kanal hinweg durchzuführen. In diesem Video erfahren Sie, wie Sie die [!UICONTROL Verbindung] zwischen CJA und den Plattform- [!UICONTROL Datensätzen]herstellen, einschließlich der Einstellung der [!UICONTROL Verbindung] zum Streamen laufender Daten über die Plattform in CJA.
+Mit Customer Journey Analytics (CJA) erhalten Sie Analysis Workspace über [!UICONTROL Datensätze] aus Adobe Experience Platform, um eine Analyse Ihrer Daten über mehrere Kanal hinweg durchzuführen. In diesem Video erfahren Sie, wie Sie die [!UICONTROL Verbindung] zwischen CJA und der Plattform [!UICONTROL Datensets] herstellen, einschließlich der [!UICONTROL Verbindung], um laufende Daten von der Plattform in CJA zu streamen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
 
