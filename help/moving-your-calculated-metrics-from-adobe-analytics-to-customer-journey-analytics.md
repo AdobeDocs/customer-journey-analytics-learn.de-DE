@@ -1,26 +1,28 @@
 ---
 title: Verschieben Sie Ihre errechneten Metriken von Adobe Analytics in Customer Journey Analytics
 description: In diesem Video finden Sie Tipps zur Neuerstellung der errechneten Adobe Analytics-Metriken in Customer Journey Analytics.
-feature: customer journey analytics - calculated metrics
+feature: 'Metriken  '
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
+topic: Migration
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 
 
-# Move your [!UICONTROL Calculated Metrics] from Adobe Analytics to Customer Journey Analytics
+# Verschieben Sie Ihre [!UICONTROL Errechnete Metriken] von Adobe Analytics in Customer Journey Analytics
 
-In diesem Video finden Sie Tipps zum Neuerstellen Ihrer Adobe Analytics- [!UICONTROL berechneten Metriken] in Customer Journey Analytics.
+In diesem Video finden Sie Tipps zum Neuerstellen Ihres Adobe Analytics [!UICONTROL Berechnete Metriken] in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
