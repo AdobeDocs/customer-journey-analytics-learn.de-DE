@@ -1,26 +1,28 @@
 ---
 title: Adobe Analytics-Segmente in Customer Journey Analytics verschieben
 description: In diesem Video erfahren Sie Tipps zum Neuerstellen Ihrer Adobe Analytics-Segmente als "Filter"in Customer Journey Analytics.
-feature: customer journey analytics
+feature: Filter
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
+topic: Migration
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 
 
-# Adobe Analytics- [!UICONTROL Segmente] in Customer Journey Analytics verschieben
+# Adobe Analytics [!UICONTROL Segmente] in Customer Journey Analytics verschieben
 
-In diesem Video erfahren Sie Tipps zum Neuerstellen Ihrer Adobe Analytics- [!UICONTROL Segmente] als &quot;[!UICONTROL Filter]&quot;in Customer Journey Analytics.
+In diesem Video erhalten Sie Tipps zum Neuerstellen Ihres Adobe Analytics [!UICONTROL segments] als &quot;[!UICONTROL Filter]&quot;in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
