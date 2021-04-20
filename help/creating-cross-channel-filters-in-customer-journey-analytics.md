@@ -1,15 +1,15 @@
 ---
 title: Kanal-übergreifende Filter in Customer Journey Analytics erstellen
 description: In diesem Video besprechen wir, wie Filter in Adobe Customer Journey Analytics erstellt werden, die mehr als eine Datenquelle und mehr als einen Kanal nutzen. Sie werden auch sehen, wie diese Filter in Visualisierungen kombiniert werden können.
-feature: Filter
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

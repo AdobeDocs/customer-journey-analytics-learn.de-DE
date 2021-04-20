@@ -1,7 +1,7 @@
 ---
 title: Verschieben Sie Ihre errechneten Metriken von Adobe Analytics in Customer Journey Analytics
 description: In diesem Video finden Sie Tipps zur Neuerstellung der errechneten Adobe Analytics-Metriken in Customer Journey Analytics.
-feature: 'Metriken  '
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
 topic: Migration
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

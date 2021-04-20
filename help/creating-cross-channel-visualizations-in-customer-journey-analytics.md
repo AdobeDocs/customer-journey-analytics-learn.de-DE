@@ -1,15 +1,15 @@
 ---
 title: Erstellen von Visualisierungen für mehrere Kanal in Customer Journey Analytics
 description: In diesem Video erfahren Sie, wie Sie mit Adobe Customer Journey Analytics Visualisierungen erstellen können, die Daten aus mehreren Datensätzen über mehrere Kanal hinweg enthalten, einschließlich der Zusammenführung der Daten pro Besucher.
-feature: Visualisierungen
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

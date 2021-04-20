@@ -1,16 +1,16 @@
 ---
 title: Architektur und Integration von Customer Journey Analytics
 description: In diesem Video finden Sie eine exemplarische Vorgehensweise zur Architektur von Adobe Customer Journey Analytics, einschließlich der Verbindung und Integration mit der Adobe Experience Platform.
-feature: Grundlagen zum CJA-Arbeitsbereich
+feature: CJA Workspace Basics
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32483.jpg
 kt: 4449
-topic: Architektur
-role: '"Architect, Data Architect"'
-level: Zwischenschaltung
+topic: Architecture
+role: "Architect, Data Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

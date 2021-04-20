@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics-Segmente in Customer Journey Analytics verschieben
 description: In diesem Video erfahren Sie Tipps zum Neuerstellen Ihrer Adobe Analytics-Segmente als "Filter"in Customer Journey Analytics.
-feature: Filter
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
 topic: Migration
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
