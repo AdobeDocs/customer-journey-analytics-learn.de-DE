@@ -1,23 +1,20 @@
 ---
 title: Grundkonfiguration für Data Ansichten in Customer Journey Analytics
 description: Nachdem Sie im Adobe Customer Journey Analytics eine Verbindung zu Datensätzen in Adobe Experience Platform hergestellt haben, müssen Sie eine Data Ansicht für diese Verbindung erstellen, damit Sie die Daten in Analysis Workspace auf Plattform verwenden können. In diesem Video werden Sie durch die Basiskonfiguration einer Data-Ansicht geführt.
-feature: Data Views
-topics: null
-activity: setup
+feature: Datenansichten
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
 role: Administrator
 level: Beginner
+exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 3%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
-
 
 # Grundlegende Konfiguration für [!UICONTROL Data-Ansichten] in Customer Journey Analytics
 
@@ -27,5 +24,4 @@ Nachdem Sie eine [!UICONTROL Verbindung] in Customer Journey Analytics zu [!UICO
 
 ## Zusätzliche Ressourcen
 
-* [Zuordnungseinstellungen in Data-Ansichten](attribution-settings-in-data-views.md)
-* [Customer Journey Analytics - Dokumentation zu Data Ansichten](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Dokumentation zu Data Ansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
