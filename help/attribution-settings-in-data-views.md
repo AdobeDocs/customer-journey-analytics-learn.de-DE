@@ -1,31 +1,24 @@
 ---
-title: Zuordnungseinstellungen in Data-Ansichten in Customer Journey Analytics
-description: Beim Konfigurieren von Data Ansichten in Adobe Customer Journey Analytics können Sie Zuordnungseinstellungen wählen, um zu steuern, wie Dimensionen und Metriken zusammenarbeiten. Dieses Video führt Sie durch die Standardeinstellungen, die Optionen und die Interaktion der Metrik- und Dimensionszuordnungseinstellungen.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Zuordnungseinstellungen in Data-Ansichten
+description: Jede Dimension sollte über eine Zuordnungseinstellung (um zu entscheiden, welcher Wert für die Konvertierung gutgeschrieben wird) und eine Ablaufeinstellung (wie lange der Wert erhalten bleibt) verfügen, damit das System weiß, wie den Dimensionswerten Werte Werte zugewiesen werden. Gleichermaßen sollten Metriken zusammen ein Zuordnungsmodell und ein Lookback-Fenster festlegen. In diesem Video erfahren Sie, wie Sie diese wichtigen Einstellungen festlegen.
+feature: Datenansichten
+topic: Administration
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
+#  Zuordnungseinstellungen in  [!UICONTROL Data-Ansichten]
 
-#  Zuordnungseinstellungen in  [!UICONTROL Datenansichten ] im Customer Journey Analytics
-
-Beim Konfigurieren von [!UICONTROL Dateneinstellungen] in Customer Journey Analytics können Sie [!UICONTROL Zuordnungseinstellungen] wählen, um zu steuern, wie [!UICONTROL Ansichten] und [!UICONTROL Metriken] zusammenarbeiten. Dieses Video führt Sie durch die Standardeinstellungen, die Optionen und die Interaktion zwischen [!UICONTROL metric] und [!UICONTROL dimension] [!UICONTROL attribute]-Einstellungen.
+Jede Dimension sollte über eine Zuordnungseinstellung (um zu entscheiden, welcher Wert für die Konvertierung gutgeschrieben wird) und eine Ablaufeinstellung (wie lange der Wert erhalten bleibt) verfügen, damit das System weiß, wie den Dimensionswerten Werte Werte zugewiesen werden. Gleichermaßen sollten Metriken zusammen ein Zuordnungsmodell und ein Lookback-Fenster festlegen. In diesem Video erfahren Sie, wie Sie diese wichtigen Einstellungen festlegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Zusätzliche Ressourcen
-
-* [Grundkonfiguration für Data Ansichten](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Dokumentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html) zur Konfiguration von Data Ansichten
