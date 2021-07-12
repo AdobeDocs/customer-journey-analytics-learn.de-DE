@@ -1,28 +1,27 @@
 ---
-title: Dimensionswerte in Data Ansichten einschließen oder ausschließen
-description: Mit dieser Datenkonfigurationsfunktion können Sie Ansichten in Dimensionen filtern, um das Leben Ihrer Analysten bei der Projekterstellung in Customer Journey Analytics zu vereinfachen. Du wirst mir später danken (nachdem dir deine Analysten danken).
+title: Ein- oder Ausschließen von Dimensionswerten in Datenansichten
+description: Mit dieser Konfigurationsfunktion für die Datenansicht können Sie Werte in Dimensionen filtern, um das Leben Ihrer Analysten beim Erstellen von Projekten in Customer Journey Analytics zu vereinfachen. Sie werden mir später danken (nachdem Ihre Analysten Ihnen danken).
 feature: Datenansichten
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332906.jpg
 kt: 7588
-translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 4%
+ht-degree: 19%
 
 ---
 
+# Ein- oder Ausschließen von Dimensionswerten in Datenansichten
 
-# Dimensionswerte in Data Ansichten einschließen oder ausschließen
-
-Mit der Konfigurationsfunktion [!UICONTROL Data Ansicht] können Sie Werte in Dimensionen filtern, um das Leben Ihrer Analysten zu vereinfachen, wenn sie in Customer Journey Analytics Projekte erstellen. Du wirst mir später danken (nachdem dir deine Analysten danken).
+Mit dieser Konfigurationsfunktion [!UICONTROL Datenansicht] können Sie Werte in Dimensionen filtern, um das Leben Ihrer Analysten beim Erstellen von Projekten in Customer Journey Analytics zu vereinfachen. Sie werden mir später danken (nachdem Ihre Analysten Ihnen danken).
 
 >[!VIDEO](https://video.tv.adobe.com/v/332906/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Customer Journey Analytics - Dokumentation zu Data Ansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Dokumentation zu Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
