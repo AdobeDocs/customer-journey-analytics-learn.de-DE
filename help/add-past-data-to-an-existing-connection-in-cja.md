@@ -1,27 +1,26 @@
 ---
-title: hinzufügen Daten an eine bestehende Verbindung in Customer Journey Analytics
-description: In diesem Video erfahren Sie, wie Sie über Verbindungen und Ansichten vergangene Daten (Daten, denen ein vorheriger Zeitstempel zugeordnet ist) in Ihre bestehende Adobe Customer Journey Analytics-Analyse einfügen.
-feature: Connections
+title: Hinzufügen vergangener Daten zu einer vorhandenen Verbindung in Customer Journey Analytics
+description: In diesem Video erfahren Sie, wie Sie mithilfe von Verbindungen und Datenansichten vergangene Daten (Daten, denen ein vorheriger Zeitstempel zugeordnet ist) zu Ihrer bestehenden Adobe Customer Journey Analytics-Analyse hinzufügen.
+feature: Verbindungen
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 8%
+source-wordcount: '100'
+ht-degree: 9%
 
 ---
 
+# Fügen Sie vergangene Daten zu einer vorhandenen [!UICONTROL Verbindung] im Customer Journey Analytics hinzu.
 
-# hinzufügen Daten an eine bestehende [!UICONTROL Verbindung] in Customer Journey Analytics übergeben
-
-In diesem Video erfahren Sie, wie Sie Ihrer bestehenden Customer Journey Analytics-Analyse über [!UICONTROL Verbindungen] und [!UICONTROL Datenverbindungen] vergangene Daten (Daten, denen ein vorheriger Zeitstempel zugeordnet ist) hinzufügen.
+In diesem Video erfahren Sie, wie Sie Ihrer bestehenden Customer Journey Analytics-Analyse vergangene Daten (Daten, denen ein vorheriger Zeitstempel zugeordnet ist) über [!UICONTROL Verbindungen] und [!UICONTROL Datenansichten] hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
 
