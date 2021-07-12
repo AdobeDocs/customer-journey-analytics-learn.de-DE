@@ -1,27 +1,26 @@
 ---
 title: Neue Begriffe und Konzepte in Customer Journey Analytics
-description: In diesem Video besprechen wir Schlüsselbegriffe und Konzepte im Customer Journey Analytics der Adobe, wie sie in Adobe Analytics zu Begriffen und Konzepten passen und wo sie auch in der Benutzeroberfläche des Customer Journey Analytics zu sehen sind.
-feature: CJA Workspace Basics
+description: In diesem Video besprechen wir Schlüsselbegriffe und Konzepte im Adobe Customer Journey Analytics, deren Zuordnung zu Begriffen und Konzepten in Adobe Analytics und darüber, wo sie in der Benutzeroberfläche von Customer Journey Analytics angezeigt werden.
+feature: Grundlagen zum CJA-Arbeitsbereich
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
 
-
 # Neue Begriffe und Konzepte in Customer Journey Analytics
 
-In diesem Video besprechen wir Schlüsselbegriffe und Konzepte in Customer Journey Analytics, wie sie zu Begriffen und Konzepten in Adobe Analytics passen und wo sie auch in der Benutzeroberfläche des Customer Journey Analytics zu sehen sind.
+In diesem Video besprechen wir Schlüsselbegriffe und Konzepte in Customer Journey Analytics, wie sie zu Begriffen und Konzepten in Adobe Analytics zugeordnet sind und wo sie auch in der Benutzeroberfläche von Customer Journey Analytics angezeigt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
