@@ -1,27 +1,26 @@
 ---
-title: Verwendung von Identität durch Customer Journey Analytics
-description: Dieses Video ist kein technischer Tiefgang, sondern ein praktischer Einblick, wie die Identität Ihre Analyse im Customer Journey Analytics der Adobe beeinflusst, inklusive eines Einblicks auf Visualisierungen, die durch das Verbinden von Besucher-IDs über Kanal hinweg möglich sind.
-feature: Identity
+title: So verwendet Customer Journey Analytics Identity
+description: Dieses Video ist kein technischer Vertiefungskurs, sondern ein praktischer Einblick in die Auswirkungen von Identitäten auf Ihre Adobe Customer Journey Analytics-Analyse, einschließlich eines Einblicks auf kanalübergreifende Visualisierungen, die durch das Zuordnen von Besucher-IDs ermöglicht werden.
+feature: Identität
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '100'
+ht-degree: 15%
 
 ---
 
+# So verwendet Customer Journey Analytics [!UICONTROL Identität]
 
-# So verwendet Customer Journey Analytics [!UICONTROL Identity]
-
-Dieses Video ist kein technischer Tiefgang, sondern ein praktischer Einblick in die Auswirkungen von [!UICONTROL identity] auf Ihre Analyse in Customer Journey Analytics, einschließlich eines Kanals [!UICONTROL Visualisierungen], der durch Verbinden von [!UICONTROL Besucher] IDs möglich ist.
+Dieses Video ist kein technischer Vertiefungskurs, sondern ein praktischer Blick darauf, wie [!UICONTROL identity] Ihre Analyse in Customer Journey Analytics beeinflusst, einschließlich eines Betrags der kanalübergreifenden [!UICONTROL Visualisierungen], die durch Zuordnen von [!UICONTROL visitor] IDs möglich sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
