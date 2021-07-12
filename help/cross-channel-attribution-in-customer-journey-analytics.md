@@ -1,6 +1,6 @@
 ---
-title: Kanal-Zuordnung in Customer Journey Analytics
-description: In diesem Video werden wir zeigen, wie Sie Visualisierungen verwenden können, um die Zuordnung (Gutschrift) zu Kanälen im Customer Journey Analytics der Adobe anzuzeigen.
+title: Kanalübergreifende Attribution in Customer Journey Analytics
+description: In diesem Video erfahren Sie, wie Sie mithilfe von Visualisierungen die Kanalgewichtung im Adobe Customer Journey Analytics anzeigen können.
 feature: Attribution
 topics: null
 activity: use
@@ -8,20 +8,19 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 11%
 
 ---
 
+# Kanalübergreifend [!UICONTROL Attribution] im Customer Journey Analytics
 
-# Kanal [!UICONTROL Zuordnung] in Customer Journey Analytics
-
-In diesem Video zeigen wir Ihnen, wie Sie [!UICONTROL Visualisierungen] verwenden können, um [!UICONTROL Zuordnungen] (Gutschrift) über Kanal in Customer Journey Analytics hinweg anzuzeigen.
+In diesem Video werden wir zeigen, wie Sie [!UICONTROL Visualisierungen] verwenden können, um [!UICONTROL Attribution] (Gutschrift) kanalübergreifend in Customer Journey Analytics anzuzeigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
