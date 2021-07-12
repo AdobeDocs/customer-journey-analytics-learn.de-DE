@@ -1,23 +1,22 @@
 ---
-title: Erstellen von Wertbehältern in Data-Ansichten für die Analyse
-description: Beim Konfigurieren einer Data Ansicht in Customer Journey Analytics können Sie eine numerische Dimension festlegen, die in definierte Behälter überführt wird, damit Sie die Anzahl der verfügbaren Elemente auf Zahlenbereiche beschränken können (sehr cool). Dieses Video erläutert die Konfiguration dieser Funktion.
+title: Erstellen von Werte-Buckets in Datenansichten für die Analyse
+description: Beim Konfigurieren einer Datenansicht in Customer Journey Analytics können Sie eine numerische Dimension festlegen, die in definierte Behälter zusammengefasst wird, sodass Sie die Anzahl der für die Tabelle verfügbaren Elemente auf Bereiche mit Zahlen beschränken können (sehr cool). Dieses Video führt Sie durch die Konfiguration dieser Funktion.
 feature: Datenansichten
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332864.jpg
 kt: 7587
-translation-type: tm+mt
-source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
+exl-id: e1126663-afb4-4ba7-b93b-192e990e3000
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
+# Erstellen von Wertegruppen in [!UICONTROL Datenansichten] zur Analyse
 
-# Erstellen von Wertegruppen in [!UICONTROL Data-Ansichten] für die Analyse
-
-Beim Konfigurieren einer [!UICONTROL Data-Ansicht] in Customer Journey Analytics können Sie eine numerische Dimension festlegen, die in definierte Behälter gegliedert wird, sodass Sie die Anzahl der verfügbaren Elemente auf Zahlenbereiche beschränken können (sehr cool). Dieses Video erläutert die Konfiguration dieser Funktion.
+Beim Konfigurieren einer [!UICONTROL Datenansicht] in Customer Journey Analytics können Sie eine numerische Dimension festlegen, die in definierte Behälter zusammengefasst wird, sodass Sie die Anzahl der für die Tabelle verfügbaren Elemente auf Zahlenbereiche beschränken können (sehr cool). Dieses Video führt Sie durch die Konfiguration dieser Funktion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)
