@@ -1,7 +1,7 @@
 ---
-title: Kanalübergreifende Filter in Customer Journey Analytics erstellen
-description: In diesem Video erfahren Sie, wie Sie in Adobe Customer Journey Analytics Filter erstellen, die mehr als eine Datenquelle und mehr als einen Kanal verwenden. Außerdem erfahren Sie, wie diese Filter in Visualisierungen kombiniert werden können.
-feature: Filter
+title: Erstellen kanalübergreifender Filter in Customer Journey Analytics
+description: In diesem Video wird erklärt, wie Sie in Adobe Customer Journey Analytics Filter erstellen, die mehr als eine Datenquelle und mehr als einen Kanal verwenden. Außerdem erfahren Sie, wie diese Filter in Visualisierungen kombiniert werden können.
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
-# Kanalübergreifendes [!UICONTROL Filter] im Customer Journey Analytics erstellen
+# Erstellen kanalübergreifender [!UICONTROL Filter] in Customer Journey Analytics
 
-In diesem Video besprechen wir, wie [!UICONTROL Filter] in Customer Journey Analytics erstellt werden, der mehr als eine Datenquelle und mehr als einen Kanal verwendet. Sie werden auch sehen, wie diese [!UICONTROL Filter] in [!UICONTROL Visualisierungen] kombiniert werden können.
+In diesem Video wird erklärt, wie Sie in Adobe Customer Journey Analytics [!UICONTROL Filter] erstellen, die mehr als eine Datenquelle und einen Kanal verwenden. Außerdem erfahren Sie, wie diese [!UICONTROL Filter] in [!UICONTROL Visualisierungen] kombiniert werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
