@@ -1,7 +1,7 @@
 ---
 title: Einführung in Filter in Customer Journey Analytics
-description: In diesem Video erfahren Sie mehr über Filter und den Customer Journey Analytics Filtergenerator in Adobe .
-feature: Filter
+description: In diesem Video erfahren Sie mehr über Filter und den Filter Builder in Adobe Customer Journey Analytics.
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '63'
+ht-degree: 100%
 
 ---
 
-# Einführung in [!UICONTROL Filter] im Customer Journey Analytics
+# Einführung in [!UICONTROL Filter] in Customer Journey Analytics
 
-In diesem Video erfahren Sie mehr über [!UICONTROL Filter] und den [!UICONTROL Filter Builder] im Customer Journey Analytics.
+In diesem Video erfahren Sie mehr über [!UICONTROL Filter] und den [!UICONTROL Filter Builder] in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
