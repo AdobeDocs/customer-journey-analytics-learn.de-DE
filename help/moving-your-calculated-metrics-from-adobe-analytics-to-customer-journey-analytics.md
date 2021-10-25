@@ -1,7 +1,7 @@
 ---
-title: Verschieben Sie Ihre berechneten Metriken von Adobe Analytics nach Customer Journey Analytics
-description: In diesem Video finden Sie Tipps zum erneuten Erstellen Ihrer berechneten Adobe Analytics-Metriken in Customer Journey Analytics.
-feature: Metriken
+title: Verschieben der berechneten Metriken von Adobe Analytics nach Customer Journey Analytics
+description: In diesem Video erfahren Sie, wie Sie Ihre berechneten Adobe Analytics-Metriken in Customer Journey Analytics erneut verwenden können.
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -13,15 +13,15 @@ role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
-# Verschieben Sie Ihre [!UICONTROL Berechnete Metrik] von Adobe Analytics in den Customer Journey Analytics
+# Verschieben der [!UICONTROL berechneten Metriken] von Adobe Analytics nach Customer Journey Analytics
 
-In diesem Video finden Sie Tipps zum erneuten Erstellen Ihrer Adobe Analytics [!UICONTROL Berechnete Metriken] in Customer Journey Analytics.
+In diesem Video erfahren Sie, wie Sie Ihre in Adobe Analytics [!UICONTROL berechneten Metriken] in Customer Journey Analytics erneut verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
