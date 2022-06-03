@@ -11,7 +11,7 @@ exl-id: 4c05f97d-566b-41c8-a822-56482136b04d
 source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Die Landingpage für Customer Journey Analytics bietet eine Standardansicht Ihre
 
 >[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=de).
