@@ -1,5 +1,5 @@
 ---
-title: Daten verwenden
+title: Arbeiten mit Daten
 description: In diesem Video erfahren Sie, wie Datensatzschemas in Adobe Customer Journey Analytics in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
 feature: Connections
 topics: null
@@ -12,15 +12,15 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # Arbeiten mit Daten in Customer Journey Analytics
 
-In diesem Video erfahren Sie, wie [!UICONTROL Datensatzschemas] in Customer Journey Analytics (CJA) in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
+In diesem Video erfahren Sie, wie [!UICONTROL Datensatz][!UICONTROL schemas] in Customer Journey Analytics (CJA) in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 
