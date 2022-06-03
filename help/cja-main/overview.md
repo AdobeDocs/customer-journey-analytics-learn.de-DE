@@ -9,15 +9,15 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '297'
+ht-degree: 100%
 
 ---
 
 # Überblick
 
-Willkommen auf der Tutorial-Site zu [!DNL Customer Journey Analytics].  Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics schneller als je zuvor kanalübergreifende Kundeneinblicke gewinnen können. Als ersten Schritt
+Willkommen auf der Tutorial-Site zu [!DNL Customer Journey Analytics].  Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics schneller als je zuvor kanalübergreifende Kundeneinblicke gewinnen können.  Als ersten Schritt
 
 * Die neuesten Informationen finden Sie unten im Abschnitt **Neue Funktionen**
 * Die **Auswahl der Mitarbeiter** zeigt einige unserer Lieblingsinhalte
