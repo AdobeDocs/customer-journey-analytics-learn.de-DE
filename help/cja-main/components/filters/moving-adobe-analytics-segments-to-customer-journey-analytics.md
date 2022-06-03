@@ -12,9 +12,9 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -25,4 +25,4 @@ In diesem Video erfahren Sie, wie Sie Ihre Adobe Analytics-[!UICONTROL Segmente]
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
-Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-landing.html).
+Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).
