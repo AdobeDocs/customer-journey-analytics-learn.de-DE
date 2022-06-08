@@ -13,14 +13,14 @@ level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Arbeiten mit Daten in Customer Journey Analytics
 
-In diesem Video erfahren Sie, wie [!UICONTROL Datensatz][!UICONTROL schemas] in Customer Journey Analytics (CJA) in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
+In diesem Video erfahren Sie, wie [!UICONTROL Datensatz] [!UICONTROL schemas] in Customer Journey Analytics (CJA) in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 

@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 95%
       + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + Dashboards (Scorecards) {#dashboards}
-   + [Erstellen einer Mobile-Scorecard](dashboards/create-a-mobile-scorecard.md)
+   + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
    + [Unterstützung von Führungskräften beim Zugriff auf mobile Scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Berechnete Metriken {#calc-metrics}
    + [Einführung in berechnete Metriken in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
