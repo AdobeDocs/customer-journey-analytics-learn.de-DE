@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
+source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 98%
+source-wordcount: '265'
+ht-degree: 95%
 
 ---
 
@@ -48,8 +48,11 @@ ht-degree: 98%
 + Komponenten {#components}
    + Filter (Segmentierung) {#filters}
       + [Einführung in Filter](components/filters/introduction-to-filters-in-cja.md)
+      + [Schnellfilter erstellen](components/filters/create-a-quick-filter.md)
       + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + Anmerkungen {#annotations}
+      + [Anmerkung erstellen](components/create-an-annotation.md)
 + Dashboards (Scorecards) {#dashboards}
    + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
    + [Unterstützung von Führungskräften beim Zugriff auf mobile Scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
