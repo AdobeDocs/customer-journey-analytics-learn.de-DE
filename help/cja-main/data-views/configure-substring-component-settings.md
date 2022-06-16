@@ -1,23 +1,23 @@
 ---
-title: Teilzeichenfolgen-Komponenteneinstellungen konfigurieren
-description: Erfahren Sie, wie Sie mit Methoden zur Zeichenfolgenbearbeitung den gewünschten Teil der Dimensionswerte in Customer Journey Analytics-Berichten abrufen können. Nach der Anwendung erfolgt die Datenumwandlung rückwirkend und sofort.
+title: Konfigurieren der Komponenteneinstellungen von Teilzeichenfolgen
+description: Erfahren Sie, wie Sie mit Methoden zur Zeichenfolgenmanipulation den gewünschten Teil der Dimensionswerte in Customer Journey Analytics-Berichten erhalten. Nach der Anwendung erfolgt die Datenumwandlung unverzüglich und rückwirkend.
 feature: Data Views
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 343526.jpg
 kt: 10451
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+exl-id: 0728ed4c-9a38-4e8f-8b08-175c68c36ea6
+source-git-commit: 47b47d26c68cf787aeb13769c5ae3f200b364abc
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
+# Konfigurieren der Komponenteneinstellungen von Teilzeichenfolgen
 
-# Teilzeichenfolgen-Komponenteneinstellungen konfigurieren
-
-Erfahren Sie, wie Sie mit Methoden zur Zeichenfolgenbearbeitung den gewünschten Teil der Dimensionswerte in Customer Journey Analytics-Berichten abrufen können. Nach der Anwendung erfolgt die Datenumwandlung rückwirkend und sofort.
+Erfahren Sie, wie Sie mit Methoden zur Zeichenfolgenmanipulation den gewünschten Teil der Dimensionswerte in Customer Journey Analytics-Berichten erhalten. Nach der Anwendung erfolgt die Datenumwandlung unverzüglich und rückwirkend.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
