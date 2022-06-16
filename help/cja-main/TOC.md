@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
    + [Grundlagen zu Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architektur {#architecture}
++ Architektur  {#architecture}
    + [Architektur und Integrationen](architecture/architecture-and-integrations-of-cja.md)
 + Datenvorbereitung und -planung {#data-prep}
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
@@ -35,7 +35,7 @@ ht-degree: 95%
    + [Konfigurieren von Komponenteneinstellungen in Datenansichten](data-views/configuring-component-settings-in-data-views.md)
    + [Einstellungen zum Komponententyp in Datenansichten](data-views/component-type-settings-in-data-views.md)
    + [Formatieren von Metriken in Datenansichten](data-views/formatting-metrics-in-data-views.md)
-   + [Teilzeichenfolgen-Komponenteneinstellungen konfigurieren](data-views/configure-substring-component-settings.md)
+   + [Konfigurieren der Komponenteneinstellungen von Teilzeichenfolgen](data-views/configure-substring-component-settings.md)
    + [Ein- oder Ausschließen von Metrikwerten in Datenansichten](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Erstellen von Werte-Behältern in Datenansichten für die Analyse](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Ein- oder Ausschließen von Dimensionswerten in Datenansichten](data-views/include-or-exclude-dimension-values-in-data-views.md)
