@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
@@ -51,8 +51,10 @@ ht-degree: 100%
       + [Erstellen eines Schnellfilters](components/filters/create-a-quick-filter.md)
       + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + Anmerkungen {#annotations}
-      + [Erstellen einer Anmerkung](components/create-an-annotation.md)
++ Bedienfelder {#panels}
+   + [Konfigurieren des Bedienfelds &quot;Nächstes und vorheriges Element&quot;](panels/configure-next-previous-item-panel.md)
++ Anmerkungen {#annotations}
+   + [Erstellen einer Anmerkung](components/create-an-annotation.md)
 + Dashboards (Scorecards) {#dashboards}
    + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
    + [Unterstützung von Führungskräften beim Zugriff auf mobile Scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
