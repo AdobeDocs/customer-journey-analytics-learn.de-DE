@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 97%
       + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + Bedienfelder {#panels}
-   + [Konfigurieren des Bedienfelds &quot;Nächstes und vorheriges Element&quot;](panels/configure-next-previous-item-panel.md)
+   + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](panels/configure-next-previous-item-panel.md)
 + Anmerkungen {#annotations}
    + [Erstellen einer Anmerkung](components/create-an-annotation.md)
 + Dashboards (Scorecards) {#dashboards}
