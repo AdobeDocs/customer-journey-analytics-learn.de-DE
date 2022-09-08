@@ -1,6 +1,6 @@
 ---
 title: Zielgruppenveröffentlichung für Customer Journey Analytics
-description: Mit Customer Journey Analytics können Sie Zielgruppen, die Sie aus Ihrer Analyse entdecken, im Echtzeit-Kundenprofil von Adobe Experience Platform für die Segmentaktivierung mit Adobe Real-time Customer Data Platform oder für eine personalisiertere Journey-Orchestrierung mit Adobe Journey Optimizer veröffentlichen. (Sollte zwischen 60 und 160 Zeichen, jedoch 297 Zeichen lang sein)
+description: Mit Customer Journey Analytics können Sie die in der Analyse ermittelten Zielgruppen im Echtzeit-Kundenprofil von Adobe Experience Platform veröffentlichen, um die Segmente mit der Adobe Real-Time Customer Data Platform zu aktivieren oder eine personalisierte Journey-Orchestrierung mit Adobe Journey Optimizer durchzuführen. (sollte zwischen 60 und 160 Zeichen lang sein, beträgt aber 297 Zeichen)
 feature: Components
 topic: Integrations
 role: User
@@ -10,14 +10,14 @@ thumbnail: 346759.jpeg
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 14%
+ht-degree: 94%
 
 ---
 
 
-# Zielgruppenveröffentlichung für Customer Journey Analytics
+# Zielgruppen-Publishing für Customer Journey Analytics
 
-Mit Customer Journey Analytics können Sie Zielgruppen, die Sie aus Ihrer Analyse entdecken, im Echtzeit-Kundenprofil von Adobe Experience Platform für die Segmentaktivierung mit Adobe Real-time Customer Data Platform oder für eine personalisiertere Journey-Orchestrierung mit Adobe Journey Optimizer veröffentlichen.
+Mit Customer Journey Analytics können Sie die in der Analyse ermittelten Zielgruppen im Echtzeit-Kundenprofil von Adobe Experience Platform veröffentlichen, um die Segmente mit der Adobe Real-Time Customer Data Platform zu aktivieren oder eine personalisierte Journey-Orchestrierung mit Adobe Journey Optimizer durchzuführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
