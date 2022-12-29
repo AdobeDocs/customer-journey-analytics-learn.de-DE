@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
    + [Grundlagen zu Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architektur  {#architecture}
++ Architektur {#architecture}
    + [Architektur und Integrationen](architecture/architecture-and-integrations-of-cja.md)
 + Datenvorbereitung und -planung {#data-prep}
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
@@ -58,7 +58,7 @@ ht-degree: 95%
       + [Zielgruppenveröffentlichung](components/audiences/audience-publishing-for-cja.md)
 + Bedienfelder {#panels}
    + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](panels/configure-next-previous-item-panel.md)
-   + [Verwenden des Experimentfensters](panels/use-the-experimentation-panel.md)
+   + [Verwenden des Experimentier-Bedienfelds](panels/use-the-experimentation-panel.md)
 + Anmerkungen {#annotations}
    + [Erstellen einer Anmerkung](components/create-an-annotation.md)
 + Dashboards (Scorecards) {#dashboards}
@@ -70,7 +70,7 @@ ht-degree: 95%
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Unterstützung von Datumsfeldern nutzen](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Nutzen von Datumsfeldern](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=de)
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=de)
