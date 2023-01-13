@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
    + [Grundlagen zu Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architektur {#architecture}
++ Architektur  {#architecture}
    + [Architektur und Integrationen](architecture/architecture-and-integrations-of-cja.md)
 + Datenvorbereitung und -planung {#data-prep}
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
@@ -67,7 +67,7 @@ ht-degree: 97%
 + Exportieren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder für Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-      + [Arbeitsmappen für Customer Journey Analytics mit Report Builder planen](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
+      + [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
