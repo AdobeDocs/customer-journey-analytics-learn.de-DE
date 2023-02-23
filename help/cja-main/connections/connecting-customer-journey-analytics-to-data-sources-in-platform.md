@@ -1,30 +1,23 @@
 ---
-title: Customer Journey Analytics mit Datenquellen in Platform verbinden
-description: Mit Adobe Customer Journey Analytics (CJA) erhalten Sie Analysis Workspace zusätzlich zu den Datensätzen aus Adobe Experience Platform, damit Sie eine kanalübergreifende Analyse Ihrer Daten durchführen können. In diesem Video erfahren Sie, wie Sie die Verbindung zwischen CJA und den Platform-Datensätzen herstellen. Sie lernen dabei, wie Sie eine Verbindung erstellen, um Daten von Platform in Customer Journey Analytics zu streamen.
+title: Customer Journey Analytics mit Experience Platform-Datenquellen verbinden
+description: Customer Journey Analytics nutzt in Adobe Experience Platform erfasste Datensätze. Bevor Sie mit der Datenanalyse in Workspace beginnen, müssen Sie eine Verbindung erstellen.
 feature: Connections
-topics: null
 activity: setup
 doc-type: feature video
-team: Technical Marketing
-thumbnail: 30140.jpg
-kt: 3954
 role: Data Engineer, Data Architect
 level: Intermediate
+thumbnail: 30140.jpg
+kt: 3954
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: ht
-source-wordcount: '158'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics mit [!UICONTROL Datenquellen] in Platform verbinden
+# Customer Journey Analytics mit Experience Platform-Datenquellen verbinden
 
-Mit Customer Journey Analytics (CJA) erhalten Sie Analysis Workspace zusätzlich zu den [!UICONTROL Datensätzen] aus Adobe Experience Platform, damit Sie eine kanalübergreifende Analyse Ihrer Daten durchführen können. In diesem Video erfahren Sie, wie Sie die [!UICONTROL Verbindung] zwischen CJA und der Platform-[!UICONTROL Datensätzen] herstellen. Sie lernen dabei, wie Sie eine [!UICONTROL Verbindung] erstellen, um Daten von Platform in Customer Journey Analytics zu streamen.
+Customer Journey Analytics nutzt in Adobe Experience Platform erfasste Datensätze. Bevor Sie mit der Datenanalyse in Workspace beginnen, müssen Sie eine Verbindung erstellen. Erfahren Sie mehr über die Customer Journey Analytics-Architektur, Anwendungsfälle, Planung, erforderliche Berechtigungen und die Schritte zum Erstellen einer Verbindung.
 
->[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Zusätzliche Ressourcen
-
-* [Erstellen von Datensätzen und Aufnehmen von Daten in Adobe Experience Platform – Video](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=de)
-* [Dokumentation zu Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de)
+>[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)

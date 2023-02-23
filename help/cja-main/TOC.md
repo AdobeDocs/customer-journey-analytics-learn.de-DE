@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 100%
+source-wordcount: '299'
+ht-degree: 95%
 
 ---
 
@@ -23,9 +23,8 @@ ht-degree: 100%
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
    + [Aufnehmen, Zuordnen und Transformieren von Adobe Analytics-Daten](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Verbindungen {#connections}
-   + [Verbinden mit Datenquellen in Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [Verbindungsdetails in CJA](connections/connections-details-experience-in-cja.md)
-   + [Erstellen und Bearbeiten von Verbindungen](connections/cja-connections-creation-and-edit-experience.md)
+   + [Herstellen einer Verbindung zu Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Verbindungseinstellungen anzeigen, beheben und ändern](connections/connections-details-experience-in-cja.md)
    + [Hinzufügen historischer Daten zu einer vorhandenen Verbindung](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
