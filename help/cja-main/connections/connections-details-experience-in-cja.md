@@ -1,6 +1,6 @@
 ---
-title: Verbindungseinstellungen anzeigen, beheben und ändern
-description: Mit dem Connections Manager können Sie den Status der Datensatzerfassung Ihrer Verbindung überprüfen. Diese Benutzeroberfläche informiert Sie auch darüber, wann Daten für die Analyse in Workspace verfügbar sind.
+title: Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen
+description: Mit dem Verbindungs-Manager können Sie den Status der Datensatzaufnahme Ihrer Verbindung überprüfen. Diese Benutzeroberfläche informiert Sie auch darüber, wann Daten für den Analysebeginn in Workspace verfügbar sind.
 feature: Connections
 topic: Administration
 doc-type: feature video
@@ -10,14 +10,14 @@ thumbnail: 342097.jpg
 kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
 source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Verbindungseinstellungen anzeigen, beheben und ändern
+# Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen
 
-Mit dem Connections Manager können Sie den Status der Datensatzerfassung Ihrer Verbindung überprüfen. Diese Benutzeroberfläche informiert Sie auch darüber, wann Daten für die Analyse in Workspace verfügbar sind. Erfahren Sie, wie Sie Datendiskrepanzen aufgrund einer Fehlkonfiguration identifizieren, die Datenimportdaten verwalten und Datensätze aus Verbindungen entfernen können.
+Mit dem Verbindungs-Manager können Sie den Status der Datensatzaufnahme Ihrer Verbindung überprüfen. Diese Benutzeroberfläche informiert Sie auch darüber, wann Daten für den Analysebeginn in Workspace verfügbar sind. Erfahren Sie, wie Sie Datendiskrepanzen aufgrund einer Fehlkonfiguration identifizieren, die Datenimporttermine verwalten und Datensätze aus Verbindungen entfernen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
