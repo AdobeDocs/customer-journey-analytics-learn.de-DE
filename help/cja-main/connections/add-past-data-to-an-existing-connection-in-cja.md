@@ -11,14 +11,14 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: efed2704898d311c1de059721eeb076c7aa941e2
+source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Hinzufügen neuer Daten zu einer Verbindung [!UICONTROL Verbindung] in Customer Journey Analytics
+# Hinzufügen neuer Daten zu einer Verbindung in Customer Journey Analytics
 
 Nutzen Sie Ihre Analyse optimal, indem Sie neue Daten aus anderen Kanälen zu einer Customer Journey Analytics-Verbindung hinzufügen. Außerdem sollten Sie die Anforderungen für die Zusammenführung dieser neuen Daten und die Auswirkungen auf Analysen und Berichte verstehen, die mithilfe der Konfigurationseinstellungen behandelt werden.
 
