@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 10ec6e677c3e8ae5960d98e9c2fa98fdc9f06132
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
    + [Grundlagen zu Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architektur  {#architecture}
++ Architektur {#architecture}
    + [Architektur und Integrationen](architecture/architecture-and-integrations-of-cja.md)
 + Datenvorbereitung und -planung {#data-prep}
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
@@ -53,7 +53,7 @@ ht-degree: 97%
    + Berechnete Metriken {#calc-metrics}
       + [Einführung in berechnete Metriken in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Verschieben der berechneten Metriken von Adobe Analytics nach Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
-   + Zielgruppen {#audiences}
+   + Audiences {#audiences}
       + [Zielgruppenveröffentlichung](components/audiences/audience-publishing-for-cja.md)
 + Bedienfelder {#panels}
    + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](panels/configure-next-previous-item-panel.md)
