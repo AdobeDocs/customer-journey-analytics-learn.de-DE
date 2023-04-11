@@ -11,8 +11,8 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: ht
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video wird erklärt, wie Sie in Adobe Customer Journey Analytics [!UICONTROL Filter] erstellen, die mehr als eine Datenquelle und einen Kanal verwenden. Außerdem erfahren Sie, wie diese [!UICONTROL Filter] in [!UICONTROL Visualisierungen] kombiniert werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).
