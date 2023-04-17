@@ -4,8 +4,8 @@ user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/over
 type: Tutorial
 source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
    + [Konfigurieren der Optionen ohne Wert in Datenansichten](data-views/configure-no-value-options-in-data-views.md)
    + [Attributionseinstellungen in Datenansichten](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace-Projekt {#workspace-projects}
+   + Workspace-Projekt {#workspace-projects}
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Neues Projekt erstellen](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualisierungen {#visualizations}
