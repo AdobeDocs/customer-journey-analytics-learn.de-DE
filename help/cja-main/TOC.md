@@ -4,8 +4,8 @@ user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/over
 type: Tutorial
 source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 100%
 
 ---
 
