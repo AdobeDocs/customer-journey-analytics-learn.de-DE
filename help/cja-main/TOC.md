@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
+source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 95%
+source-wordcount: '338'
+ht-degree: 93%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 95%
    + Workspace-Projekte {#workspace-projects}
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Erstellen eines neuen Projekts](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + Kuratieren und freigeben {#curate-and-share}
+      + [Mit anderen Benutzern in Analysis Workspace teilen](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
 + Visualisierungen {#visualizations}
    + [Erstellen von kanalübergreifenden Visualisierungen](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Kanalübergreifende Attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
