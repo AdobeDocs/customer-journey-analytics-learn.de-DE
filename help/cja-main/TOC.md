@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 79%
+source-wordcount: '388'
+ht-degree: 77%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 79%
    + Workspace-Projekte {#workspace-projects}
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Erstellen eines neuen Projekts](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + Bedienfelder {#panels}
+      + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Verwenden des Experimentier-Bedienfelds](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + Visualisierungen {#visualizations}
+      + [Erstellen von kanalübergreifenden Visualisierungen](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [Kanalübergreifende Attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [Intelligente Beschriftungen erstellen](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Bereichsvisualisierungen hinzufügen](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Hinzufügen von Balkenvisualisierungen](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Visualisierungen von Aufzählungsdiagrammen hinzufügen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [Ringvisualisierungen hinzufügen](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Linienvisualisierungen hinzufügen](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Zuordnungsvisualisierung verwenden](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Zusammenfassende Visualisierungen verwenden](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Textvisualisierungen hinzufügen](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [Streudiagramm-Visualisierung verwenden](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Baumdiagrammdarstellung hinzufügen](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Erstellen von vollständig gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + Anmerkungen {#annotations}
+      + [Erstellen einer Anmerkung](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratieren und freigeben {#curate-and-share}
       + [Mit anderen Benutzern in Analysis Workspace teilen](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ Visualisierungen {#visualizations}
-   + [Erstellen von kanalübergreifenden Visualisierungen](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [Kanalübergreifende Attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Intelligente Beschriftungen erstellen](visualizations/intelligent-captions.md)
-   + [Bereichsvisualisierungen hinzufügen](visualizations/add-area-visualizations.md)
-   + [Hinzufügen von Balkenvisualisierungen](visualizations/add-bar-visualizations.md)
-   + [Visualisierungen von Aufzählungsdiagrammen hinzufügen](visualizations/add-bullet-graph-visualizations.md)
-   + [Ringvisualisierungen hinzufügen](visualizations/add-donut-visualizations.md)
-   + [Linienvisualisierungen hinzufügen](visualizations/add-line-visualizations.md)
-   + [Zuordnungsvisualisierung verwenden](visualizations/use-map-visualization.md)
-   + [Zusammenfassende Visualisierungen verwenden](visualizations/use-summary-visualizations.md)
-   + [Textvisualisierungen hinzufügen](visualizations/add-text-visualizations.md)
-   + [Streudiagramm-Visualisierung verwenden](visualizations/use-scatterplot-visualizations.md)
-   + [Baumdiagrammdarstellung hinzufügen](visualizations/add-treemap-visualizations.md)
-   + [Erstellen von vollständig gestapelten Visualisierungen](visualizations/create-stacked-visualizations.md)
+   + Tipps und Tricks {#tips-and-tricks}
+      + [Dynamische Dropdown-Filter erstellen](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Komponenten {#components}
    + Filter (Segmentierung) {#filters}
       + [Filterübersicht](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 79%
       + [Zielgruppenveröffentlichung](components/audiences/audience-publishing-for-cja.md)
    + Datenwörterbuch {#data-dictionary}
       + [Datenwörterbuch verwenden](components/data-dictionary/use-data-dictionary.md)
-+ Bedienfelder {#panels}
-   + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](panels/configure-next-previous-item-panel.md)
-   + [Verwenden des Experimentier-Bedienfelds](panels/use-the-experimentation-panel.md)
-+ Anmerkungen {#annotations}
-   + [Erstellen einer Anmerkung](components/create-an-annotation.md)
 + Dashboards (Scorecards) {#dashboards}
    + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
    + [Unterstützung von Führungskräften mit mobilen Scorecard-Zugriff](dashboards/assist-executives-to-access-mobile-scorecards.md)
