@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13674
 thumbnail: 3421664.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Wachstumsanalyse der Nettonutzer
 
-Erfahren Sie, wie Sie die **Netto-Wachstumsansicht** in Adobe Product Analytics, der Einblicke in die Rate bietet, mit der Sie in einem bestimmten Zeitraum Benutzer gewinnen oder verlieren.
+Erfahren Sie, wie Sie die **Netto-Wachstumsansicht** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), der Einblicke in die Rate bietet, mit der Sie Benutzer über einen bestimmten Zeitraum gewinnen oder verlieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
