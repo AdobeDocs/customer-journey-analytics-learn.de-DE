@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 + Datenvorbereitung und -planung {#data-prep}
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
    + [Aufnehmen, Zuordnen und Transformieren von Adobe Analytics-Daten](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
-   + [Adobe Analytics-Klassifizierungsdaten erfassen und verwenden](data-prep/ingest-and-use-analytics-classifications.md)
+   + [Aufnehmen und Verwenden von Klassifizierungsdaten von Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
 + Verbindungen {#connections}
    + [Verbinden mit Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen](connections/connections-details-experience-in-cja.md)
@@ -36,7 +36,7 @@ ht-degree: 70%
    + [Allgemeine Konfiguration für Datenansichten](data-views/basic-configuration-for-data-views.md)
    + [Konfigurieren von Komponenteneinstellungen in Datenansichten](data-views/configuring-component-settings-in-data-views.md)
    + [Einstellungen zum Komponententyp in Datenansichten](data-views/component-type-settings-in-data-views.md)
-   + [abgeleitete Felder erstellen](data-views/derived-fields-in-cja.md)
+   + [Erstellen abgeleiteter Felder](data-views/derived-fields-in-cja.md)
    + [Formatieren von Metriken in Datenansichten](data-views/formatting-metrics-in-data-views.md)
    + [Konfigurieren der Komponenteneinstellungen von Teilzeichenfolgen](data-views/configure-substring-component-settings.md)
    + [Ein- oder Ausschließen von Metrikwerten in Datenansichten](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -55,44 +55,44 @@ ht-degree: 70%
    + Visualisierungen {#visualizations}
       + [Erstellen von kanalübergreifenden Visualisierungen](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Kanalübergreifende Attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-      + [Intelligente Beschriftungen erstellen](analysis-workspace/visualizations/intelligent-captions.md)
-      + [Bereichsvisualisierungen hinzufügen](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Erstellen intelligenter Beschriftungen](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Hinzufügen von Bereichsvisualisierungen](analysis-workspace/visualizations/add-area-visualizations.md)
       + [Hinzufügen von Balkenvisualisierungen](analysis-workspace/visualizations/add-bar-visualizations.md)
-      + [Visualisierungen von Aufzählungsdiagrammen hinzufügen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
-      + [Ringvisualisierungen hinzufügen](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [Linienvisualisierungen hinzufügen](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Zuordnungsvisualisierung verwenden](analysis-workspace/visualizations/use-map-visualization.md)
-      + [Zusammenfassende Visualisierungen verwenden](analysis-workspace/visualizations/use-summary-visualizations.md)
-      + [Textvisualisierungen hinzufügen](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [Streudiagramm-Visualisierung verwenden](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Baumdiagrammdarstellung hinzufügen](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Hinzufügen von Säulendiagramm-Visualisierungen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [Hinzufügen von Ringvisualisierungen](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Hinzufügen von Linienvisualisierungen](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Verwenden der Zuordnungsvisualisierung](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Verwenden von zusammenfassenden Visualisierungen](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [Verwenden der Streudiagramm-Visualisierung](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Hinzufügen der Baumdiagramm-Visualisierung](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Erstellen von vollständig gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + Anmerkungen {#annotations}
       + [Erstellen einer Anmerkung](analysis-workspace/annotations/create-an-annotation.md)
-   + Kuratieren und freigeben {#curate-and-share}
-      + [Mit anderen Benutzern in Analysis Workspace teilen](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + Kuratieren und Freigeben {#curate-and-share}
+      + [Freigeben für alle in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tipps und Tricks {#tips-and-tricks}
-      + [Dynamische Dropdown-Filter erstellen](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Erstellen von dynamischen Dropdown-Filtern](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Übersicht über Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Geführte Analyse {#guided-analysis}
    + Wirkung {#impact}
-      + [Releasewirkungsanalyse](guided-analysis/impact/release-impact-analysis.md)
+      + [Release-Wirkungsanalyse](guided-analysis/impact/release-impact-analysis.md)
       + [Wirkungsanalyse der ersten Verwendung](guided-analysis/impact/first-use-impact-analysis.md)
    + Trichter {#funnel}
-      + [Trichterreibungsanalyse](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [Trichterkonversionstrends-Analyse](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+      + [Trichter-Reibungsanalyse](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [Trichter-Konversions-Trend-Analyse](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + Benutzerwachstum {#user-growth}
-      + [Wachstumsanalyse aktiver Benutzer](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Wachstumsanalyse der Nettonutzer](guided-analysis/user-growth/net-user-growth-analysis.md)
+      + [Wachstumsanalyse aktiver Benutzenden](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Wachstumsanalyse der Nettonutzenden](guided-analysis/user-growth/net-user-growth-analysis.md)
    + Trends {#trends}
-      + [Analyse von Nutzungstrends](guided-analysis/trends/usage-trends-analysis.md)
+      + [Analyse von Nutzungs-Trends](guided-analysis/trends/usage-trends-analysis.md)
 + Komponenten {#components}
    + Filter (Segmentierung) {#filters}
       + [Filterübersicht](components/filters/introduction-to-filters-in-cja.md)
       + [Erstellen eines Schnellfilters](components/filters/create-a-quick-filter.md)
       + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Filter als Dimensionen verwenden](components/filters/use-filters-as-dimensions.md)
+      + [Verwenden von Filtern als Dimensionen](components/filters/use-filters-as-dimensions.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Berechnete Metriken {#calc-metrics}
       + [Einführung in berechnete Metriken in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -100,10 +100,10 @@ ht-degree: 70%
    + Audiences {#audiences}
       + [Zielgruppenveröffentlichung](components/audiences/audience-publishing-for-cja.md)
    + Datenwörterbuch {#data-dictionary}
-      + [Datenwörterbuch verwenden](components/data-dictionary/use-data-dictionary.md)
+      + [Verwenden des Datenwörterbuchs](components/data-dictionary/use-data-dictionary.md)
 + Dashboards (Scorecards) {#dashboards}
    + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
-   + [Unterstützung von Führungskräften mit mobilen Scorecard-Zugriff](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Unterstützung von Führungskräften mit Zugriff auf mobile Scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportieren {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder für Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -111,8 +111,8 @@ ht-degree: 70%
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Unterstützung von Datumsfeldern verwenden](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Verwenden der Datenfeld-Unterstützung](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=de)
-   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
+   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=de)
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=de)
