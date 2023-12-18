@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 99%
+source-wordcount: '432'
+ht-degree: 94%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 99%
    + [Verbinden mit Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen](connections/connections-details-experience-in-cja.md)
    + [Hinzufügen neuer Daten zu einer Verbindung](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [CJA-Suche für Such- und Profildaten](connections/cja-lookup-data.md)
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
@@ -118,5 +119,5 @@ ht-degree: 99%
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=de){target=_blank}
-   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=de){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=de){target=_blank}
+   + [Szenario zur digitalen Verhaltensdatenkonsolidierung](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=de){target=_blank}
+   + [Journey der Ablenkung](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=de){target=_blank}
