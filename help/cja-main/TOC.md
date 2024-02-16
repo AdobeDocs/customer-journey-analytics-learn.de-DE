@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 93%
    + [Verbinden mit Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen](connections/connections-details-experience-in-cja.md)
    + [Hinzufügen neuer Daten zu einer Verbindung](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [CJA-Suche für Such- und Profildaten](connections/cja-lookup-data.md)
+   + [CJA-Suche nach Lookup- und Profildaten](connections/cja-lookup-data.md)
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
-   + [Übersicht über das Stitching](visitor-id/overview-of-stitching.md)
+   + [Überblick über Zuordnung ](visitor-id/overview-of-stitching.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Allgemeine Konfiguration für Datenansichten](data-views/basic-configuration-for-data-views.md)
@@ -120,5 +120,5 @@ ht-degree: 93%
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=de){target=_blank}
-   + [Szenario zur digitalen Verhaltensdatenkonsolidierung](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=de){target=_blank}
-   + [Journey der Ablenkung](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=de){target=_blank}
+   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=de){target=_blank}
+   + [Szenario zur Analyse der Anrufumleitungs-Journey](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=de){target=_blank}
