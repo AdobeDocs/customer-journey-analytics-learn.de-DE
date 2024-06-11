@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 99%
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
    + [Überblick über Zuordnung ](visitor-id/overview-of-stitching.md)
-   + [Übersicht über die grafisch basierte Zuordnung](visitor-id/graph-based-stitching-overview.md)
+   + [Überblick über die diagrammbasierte Zuordnung](visitor-id/graph-based-stitching-overview.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Allgemeine Konfiguration für Datenansichten](data-views/basic-configuration-for-data-views.md)
