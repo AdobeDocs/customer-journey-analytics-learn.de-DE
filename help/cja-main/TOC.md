@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: bd5225b31edace77b78e1a8b80ec9fcdc88ba6cc
+source-git-commit: ddf807b7f0408990bac8420d35d2243b5a4a15bc
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 99%
+source-wordcount: '466'
+ht-degree: 97%
 
 ---
 
@@ -119,6 +119,8 @@ ht-degree: 99%
    + Report Builder {#report-builder}
       + [Report Builder für Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
++ Experience Platform-Integration {#experience-platform-integration}
+   + [Verbesserte Berichterstellung für Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
