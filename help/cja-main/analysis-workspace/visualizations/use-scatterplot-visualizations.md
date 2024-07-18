@@ -1,6 +1,6 @@
 ---
-title: Verwendung [!UICONTROL Streudiagramm] Visualisierungen in [!DNL Analysis Workspace] Projekte
-description: Erfahren Sie, wie Sie die [!UICONTROL Streudiagramm] Visualisierung in [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics].
+title: Verwenden von [!UICONTROL Streudiagramm] -Visualisierungen in [!DNL Analysis Workspace] Projekten
+description: Erfahren Sie, wie Sie die [!UICONTROL Streudiagramm] -Visualisierung in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] verwenden.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13428
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Verwendung [!UICONTROL Streudiagramm] Visualisierungen in [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics]
+# [!UICONTROL Streudiagramm] -Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] verwenden
 
-Erfahren Sie, wie Sie die [!UICONTROL Streudiagramm] Visualisierung in [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics]. Diese Visualisierung zeigt die Beziehung zwischen Dimensionselementen und bis zu drei Metriken.
+Erfahren Sie, wie Sie die [!UICONTROL Streudiagramm] -Visualisierung in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] verwenden. Diese Visualisierung zeigt die Beziehung zwischen Dimensionselementen und bis zu drei Metriken.
 
 >[!NOTE]
 >
->Die [!DNL Analysis Workspace] -Benutzeroberfläche und -Funktionen sind in allen [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics].
+>Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Weitere Informationen finden Sie unter [!UICONTROL Streudiagramm] Visualisierungen, besuchen Sie die [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Weitere Informationen zu [!UICONTROL Streudiagramm] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).

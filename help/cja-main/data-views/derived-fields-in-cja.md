@@ -1,6 +1,6 @@
 ---
-title: Erstellen abgeleiteter Felder in Customer Journey Analytics
-description: Abgeleitete Felder sind eine leistungsstarke Funktion, mit der Benutzer direkt komplexe Datenmanipulationen über einen anpassbaren Regel-Builder erstellen und die Logik anschließend rückwirkend auf ihre Berichterstellung anwenden können. So sparen Sie erheblich Zeit, um sicherzustellen, dass die Daten in einem für Berichte, Analysen und Aktionen verwendbaren Format vorliegen.
+title: Erstellen abgeleiteter Felder auf Customer Journey Analytics
+description: Abgeleitete Felder sind eine leistungsstarke Funktion, mit der Benutzer direkt komplexe Datenmanipulationen über einen anpassbaren Regel-Builder erstellen und die Logik anschließend rückwirkend auf ihre Berichterstellung anwenden können. Dadurch sparen Sie erheblich Zeit, um sicherzustellen, dass die Daten in einem für Berichte, Analysen und Aktionen verwendbaren Format vorliegen.
 feature: Data Views
 role: Admin, User
 level: Intermediate
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13438
 thumbnail: 3420258.jpeg
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 7%
+source-wordcount: '179'
+ht-degree: 4%
 
 ---
 
-
-# Erstellen abgeleiteter Felder in Customer Journey Analytics
+# Erstellen abgeleiteter Felder auf Customer Journey Analytics
 
 Erfahren Sie, wie Sie abgeleitete Felder erstellen, um mithilfe eines anpassbaren Regel-Builders im Handumdrehen komplexe Datenmanipulationen zu erstellen und die Logik anschließend rückwirkend auf ihre Berichterstellung anzuwenden. Dies kann erheblich Zeit sparen, um sicherzustellen, dass Daten in einem für Berichte, Analysen und Aktionen verwendbaren Format vorliegen.
 

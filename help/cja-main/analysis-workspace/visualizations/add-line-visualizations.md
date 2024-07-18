@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen [!UICONTROL line] Visualisierungen zu [!DNL Analysis Workspace] Projekte
-description: Erfahren Sie, wie Sie [!UICONTROL line] Visualisierungen zu [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics].
+title: '[!UICONTROL line] -Visualisierungen zu [!DNL Analysis Workspace] Projekten hinzufügen'
+description: Erfahren Sie, wie Sie [!UICONTROL line] -Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13406
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 8d3b23b0-a542-4aaf-99fc-d4de9d11585f
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '65'
+ht-degree: 1%
 
 ---
 
-# Hinzufügen [!UICONTROL line] Visualisierungen zu [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics]
+# [!UICONTROL Linie] Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen
 
-Erfahren Sie, wie Sie [!UICONTROL line] Visualisierungen in [!DNL Analysis Workspace] Projekte in [!DNL Customer Journey Analytics]. Diese Visualisierung stellt Metriken anhand einer Zeile dar, die angibt, wie sich Werte im Laufe der Zeit ändern.
+Erfahren Sie, wie Sie [!UICONTROL line] -Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung stellt Metriken anhand einer Zeile dar, die angibt, wie sich Werte im Laufe der Zeit ändern.
 
 >[!NOTE]
 >
->Die [!DNL Analysis Workspace] -Benutzeroberfläche und -Funktionen sind in allen [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics].
+>Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Weitere Informationen finden Sie unter [!UICONTROL line] Visualisierungen, besuchen Sie die [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=de).
+Weitere Informationen zu [!UICONTROL line] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=de).

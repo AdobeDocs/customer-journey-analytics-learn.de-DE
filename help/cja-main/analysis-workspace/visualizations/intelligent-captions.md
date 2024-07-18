@@ -1,5 +1,5 @@
 ---
-title: Intelligente Beschriftungen erstellen
+title: Erstellen intelligenter Beschriftungen
 description: Erfahren Sie, wie Sie intelligente Beschriftungen in Ihren Visualisierungen aktivieren können, damit Sie Einblicke in natürliche Sprachen automatisch für Sie erstellen können.
 feature: Visualizations
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02T00:00:00Z
 jira: KT-13383
 thumbnail: 3420131.jpeg
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 9%
+source-wordcount: '62'
+ht-degree: 20%
 
 ---
 
-
-# Intelligente Beschriftungen erstellen
+# Erstellen intelligenter Beschriftungen
 
 Erfahren Sie, wie Sie intelligente Beschriftungen in Ihren Visualisierungen aktivieren können, damit Sie Einblicke in natürliche Sprachen automatisch für Sie erstellen können.
 
