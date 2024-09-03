@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [Allgemeine Konfiguration für Datenansichten](data-views/basic-configuration-for-data-views.md)
    + [Konfigurieren von Komponenteneinstellungen in Datenansichten](data-views/configuring-component-settings-in-data-views.md)
    + [Einstellungen zum Komponententyp in Datenansichten](data-views/component-type-settings-in-data-views.md)
+   + [Erstellen von Datenquellen auf Zusammenfassungsebene](data-views/create-summary-level-data-sources.md)
    + [Erstellen abgeleiteter Felder](data-views/derived-fields-in-cja.md)
    + [Verwenden der Math-Funktion in abgeleiteten Feldern](data-views/use-the-math-function-in-derived-fields.md)
    + [Verwenden der Funktion &quot;Weiter&quot;oder &quot;Zurück&quot;in abgeleiteten Feldern](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [Hinzufügen von Säulendiagramm-Visualisierungen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Hinzufügen von Ringvisualisierungen](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Hinzufügen von Linienvisualisierungen](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Verwenden der Zuordnungsvisualisierung](analysis-workspace/visualizations/use-map-visualization.md)
       + [Verwenden von zusammenfassenden Visualisierungen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Verwenden der Streudiagramm-Visualisierung](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
