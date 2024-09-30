@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
+source-git-commit: 8c3ecaf1bc54aa9d0d099dd5542b65a04d8ec5a8
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -24,10 +24,10 @@ Mit Adobe Product Analytics können Produkt-Teams Daten und Erkenntnisse zu ihre
 
 Mithilfe von Adobe Product Analytics können Teams:
 
-* [Muster in der Benutzerinteraktion im Zeitverlauf erkennen](../guided-analysis/trends/usage-trends-analysis.md)
-* [das Wachstum und die Treue des Produktkundenstamms verfolgen](../guided-analysis/user-growth/active-user-growth-analysis.md)
-* [Reibungsbereiche im Produkt identifizieren](../guided-analysis/funnel/funnel-friction-analysis.md)
-* [die Auswirkungen der Veröffentlichung von Funktionen und der erstmaligen Verwendung messen](../guided-analysis/impact/release-impact-analysis.md)
+* [Muster in der Benutzerinteraktion im Zeitverlauf erkennen](../guided-analysis/trends.md)
+* [das Wachstum und die Treue des Produktkundenstamms verfolgen](../guided-analysis/active-growth.md)
+* [Reibungsbereiche im Produkt identifizieren](../guided-analysis/funnel.md)
+* [die Auswirkungen der Veröffentlichung von Funktionen und der erstmaligen Verwendung messen](../guided-analysis/release-impact.md)
 * aussagekräftige Benutzersegmente entdecken, um mit ihnen während ihrer lebenslangen Journey mit dem Produkt zu interagieren und sie zu pflegen
 * eine Verbindung zu Analysis Workspace für eine tiefergehende Analyse und Zusammenarbeit mit Analystinnen und Analysten herstellen
 
