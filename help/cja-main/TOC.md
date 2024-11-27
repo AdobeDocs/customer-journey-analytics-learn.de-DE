@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Workspace-Projekte {#workspace-projects}
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Erstellen eines neuen Projekts](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + Journey analysis {#journey-analysis}
+         + [Visualisierung der Journey-Arbeitsfläche](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Bedienfelder {#panels}
       + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Verwenden des Experimentier-Bedienfelds](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -91,7 +93,7 @@ ht-degree: 92%
    + [Trichter](guided-analysis/funnel.md)
    + [Nettowachstum](guided-analysis/net-growth.md)
    + [Auswirkungen der Version](guided-analysis/release-impact.md)
-   + [Treue](guided-analysis/retention.md)
+   + [Kundentreue](guided-analysis/retention.md)
    + [Timeline](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Komponenten {#components}
