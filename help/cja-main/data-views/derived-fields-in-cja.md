@@ -1,6 +1,6 @@
 ---
-title: Erstellen abgeleiteter Felder auf Customer Journey Analytics
-description: Abgeleitete Felder sind eine leistungsstarke Funktion, mit der Benutzer direkt komplexe Datenmanipulationen über einen anpassbaren Regel-Builder erstellen und die Logik anschließend rückwirkend auf ihre Berichterstellung anwenden können. Dadurch sparen Sie erheblich Zeit, um sicherzustellen, dass die Daten in einem für Berichte, Analysen und Aktionen verwendbaren Format vorliegen.
+title: Erstellen abgeleiteter Felder im Customer Journey Analytics
+description: Abgeleitete Felder sind eine leistungsstarke Funktion, mit der Benutzende komplexe Datenmanipulationen direkt über einen anpassbaren Regel-Builder erstellen und diese Logik dann rückwirkend auf ihr Reporting anwenden können, wodurch deutlich Zeit gespart wird, indem sichergestellt wird, dass die Daten in einem für Reporting, Analysen und Aktionen nutzbaren Format vorliegen.
 feature: Data Views
 role: Admin, User
 level: Intermediate
@@ -16,16 +16,16 @@ ht-degree: 4%
 
 ---
 
-# Erstellen abgeleiteter Felder auf Customer Journey Analytics
+# Erstellen abgeleiteter Felder im Customer Journey Analytics
 
-Erfahren Sie, wie Sie abgeleitete Felder erstellen, um mithilfe eines anpassbaren Regel-Builders im Handumdrehen komplexe Datenmanipulationen zu erstellen und die Logik anschließend rückwirkend auf ihre Berichterstellung anzuwenden. Dies kann erheblich Zeit sparen, um sicherzustellen, dass Daten in einem für Berichte, Analysen und Aktionen verwendbaren Format vorliegen.
+Erfahren Sie, wie Sie abgeleitete Felder erstellen, um komplexe Datenmanipulationen im laufenden Betrieb über einen anpassbaren Regel-Builder zu erstellen, und lassen Sie dann die Logik rückwirkend auf ihre Berichte anwenden. Dies kann erheblich Zeit sparen, da sichergestellt wird, dass die Daten in einem für Reporting, Analysen und Maßnahmen nutzbaren Format vorliegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
 
 Mit dieser Funktion können Sie die Qualität und Genauigkeit von Daten in Ihren Projekten aufgrund von Datenfehlern oder -lücken verbessern.
 Beispiele für Anwendungsfälle sind:
 
-* Konfigurieren Sie ein abgeleitetes Seitennamenfeld, das die falsch erfassten Seitennamenwerte korrigiert.
-* Konfigurieren Sie ein abgeleitetes Marketing-Kanal-Feld, das den korrekten Marketing-Kanal anhand einer oder mehrerer Bedingungen bestimmt, z. B. URL-Parameter, Seiten-URL oder Seitenname.
+* Konfigurieren Sie ein abgeleitetes Seitennamenfeld, das falsch erfasste Seitennamenwerte korrigiert.
+* Konfigurieren Sie ein abgeleitetes Marketing-Kanal-Feld, das den richtigen Marketing-Kanal basierend auf einer oder mehreren Bedingungen bestimmt, z. B. URL-Parameter, Seiten-URL oder Seitenname.
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=de).

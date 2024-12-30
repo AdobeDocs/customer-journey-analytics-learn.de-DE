@@ -1,6 +1,6 @@
 ---
 title: Erstellen intelligenter Beschriftungen
-description: Erfahren Sie, wie Sie intelligente Beschriftungen in Ihren Visualisierungen aktivieren können, damit Sie Einblicke in natürliche Sprachen automatisch für Sie erstellen können.
+description: Erfahren Sie, wie Sie intelligente Untertitel in Ihren Visualisierungen aktivieren, damit automatisch Erkenntnisse über Ihre Daten in natürlicher Sprache für Sie erstellt werden können.
 feature: Visualizations
 role: User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # Erstellen intelligenter Beschriftungen
 
-Erfahren Sie, wie Sie intelligente Beschriftungen in Ihren Visualisierungen aktivieren können, damit Sie Einblicke in natürliche Sprachen automatisch für Sie erstellen können.
+Erfahren Sie, wie Sie intelligente Untertitel in Ihren Visualisierungen aktivieren, damit automatisch Erkenntnisse über Ihre Daten in natürlicher Sprache für Sie erstellt werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 

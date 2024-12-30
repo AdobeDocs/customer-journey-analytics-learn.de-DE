@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von [!UICONTROL Donut] -Visualisierungen zu [!DNL Analysis Workspace] Projekten
-description: Erfahren Sie, wie Sie [!UICONTROL Donut] -Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
+title: Hinzufügen [!UICONTROL Ringdiagramm]Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
+description: Erfahren Sie, wie Sie [!UICONTROL Ringdiagramm]-Visualisierungen zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von [!UICONTROL Donut] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL Ringdiagramm]-Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie [!UICONTROL Donut] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung eignet sich ideal zum Vergleichen der Prozentsätze eines Gesamtwerts für einige Elemente.
+Erfahren Sie, wie Sie [!UICONTROL Ringdiagramm]-Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung ist ideal für den Vergleich der prozentualen Anteile eines Ganzen für einige wenige Elemente.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL donut] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+Weitere Informationen zu [!UICONTROL Ringdiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).

@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Aufzählungsdiagramm] -Visualisierungen zu [!DNL Analysis Workspace] Projekten hinzufügen'
-description: Erfahren Sie, wie [!UICONTROL Aufzählungsdiagramme] verwendet werden und wie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzugefügt werden.
+title: Hinzufügen [!UICONTROL horizontalen Säulendiagrammen] Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
+description: Erfahren Sie[!UICONTROL  wie "]" verwendet werden und wie Sie sie zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Fügen Sie [!UICONTROL Aufzählungsdiagramm] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics] hinzu.
+# Hinzufügen [!UICONTROL  Visualisierungen ] Aufzählungsdiagrammen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie [!UICONTROL Aufzählungsdiagramme] verwendet werden und wie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzugefügt werden. Dieses Diagramm zeigt Ihnen, wie ein Wert von Interesse im Vergleich zu oder im Vergleich mit Zielen gemessen wird.
+Erfahren Sie[!UICONTROL  wie ] verwendet werden und wie Sie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzufügen. Dieses Diagramm zeigt Ihnen, wie ein Interessenswert im Vergleich zu unseren Zielen ausfällt.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Weitere Informationen zu den Visualisierungen des Aufzählungsdiagramms ] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).[!UICONTROL 
+Weitere Informationen zu Visualisierungen [!UICONTROL horizontale Säulendiagramm] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).

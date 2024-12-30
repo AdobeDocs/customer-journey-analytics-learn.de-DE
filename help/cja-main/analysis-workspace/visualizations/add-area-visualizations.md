@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von Bereichsvisualisierungen zu [!DNL Analysis Workspace] Projekten
-description: Erfahren Sie, wie Sie  [!DNL Analysis Workspace] Projekten in  [!DNL Customer Journey Analytics] Bereiche und Bereiche mit gestapelten Visualisierungen hinzufügen.
+title: 'Hinzufügen von Bereichsvisualisierungen zu  [!DNL Analysis Workspace] '
+description: Erfahren Sie, wie Sie Visualisierungen von Bereichen und gestapelten Bereichen zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von [!UICONTROL Bereichsvisualisierungen] zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL Bereichsvisualisierungen] zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie [!UICONTROL Bereich] - und [!UICONTROL Bereich gestapelt] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics] hinzufügen. Diese Visualisierungen eignen sich ideal für die Verwendung, wenn mehrere Metriken vorhanden sind, für die Sie den Bereich anhand der Schnittmenge aus zwei oder mehr Metriken visualisieren möchten.
+Erfahren Sie, wie Sie [!UICONTROL Bereich] und [!UICONTROL Bereich gestapelt] Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen. Diese Visualisierungen sind ideal geeignet, wenn mehrere Metriken vorhanden sind, für die Sie den Bereich basierend auf der Schnittmenge aus zwei oder mehr Metriken visualisieren möchten.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL area] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).
+Weitere Informationen zu Visualisierungen [!UICONTROL Bereich] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).

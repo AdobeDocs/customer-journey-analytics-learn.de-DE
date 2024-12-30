@@ -1,6 +1,6 @@
 ---
 title: Konversions-Trends
-description: Erfahren Sie, wie Konversionstrends im Customer Journey Analytics Änderungen der Trichterkonversionsraten im Zeitverlauf verfolgen.
+description: Erfahren Sie, wie Konversionstrends in Customer Journey Analytics Veränderungen der Trichterkonversionsraten im Zeitverlauf verfolgen.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 25%
 
 # Konversions-Trends
 
-Erfahren Sie, wie **Konversionstrends** in Customer Journey Analytics Änderungen der Trichterkonversionsraten im Zeitverlauf verfolgt.
+Erfahren Sie **wie „Konversionstrends** in Customer Journey Analytics Veränderungen der Trichterkonversionsraten im Zeitverlauf verfolgen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 

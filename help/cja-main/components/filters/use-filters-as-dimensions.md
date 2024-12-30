@@ -1,5 +1,5 @@
 ---
-title: Filter als Dimensionen in Analysis Workspace verwenden
+title: Verwenden von Filtern als Dimensionen in Analysis Workspace
 description: Erfahren Sie, wie Sie Filter vergleichen und visualisieren können, wenn sie als Dimensionen in Analysis Workspace-Projekten verwendet werden.
 feature: Workspace Basics
 doc-type: feature video
@@ -17,7 +17,7 @@ ht-degree: 72%
 
 ---
 
-# Verwenden Sie [!DNL filters] als Dimensionen in Analysis Workspace
+# Verwenden von [!DNL filters] als Dimensionen in Analysis Workspace
 
 Erfahren Sie, wie Sie Filter vergleichen und visualisieren können, wenn sie als Dimensionen in Analysis Workspace-Projekten verwendet werden.
 

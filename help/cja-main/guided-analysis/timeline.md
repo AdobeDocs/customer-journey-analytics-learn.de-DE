@@ -1,6 +1,6 @@
 ---
 title: Timeline
-description: Erfahren Sie mehr über die Timeline in Customer Journey Analytics, die Ihnen dabei hilft, Erlebnismuster zu finden, bessere Benutzermeldungen zu erzählen und die Implementierung zu validieren.
+description: Erfahren Sie mehr über den zeitlichen Ablauf beim Customer Journey Analytics, der Ihnen dabei hilft, Erlebnismuster zu finden, bessere Benutzergeschichten zu erzählen und die Implementierung zu validieren.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 18%
 
 # Timeline
 
-Erfahren Sie mehr über **Timeline** im Customer Journey Analytics, mit dem Sie Erlebnismuster finden, bessere Benutzermeldungen erzählen und die Implementierung validieren können.
+Erfahren Sie mehr über **Zeitleiste** in Customer Journey Analytics, mit der Sie Erlebnismuster finden, bessere Benutzergeschichten erzählen und die Implementierung validieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 

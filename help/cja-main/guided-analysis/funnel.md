@@ -1,6 +1,6 @@
 ---
 title: Trichter
-description: Erfahren Sie, wie der Trichter in Customer Journey Analytics eine visuelle Darstellung eines kritischen Benutzer-Journey in Ihrem Produkt bietet und Ihnen dabei hilft, festzustellen, wo Reibung besteht.
+description: Erfahren Sie, wie Trichter in Customer Journey Analytics eine visuelle Darstellung einer wichtigen Benutzer-Journey in Ihrem Produkt bietet und Ihnen dabei hilft festzustellen, wo Reibung darin besteht.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,11 +18,11 @@ ht-degree: 8%
 
 # Trichter
 
-Erfahren Sie, wie **trichter** in Customer Journey Analytics eine visuelle Darstellung eines kritischen Benutzer-Journey in Ihrem Produkt bereitstellt und Ihnen dabei hilft, festzustellen, wo Reibung besteht.
+Erfahren Sie **wie &quot;**&quot; in Customer Journey Analytics eine visuelle Darstellung einer wichtigen Benutzer-Journey in Ihrem Produkt bietet und Ihnen dabei hilft, zu bestimmen, wo Reibung darin vorhanden ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-Sie können auch mehrere Ereignisse in einem einzelnen Trichterschritt vergleichen und einen &quot;abgespalteten Trichter&quot;erstellen. Mit diesem &quot;abgespalteten Trichter&quot;können Sie die Reibung zweier Journey nebeneinander vergleichen, was nützlich sein kann, wenn Schrittoptionen vorhanden sind oder ein A/B-Experiment innerhalb des Trichters durchgeführt wird.
+Sie können auch mehrere Ereignisse in einem einzelnen Trichterschritt vergleichen und so einen „gespaltenen Trichter“ erstellen. Dieser „gegabelte Trichter“ ermöglicht es, die Reibung von zwei Journey nebeneinander zu vergleichen. Dies ist nützlich, wenn es Schrittoptionen gibt oder ein A/B-Experiment im Trichter durchgeführt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 

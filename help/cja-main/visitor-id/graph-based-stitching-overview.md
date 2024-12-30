@@ -1,6 +1,6 @@
 ---
 title: Überblick über die diagrammbasierte Zuordnung
-description: Die Diagrammbasierte Zuordnung nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Diese Funktion ermöglicht die Verknüpfung von mehr Datensätzen in Customer Journey Analytics mithilfe einer gemeinsamen Personen-ID.
+description: Diagrammbasiertes Stitching nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics zusammengefügt werden, indem eine gemeinsame Personenkennung darin verwendet wird.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,12 +18,12 @@ ht-degree: 4%
 
 # Überblick über die diagrammbasierte Zuordnung
 
-Die Diagrammbasierte Zuordnung nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Diese Funktion ermöglicht die Verknüpfung von mehr Datensätzen in Customer Journey Analytics mithilfe einer gemeinsamen Personen-ID.
+Diagrammbasiertes Stitching nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics zusammengefügt werden, indem eine gemeinsame Personenkennung darin verwendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Durch die grafikbasierte Zuordnung mithilfe des Identitätsdiagramms erhalten Sie eine bessere Sicht auf die Journey des Kunden durch:
+Durch diagrammbasiertes Stitching mit dem Identitätsdiagramm erhalten Sie einen besseren Überblick über die Kunden-Journey durch:
 
-* Neuausrichtung eines oder mehrerer Datensätze, von denen jeder einen einzelnen Bezeichner enthält, anstatt einen umständlichen ETL-Prozess zu verwenden.
-* Verbessern der Abdeckung einer bevorzugten Identität für einen einzelnen Datensatz mit anderen Datensätzen durch Freigabe der Identität.
-* Abstimmung von in Adobe Real-Time CDP und Adobe Journey Optimizer erstellten Profilen mit Adobe Customer Journey Analytics-Benutzern.
+* Neuausrichten eines oder mehrerer Datensätze, jeweils an einer einzelnen Kennung, anstelle eines umständlichen ETL-Prozesses.
+* Verbesserung der Abdeckung einer bevorzugten Identität für einen einzelnen Datensatz in anderen Datensätzen durch Freigabe der Identität.
+* In Adobe Real-Time CDP und Adobe Journey Optimizer erstellte Profile sollen an Personen in Adobe Customer Journey Analytics ausgerichtet werden.

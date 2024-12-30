@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL bar] -Visualisierungen zu [!DNL Analysis Workspace] Projekten hinzufügen'
-description: Erfahren Sie, wie Sie standardmäßige [!UICONTROL bar] - und [!UICONTROL gestapelte Balken] -Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
+title: Hinzufügen [!UICONTROL Balken] Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
+description: Erfahren Sie, wie Sie Standardvisualisierungen [!UICONTROL Balken] und [!UICONTROL gestapelten Balken] zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von [!UICONTROL bar] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL Balken]-Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie standardmäßige [!UICONTROL bar] - und [!UICONTROL gestapelte Balken] -Visualisierungen in [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese verwenden [!UICONTROL bar] -Formationen, um Werte über Metriken hinweg darzustellen.
+Erfahren Sie, wie Sie Standardvisualisierungen [!UICONTROL Balken] und [!UICONTROL gestapelte Balken] in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese verwenden [!UICONTROL Balken]-Formationen, um Werte über Metriken hinweg darzustellen.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL bar] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Weitere Informationen zu Visualisierungen [!UICONTROL Balken] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

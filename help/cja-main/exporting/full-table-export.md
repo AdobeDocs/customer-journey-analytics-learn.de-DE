@@ -1,6 +1,6 @@
 ---
-title: Vollständiger Tabellenexport unter Customer Journey Analytics
-description: Erfahren Sie mehr über die grundlegende Einrichtung eines Tabellenversands von Customer Journey Analytics an die AEP Data Landing Zone und Snowflake.
+title: Vollständiger Tabellenexport in Customer Journey Analytics
+description: Erfahren Sie mehr über die grundlegende Einrichtung einer Tabellenbereitstellung vom Customer Journey Analytics zur Data Landing Zone von AEP und zum Snowflake.
 feature: Curate and Share
 role: User
 level: Intermediate
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Vollständiger Tabellenexport unter Customer Journey Analytics
+# Vollständiger Tabellenexport in Customer Journey Analytics
 
-Erfahren Sie mehr über die grundlegende Einrichtung eines Tabellenversands von Customer Journey Analytics an die AEP Data Landing Zone und Snowflake. Eine ausführliche Dokumentation finden Sie unter [Exportieren von Customer Journey Analytics-Berichten in die Cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=de).
+Erfahren Sie mehr über die grundlegende Einrichtung einer Tabellenbereitstellung vom Customer Journey Analytics zur Data Landing Zone von AEP und zum Snowflake. Eine ausführliche Dokumentation finden Sie unter [Exportieren von Customer Journey Analytics-Berichten in die Cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 
-Mit dem &quot;vollständigen Tabellenexport&quot;können Benutzer verkettete Tabellen, die alle Zeilen eines Berichts enthalten, sicher einmalig oder terminiert an ihr Cloud-Ziel übermitteln.  Darüber hinaus ermöglicht der neue Komponenten-Manager für Exporte eine einfache Verwaltung aller Sendungen.
+Mit dem „vollständigen Tabellenexport“ können Benutzer auf sichere Weise verkettete Tabellen bereitstellen, die alle Zeilen eines Berichts enthalten, und zwar einmalig oder geplant für ihr Cloud-Ziel.  Darüber hinaus bietet der neue Export-Komponenten-Manager eine einfache Verwaltung aller Sendungen.

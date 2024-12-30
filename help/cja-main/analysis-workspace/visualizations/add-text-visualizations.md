@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von [!UICONTROL text] -Visualisierungen zu [!DNL Analysis Workspace] Projekten
-description: Erfahren Sie, wie Sie [!UICONTROL text] -Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
+title: Hinzufügen [!UICONTROL Text]-Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
+description: Erfahren Sie, wie Sie [!UICONTROL Text]-Visualisierungen in  [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von [!UICONTROL text] -Visualisierungen zu [!DNL Analysis Workspace] -Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL Text]-Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie [!UICONTROL text] -Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung ist nützlich, wenn Sie Fragen zu Metriken vermitteln oder Kontext zu anderen Daten in einem Projekt hinzufügen möchten.
+Erfahren Sie, wie Sie [!UICONTROL Text]-Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung ist nützlich, wenn Sie Bedenken zu Metriken äußern oder Kontext zu anderen Daten in einem Projekt hinzufügen möchten.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL text] -Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+Weitere Informationen zu [!UICONTROL Text]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).

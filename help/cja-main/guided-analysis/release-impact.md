@@ -1,6 +1,6 @@
 ---
 title: Auswirkungen der Version
-description: Erfahren Sie, wie die Auswirkungen der Veröffentlichung auf Customer Journey Analytics einen Vergleich der Leistung von Schlüsselindikatoren vor und nach einem bestimmten Datum zeigt.
+description: Erfahren Sie, wie sich die Veröffentlichung in Customer Journey Analytics auf die Leistung von Schlüsselindikatoren vor und nach einem bestimmten Datum auswirkt.
 feature: Guided Analysis
 role: User
 level: Beginner

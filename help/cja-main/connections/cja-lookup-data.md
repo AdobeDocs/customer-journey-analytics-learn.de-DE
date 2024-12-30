@@ -19,8 +19,8 @@ ht-degree: 27%
 
 # CJA-Suche nach Lookup- und Profildaten
 
-Mit CJA-Suchen nach Lookup- und Profildaten können Benutzer tiefere Beziehungen zwischen Datenelementen nutzen, z. B. Person, die in B2B-Anwendungsfällen berücksichtigt wird.  In diesem Video wird beschrieben, wie Sie Suchdaten zum Nachschlagen und Profil-Datensätzen hinzufügen und Ihre Schlüsselfelder planen und zuordnen.  Beachten Sie, dass bei einer 1:n-Beziehung zwischen Schlüssel und Suchwert der neueste Wert verwendet wird.
+Mit CJA-Suchen in Such- und Profildaten können Benutzer tiefere Beziehungen zwischen Datenelementen nutzen, z. B. zwischen Personen, die in B2B-Anwendungsfällen berücksichtigt werden.  In diesem Video wird beschrieben, wie Sie Lookup-Daten zu Lookup- und Profildatensätzen hinzufügen und wie Sie Ihre Schlüsselfelder planen und zuordnen können.  Hinweis: Wenn eine Eins-zu-viele-Beziehung zwischen dem Schlüssel und dem Suchwert besteht, wird der neueste Wert verwendet.
 
-Eine ausführliche Dokumentation finden Sie unter [Datensatztypen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) und [Hinzufügen von Daten auf Kontoebene als Lookup-Datensatz](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en).
+Eine ausführliche Dokumentation finden Sie unter [Datensatztypen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) und [Daten auf Kontoebene als Lookup-Datensatz hinzufügen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

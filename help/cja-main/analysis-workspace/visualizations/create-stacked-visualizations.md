@@ -1,6 +1,6 @@
 ---
-title: Erstellen von [!UICONTROL vollständig gestapelten Balken] -Visualisierungen in [!DNL Analysis Workspace] Projekten
-description: Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] -Visualisierungen mithilfe von Prozentwerten anstelle von Rohwerten in  [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] konfigurieren.
+title: Erstellen [!UICONTROL vollständig gestapelten Balken] Visualisierungen in  [!DNL Analysis Workspace]  Projekten
+description: Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierungen in Projekten in  [!DNL Customer Journey Analytics] konfigurieren, die Prozentsätze  [!DNL Analysis Workspace]  Rohwerte verwenden.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von [!UICONTROL vollständig gestapelten Balken] -Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
+# Erstellen [!UICONTROL vollständig gestapelten Balken] Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] -Visualisierungen (100 %) mit Prozentwerten anstelle von Rohwerten in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] konfigurieren.
+Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierungen (100 %) in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] mit Prozentsätzen anstelle von Rohwerten konfigurieren.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Weitere Informationen zu den Visualisierungen von [!UICONTROL vollständig gestapeltem var] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html) .
+Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

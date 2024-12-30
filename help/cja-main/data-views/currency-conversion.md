@@ -1,6 +1,6 @@
 ---
 title: Währungsumrechnung in Customer Journey Analytics
-description: Währungsumrechnung in Customer Journey Analytics über eine Einstellung in "Datenansichten". Verwenden Sie diese Funktion, um mehrere Metriken zu erstellen, die in verschiedenen Währungen angezeigt werden.
+description: Führen Sie über eine Einstellung in Datenansichten eine Währungsumrechnung in der Kunden-Journey-Analyse durch. Mit dieser Funktion können Sie mehrere Metriken erstellen, die in verschiedenen Währungen angezeigt werden.
 feature: Data Views
 role: Admin, User
 level: Intermediate
@@ -18,6 +18,6 @@ ht-degree: 1%
 
 # Währungsumrechnung in Customer Journey Analytics
 
-Währungsumrechnung in Customer Journey Analytics über eine Einstellung in &quot;Datenansichten&quot;. Verwenden Sie diese Funktion, um mehrere Metriken zu erstellen, die in verschiedenen Währungen angezeigt werden. Eine ausführliche Dokumentation finden Sie unter [Einstellungen für Formatkomponenten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=de#currency).
+Führen Sie über eine Einstellung in Datenansichten eine Währungsumrechnung in der Kunden-Journey-Analyse durch. Mit dieser Funktion können Sie mehrere Metriken erstellen, die in verschiedenen Währungen angezeigt werden. Eine ausführliche Dokumentation finden Sie unter [Formatieren von Komponenteneinstellungen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=de#currency).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

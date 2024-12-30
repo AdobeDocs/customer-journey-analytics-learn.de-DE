@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen der Visualisierung [!UICONTROL tree map] zu [!DNL Analysis Workspace] projekten
-description: Erfahren Sie, wie Sie die Visualisierung [!UICONTROL Baumdiagramm] in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren.
+title: Hinzufügen der [!UICONTROL Baumkarten]-Visualisierung zu  [!DNL Analysis Workspace] -Projekten
+description: Erfahren Sie, wie Sie die [!UICONTROL Baumkarten]-Visualisierung in  [!DNL Analysis Workspace] Projekten in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Fügen Sie die Visualisierung [!UICONTROL tree map] zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzu.
+# Hinzufügen der [!UICONTROL Baumkarten]-Visualisierung zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie die Visualisierung [!UICONTROL tree map] in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung erstellt hierarchische Daten als Satz verschachtelter Rechtecke und ermöglicht es Ihnen, Muster einfach zu erkennen, die sonst nur schwer zu erkennen wären.
+Erfahren Sie, wie Sie die [!UICONTROL Baumkarten]-Visualisierung in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung erstellt hierarchische Daten als eine Reihe verschachtelter Rechtecke und ermöglicht es Ihnen, Muster leicht zu sehen, die andernfalls schwer zu erkennen wären.
 
 >[!NOTE]
 >
->Die Benutzeroberfläche und Funktionen von [!DNL Analysis Workspace] sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
+>Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Baumdiagrammdarstellungen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).
+Weitere Informationen zu Visualisierungen [!UICONTROL Baumstruktur] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).

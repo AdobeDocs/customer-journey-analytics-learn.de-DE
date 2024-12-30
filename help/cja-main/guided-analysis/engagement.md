@@ -1,6 +1,6 @@
 ---
 title: Interaktion
-description: Erfahren Sie, wie die Interaktion mit Customer Journey Analytics Einblicke liefert, wie oft Ihre Produktfunktionen verwendet werden, im Vergleich zur Anzahl der Benutzer, die diese Funktionen verwenden.
+description: Erfahren Sie, wie die Interaktion mit Customer Journey Analytics Erkenntnisse darüber liefert, wie oft Ihre Produktfunktionen verwendet werden im Vergleich zur Anzahl der Personen, die sie verwenden.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 # Interaktion
 
-Erfahren Sie, wie **Interaktion** in Customer Journey Analytics Einblicke darüber bietet, wie oft Ihre Produktfunktionen verwendet werden, im Vergleich zur Anzahl der Benutzer, die diese Funktionen verwenden.
+Erfahren Sie **wie &quot;**&quot; beim Customer Journey Analytics Erkenntnisse darüber liefert, wie oft Ihre Produktfunktionen verwendet werden im Vergleich zur Anzahl der Personen, die sie verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 

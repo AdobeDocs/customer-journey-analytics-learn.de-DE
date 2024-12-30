@@ -1,6 +1,6 @@
 ---
-title: Überblick über Zuordnung
-description: Da viele Personen über mehrere Kanäle und Geräte mit Ihrem Inhalt interagieren, ist es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlicheren Ansatz bei der Berichterstattung und letztendlich Aktivierung. In diesem Video erhalten Sie einen schnellen Überblick über den Stitching-Prozess.
+title: 'Überblick über Zuordnung '
+description: Da viele Personen über mehrere Kanäle und Geräte mit Ihren Inhalten interagieren, wird es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlicheren Ansatz für das Reporting und letztendlich die Aktivierung. In diesem Video erhalten Sie einen schnellen Überblick über den Prozess des Zusammenfügens.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 3%
 
 ---
 
-# Übersicht über das Stitching
+# Übersicht über das Zusammenfügen
 
-Da viele Personen über mehrere Kanäle und Geräte mit Ihrem Inhalt interagieren, ist es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlicheren Ansatz bei der Berichterstattung und letztendlich Aktivierung. In diesem Video erhalten Sie einen schnellen Überblick über den Stitching-Prozess.
+Da viele Personen über mehrere Kanäle und Geräte mit Ihren Inhalten interagieren, wird es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlicheren Ansatz für das Reporting und letztendlich die Aktivierung. In diesem Video erhalten Sie einen schnellen Überblick über den Prozess des Zusammenfügens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)

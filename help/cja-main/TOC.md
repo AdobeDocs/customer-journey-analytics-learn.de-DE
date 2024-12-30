@@ -41,8 +41,8 @@ ht-degree: 92%
    + [Einstellungen zum Komponententyp in Datenansichten](data-views/component-type-settings-in-data-views.md)
    + [Erstellen von Datenquellen auf Zusammenfassungsebene](data-views/create-summary-level-data-sources.md)
    + [Erstellen abgeleiteter Felder](data-views/derived-fields-in-cja.md)
-   + [Verwenden der Math-Funktion in abgeleiteten Feldern](data-views/use-the-math-function-in-derived-fields.md)
-   + [Verwenden der Funktion &quot;Weiter&quot;oder &quot;Zurück&quot;in abgeleiteten Feldern](data-views/use-the-next-previous-function-in-derived-fields.md)
+   + [Verwenden der mathematischen Funktion in abgeleiteten Feldern](data-views/use-the-math-function-in-derived-fields.md)
+   + [Verwenden der Funktion Weiter oder Zurück in abgeleiteten Feldern](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Formatieren von Metriken in Datenansichten](data-views/formatting-metrics-in-data-views.md)
    + [Konfigurieren der Komponenteneinstellungen von Teilzeichenfolgen](data-views/configure-substring-component-settings.md)
    + [Ein- oder Ausschließen von Metrikwerten in Datenansichten](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -56,8 +56,8 @@ ht-degree: 92%
    + Workspace-Projekte {#workspace-projects}
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Erstellen eines neuen Projekts](analysis-workspace/workspace-projects/build-a-new-project.md)
-      + Journey analysis {#journey-analysis}
-         + [Visualisierung der Journey-Arbeitsfläche](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
+      + Journey Analysis {#journey-analysis}
+         + [Journey Canvas-Visualisierung](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Bedienfelder {#panels}
       + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Verwenden des Experimentier-Bedienfelds](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -118,8 +118,8 @@ ht-degree: 92%
    + Report Builder {#report-builder}
       + [Report Builder für Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform-Integration {#experience-platform-integration}
-   + [Verbesserte Berichterstellung für Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
++ Experience Platform-{#experience-platform-integration}
+   + [Verbessertes Reporting für Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)

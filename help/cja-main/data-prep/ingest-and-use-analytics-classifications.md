@@ -1,6 +1,6 @@
 ---
 title: Aufnehmen und Verwenden von Klassifizierungsdaten von Adobe Analytics
-description: Erfahren Sie, wie Sie [!DNL Adobe Analytics] Klassifizierungsdaten in [!DNL Customer Journey Analytics] erfassen und verwenden.
+description: Erfahren Sie, wie Sie Klassifizierungsdaten  [!DNL Adobe Analytics] in [!DNL Customer Journey Analytics] aufnehmen und verwenden.
 feature: Adobe Analytics Integration
 topic: Integrations
 doc-type: technical video
@@ -18,12 +18,12 @@ ht-degree: 9%
 
 ---
 
-# Aufnahme und Verwendung von [!DNL Adobe Analytics] Klassifizierungsdaten in [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]
+# Aufnehmen und Verwenden [!DNL Adobe Analytics] Klassifizierungsdaten in [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]
 
-Erfahren Sie, wie Sie [!DNL Analytics] Klassifizierungsdaten in [!DNL Customer Journey Analytics] erfassen und verwenden. Sobald die Klassifizierungsdaten in [!DNL Experience Platform] verfügbar sind, aktualisieren Sie [!UICONTROL Verbindungen] und [!UICONTROL Datenansichten], um die neuen Klassifizierungsfelder einzuschließen, die in [!DNL Analysis Workspace] verwendet werden sollen. 
+Erfahren Sie, wie Sie [!DNL Analytics] Klassifizierungsdaten in [!DNL Customer Journey Analytics] aufnehmen und verwenden. Sobald die Klassifizierungsdaten in [!DNL Experience Platform] verfügbar sind, aktualisieren Sie [!UICONTROL Verbindungen] und [!UICONTROL Datenansichten] um die neuen Klassifizierungsfelder einzuschließen, die in [!DNL Analysis Workspace] verwendet werden sollen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-Weitere Informationen zum Quell-Connector [!DNL Adobe Analytics] für [!UICONTROL Klassifizierungen]-Daten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=de).
+Weitere Informationen zum [!DNL Adobe Analytics]-Quell-Connector für [!UICONTROL Klassifizierungs]-Daten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=de).
 
-Die abgeleitete Feldfunktion in Customer Journey Analytics wird in diesem Video beschrieben. Weitere Informationen zu dieser Funktion finden Sie im [Video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) oder in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=de).
+In diesem Video wird auf die Funktion für abgeleitete Felder in Customer Journey Analytics verwiesen. Weitere Informationen zu dieser Funktion finden Sie im [Video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) oder in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=de).
