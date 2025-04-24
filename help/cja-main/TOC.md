@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 91%
 # Tutorials zu Customer Journey Analytics {#tutorials}
 
 + [Überblick über Customer Journey Analytics](overview.md)
-+ Grundlagen von Customer Journey Analytics {#cja-basics}
++ Grundlagen zu Customer Journey Analytics {#cja-basics}
    + [Was ist Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Einführung in Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
@@ -57,7 +57,7 @@ ht-degree: 91%
       + [Analysis Workspace – Übersicht](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Erstellen eines neuen Projekts](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace-Vorlagen](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + Journey Analysis {#journey-analysis}
+      + Journey-Analyse {#journey-analysis}
          + [Visualisierung der Journey-Arbeitsfläche](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Bedienfelder {#panels}
       + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](analysis-workspace/panels/configure-next-previous-item-panel.md)
@@ -79,10 +79,10 @@ ht-degree: 91%
       + [Hinzufügen von Prognosen zu Ihrer Visualisierung](analysis-workspace/visualizations/forecasting.md)
    + Anmerkungen {#annotations}
       + [Erstellen einer Anmerkung](analysis-workspace/annotations/create-an-annotation.md)
-   + Kuratieren und Freigeben {#curate-and-share}
+   + Kuratieren und freigeben {#curate-and-share}
       + [Freigeben für alle in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tipps und Tricks {#tips-and-tricks}
-      + [Erstellen von dynamischen Dropdown-Filtern](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Dynamische Dropdown-Segmente erstellen](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Übersicht über Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Geführte Analyse {#guided-analysis}
@@ -99,31 +99,31 @@ ht-degree: 91%
    + [Timeline](guided-analysis/timeline.md)
    + [Trends](guided-analysis/trends.md)
 + Komponenten {#components}
-   + Filter (Segmentierung) {#filters}
-      + [Filterübersicht](components/filters/introduction-to-filters-in-cja.md)
-      + [Erstellen eines Schnellfilters](components/filters/create-a-quick-filter.md)
-      + [Erstellen kanalübergreifender Filter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Verwenden von Filtern als Dimensionen](components/filters/use-filters-as-dimensions.md)
+   + Segmente {#filters}
+      + [Segmente – Übersicht](components/filters/introduction-to-filters-in-cja.md)
+      + [Erstellen eines Schnellsegments](components/filters/create-a-quick-filter.md)
+      + [Erstellen von kanalübergreifenden Segmenten](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Verwenden von Segmenten als Dimensionen](components/filters/use-filters-as-dimensions.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Berechnete Metriken {#calc-metrics}
       + [Einführung in berechnete Metriken in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Verschieben der berechneten Metriken von Adobe Analytics nach Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
-   + Audiences {#audiences}
+   + Zielgruppen {#audiences}
       + [Zielgruppenveröffentlichung](components/audiences/audience-publishing-for-cja.md)
    + Datenwörterbuch {#data-dictionary}
       + [Verwenden des Datenwörterbuchs](components/data-dictionary/use-data-dictionary.md)
-+ Inhaltsanalyse {#content-analytics}
++ Content Analytics {#content-analytics}
    + [Einführung](content-analytics/introduction-to-content-analytics.md)
    + [Funktionsweise](content-analytics/how-it-works.md)
 + Dashboards (Scorecards) {#dashboards}
    + [Erstellen einer mobilen Scorecard](dashboards/create-a-mobile-scorecard.md)
    + [Unterstützung von Führungskräften mit Zugriff auf mobile Scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Exportieren {#exporting}
++ Wird exportiert {#exporting}
    + [Vollständiger Tabellenexport](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder für Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform-{#experience-platform-integration}
++ Experience Platform-Integration {#experience-platform-integration}
    + [Verbessertes Reporting für Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
@@ -133,5 +133,5 @@ ht-degree: 91%
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anrufumleitungs-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

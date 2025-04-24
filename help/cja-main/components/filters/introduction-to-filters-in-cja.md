@@ -1,7 +1,7 @@
 ---
-title: Filterübersicht
-description: Erfahren Sie mehr über die wichtigsten Komponenten von Filter Builder in Customer Journey Analytics.
-feature: Filters
+title: Segmente – Übersicht
+description: Erfahren Sie mehr über die wichtigsten Komponenten von Segment Builder in Customer Journey Analytics.
+feature: Segments
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
@@ -9,17 +9,19 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 98%
+source-wordcount: '69'
+ht-degree: 20%
 
 ---
 
-# Filterübersicht
+# Segmente – Übersicht
 
-Filter identifizieren Untergruppen von Besucherinnen und Besuchern oder Kundinnen und Kunden anhand von Attributen und Ereignissen, wie Website-Besucherinnen und -Besucher oder Callcenter-Interaktionen. Erfahren Sie mehr über die wichtigsten Komponenten von Filter Builder in Customer Journey Analytics.
+Segmente identifizieren Untergruppen von Besuchern oder Kunden anhand von Attributen und Ereignissen, wie Website-Besuchende oder Callcenter-Interaktionen. Erfahren Sie mehr über die wichtigsten Komponenten von Segment Builder in Customer Journey Analytics. Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+
+>[!NOTE]
+>
+> &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
-
-Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html).
