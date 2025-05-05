@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Diagrammbasiertes Stitching nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics zusammengefügt werden, indem eine gemeinsame Personenkennung darin verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448725/?learn=on&captions=ger)
 
 Durch diagrammbasiertes Stitching mit dem Identitätsdiagramm erhalten Sie einen besseren Überblick über die Kunden-Journey durch:
 

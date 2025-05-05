@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Erfahren Sie, wie Sie mit der Funktion „Weiter oder Zurück“ in Customer Journey Analytics komplexe abgeleitete Felder erstellen können, um die Datenanalyse zu verbessern. Dieses Tutorial führt Sie durch den Prozess der Einrichtung einer neuen Dimension, die Marketing-Kanalwerte auf Benutzerebene verkettet, um tiefere Einblicke in Marketing-Strategien und die Generierung von Umsätzen zu ermöglichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447742/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).

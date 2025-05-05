@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Verwenden Sie **Geführte Analyse** in Analysis Workspace, um mithilfe geführter Workflows hochwertige Dateneinblicke selbst bereitzustellen. Diese Funktion ermöglicht den einfachen Zugriff, die Erstellung, das Speichern und die Wiederverwendung von Analysen und optimiert so Aufgaben wie die Verfolgung der Benutzerbindung und die Trichteranalyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449506/?learn=on&captions=ger)

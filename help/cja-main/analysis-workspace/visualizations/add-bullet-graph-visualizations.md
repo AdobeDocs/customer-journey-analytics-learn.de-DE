@@ -25,6 +25,6 @@ Erfahren Sie[!UICONTROL &#x200B; wie &#x200B;] verwendet werden und wie Sie sie 
 >
 >Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41509/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu Visualisierungen [!UICONTROL horizontale Säulendiagramm] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=de).

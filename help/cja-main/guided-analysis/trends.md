@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Erfahren Sie mehr über **Trends** in Customer Journey Analytics, die wertvolle Einblicke in die Leistung Ihres Produkts oder die Benutzerinteraktion im Laufe der Zeit bieten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423440/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=de).

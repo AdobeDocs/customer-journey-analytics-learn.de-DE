@@ -24,7 +24,7 @@ Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https:
 
 Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu zeigen, was Inhalte effektiv macht. Teams können die Interaktion besser optimieren, Konversionen fördern und intelligentere, datengestützte Entscheidungen treffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457319/?learn=on&enablevpops&captions=ger)
 
 
 ## Funktionsweise
@@ -40,7 +40,7 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Festlegen von Berechtigungen für Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Funktionsweise"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457436/?format=jpeg&nocache=1742338375674&captions=ger" alt="Content Analytics - Funktionsweise"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

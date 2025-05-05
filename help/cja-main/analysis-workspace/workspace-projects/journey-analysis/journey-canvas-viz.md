@@ -20,6 +20,6 @@ ht-degree: 1%
 
 Erfahren Sie mehr über die Journey-Arbeitsflächen-Visualisierung, mit der Sie die Journey analysieren und detaillierte Einblicke gewinnen können, die Sie Ihren Benutzenden und Kunden bieten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440635/?learn=on&captions=ger)
 
 Benutzende können Journey mit mehreren Starts, Pfaden oder Enden erstellen. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

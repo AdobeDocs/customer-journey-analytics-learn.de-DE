@@ -21,4 +21,4 @@ ht-degree: 3%
 
 Da viele Personen über mehrere Kanäle und Geräte mit Ihren Inhalten interagieren, wird es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlicheren Ansatz für das Reporting und letztendlich die Aktivierung. In diesem Video erhalten Sie einen schnellen Überblick über den Prozess des Zusammenfügens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452556/?learn=on&captions=ger)

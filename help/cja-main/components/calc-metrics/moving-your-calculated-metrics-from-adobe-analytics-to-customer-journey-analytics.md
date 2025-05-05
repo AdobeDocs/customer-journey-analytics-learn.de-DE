@@ -23,6 +23,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie Ihre in Adobe Analytics [!UICONTROL berechneten Metriken] in Customer Journey Analytics erneut verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33673/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).

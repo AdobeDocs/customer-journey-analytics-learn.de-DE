@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Erfahren Sie **wie „Konversionstrends** in Customer Journey Analytics Veränderungen der Trichterkonversionsraten im Zeitverlauf verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423487/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=de).

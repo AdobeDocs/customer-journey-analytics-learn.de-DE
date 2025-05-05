@@ -25,6 +25,6 @@ Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierung
 >
 >Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30079/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=de).

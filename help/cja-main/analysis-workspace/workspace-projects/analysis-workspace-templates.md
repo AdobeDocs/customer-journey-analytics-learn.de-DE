@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Sie wollen nicht ganz von vorn anfangen? Erfahren Sie, wie Sie Ihre Analyse in Workspace mit einer Workspace-Vorlage starten. Sie können aus einer kuratierten Adobe-Vorlage auswählen oder eine eigene für eine benutzerdefinierte Organisationsvorlage erstellen. Suchen Sie in einer Karten- oder Spaltenansicht nach genau der richtigen Vorlage, je nach Ihren Vorlieben! Eine ausführliche Dokumentation finden Sie unter [Erstellen und Verwalten von Vorlagen](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443179/?learn=on&enablevpops&captions=ger)
