@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie geschäftliche Fragen mithilfe des Bedienfelds „Quick Insights“ in Customer Journey Analytics schnell und einfach beantworten können. Dieses Bedienfeld ist für neue Benutzer oder erweiterte Analysten geeignet und ermöglicht Ihnen das intuitive Experimentieren mit Dimensionen, Metriken, Visualisierungen und Segmenten, um die beste Kombination von Komponenten für Ihre Analyse zu erzielen.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/quickinsight).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

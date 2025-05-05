@@ -22,4 +22,4 @@ Erfahren Sie **wie &quot;**&quot; beim Customer Journey Analytics Erkenntnisse d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

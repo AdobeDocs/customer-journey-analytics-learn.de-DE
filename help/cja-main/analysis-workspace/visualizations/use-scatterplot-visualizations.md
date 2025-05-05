@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie die [!UICONTROL Streudiagramm]-Visualisierung in [!DNL Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Streudiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Weitere Informationen zu [!UICONTROL Streudiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=de).

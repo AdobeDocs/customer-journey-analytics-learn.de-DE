@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie [!UICONTROL Text]-Visualisierungen in [!DNL Analysis Works
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Text]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+Weitere Informationen zu [!UICONTROL Text]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=de).

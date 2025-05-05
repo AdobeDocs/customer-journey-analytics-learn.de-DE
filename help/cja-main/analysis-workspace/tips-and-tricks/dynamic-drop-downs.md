@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Erstellen dynamischer Dropdown-Segmente in Analysis Workspace
 
-Erfahren Sie, wie Sie Dropdown-Segmente basierend auf einer gesamten Dimension erstellen. Dimension-Elemente werden basierend auf dem im Bedienfeld Bericht verwendeten Datumsbereich dynamisch aktualisiert. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Erfahren Sie, wie Sie Dropdown-Segmente basierend auf einer gesamten Dimension erstellen. Dimension-Elemente werden basierend auf dem im Bedienfeld Bericht verwendeten Datumsbereich dynamisch aktualisiert. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >

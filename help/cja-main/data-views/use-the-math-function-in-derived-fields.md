@@ -22,4 +22,4 @@ In diesem Video-Tutorial erfahren Sie, wie Sie mit Mathematikfunktionen abgeleit
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).

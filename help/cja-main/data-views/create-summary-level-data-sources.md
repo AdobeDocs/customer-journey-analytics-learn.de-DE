@@ -23,4 +23,4 @@ Customer Journey Analytics unterstützt Daten auf Zusammenfassungsebene, mit den
 
 ## Zusätzliche Ressourcen
 
-* Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/summary-data)
