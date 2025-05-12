@@ -19,6 +19,6 @@ ht-degree: 12%
 
 Verwenden Sie Freiform-Bedienfelder, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)
