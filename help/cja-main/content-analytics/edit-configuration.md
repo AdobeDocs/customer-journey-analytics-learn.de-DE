@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Effiziente Bearbeitung von [!DNL Content Analytics]-Konfigurationen durch Anpassen von Namen, Datenansichten und Erlebniserfassungseinstellungen. Diese Aktion aktualisiert automatisch die Metriken und führt über die Content Analytics Tags-Erweiterung eine Feinabstimmung für optimierte Einblicke durch.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)

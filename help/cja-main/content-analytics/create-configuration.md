@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den [!DNL Content Analytics] geführten Workflow verwenden. Dies vereinfacht den Einrichtungsprozess für Marketing-Experten und ermöglicht eine effiziente Datenerfassung, -verarbeitung und -berichterstattung in Customer Journey Analytics.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)
