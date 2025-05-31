@@ -20,4 +20,4 @@ ht-degree: 0%
 Hier erhalten Sie einen Einblick in Content Analytics, eine neue Funktion in CJA, die KI verwendet, um Kreativ-Assets und ihre Leistung zu analysieren.
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462966/?learn=on&enablevpops=true&captions=ger)

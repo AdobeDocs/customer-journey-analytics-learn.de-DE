@@ -20,4 +20,4 @@ ht-degree: 0%
 Entdecken Sie die drei Arten von Customer Journey Analytics-Implementierungsprojekten: Machbarkeitsstudie, vorläufige Multi-Channel-Anwendungsfälle und vollständige Implementierung.
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463032/?learn=on&enablevpops=true&captions=ger)

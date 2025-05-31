@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie die generative KI Customer Journey Analytics transformiert, indem sie Einblicke bietet, Benutzende stärkt und Datenanalysen zugänglicher macht.
 
 <!-- 62_S106_3442453_47_how-genai-enhances-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458377/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460007/?learn=on&enablevpops=true&captions=ger)
