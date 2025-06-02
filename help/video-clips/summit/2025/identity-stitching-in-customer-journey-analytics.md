@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie mehr über die beiden Arten der Identitätszuordnung in CJA - feldbasiert und diagrammbasiert - und wie sie die Omni-Channel-Analyse ermöglichen.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460014/?learn=on&enablevpops=true&captions=ger)

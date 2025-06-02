@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie die diagrammbasierte Zuordnung die nahtlose Integration mehrerer Datensätze ermöglicht und so eine einheitliche Kundenansicht für umsetzbare Einblicke schafft.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460228/?learn=on&enablevpops=true&captions=ger)
