@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '493'
 ht-degree: 83%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 83%
    + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
    + [Aufnehmen, Zuordnen und Transformieren von Adobe Analytics-Daten](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Aufnehmen und Verwenden von Klassifizierungsdaten von Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
++ Zugriffssteuerung {#access-control}
+   + [Berechtigungen einrichten](permissions/set-up-permissions.md)
 + Verbindungen {#connections}
    + [Verbinden mit Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen](connections/connections-details-experience-in-cja.md)
@@ -136,6 +138,6 @@ ht-degree: 83%
    + Komplexe Daten {#complex-data}
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
