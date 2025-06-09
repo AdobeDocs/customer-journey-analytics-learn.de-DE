@@ -21,4 +21,4 @@ In diesem Video erhalten Sie eine schrittweise Anleitung zum Einrichten rollenba
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463394/?learn=on&captions=ger)
