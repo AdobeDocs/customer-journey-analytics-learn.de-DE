@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '508'
 ht-degree: 82%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 82%
    + [Währungsumrechnung](data-views/currency-conversion.md)
 + Data Insights Agent {#data-insights-agent}
    + [Einführung](data-insights-agent/introduction-to-the-data-insights-agent.md)
-   + [Anwendungsszenarien](data-insights-agent/data-insights-agent-use-cases.md)
+   + [Anwendungsfälle](data-insights-agent/data-insights-agent-use-cases.md)
    + [Verwenden der Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-Projekte {#workspace-projects}
@@ -67,6 +67,7 @@ ht-degree: 82%
          + [Visualisierung der Journey-Arbeitsfläche](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Bedienfelder {#panels}
       + [Hinzufügen von Komponenten zum Freiform-Bedienfeld](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
+      + [Erstellen des Attributionsbedienfelds](analysis-workspace/panels/build-the-attribution-panel.md)
       + [Konfigurieren Sie das Bedienfeld für das nächste und vorherige Element](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Verwenden des Experimentier-Bedienfelds](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [Verwenden des Bedienfelds Quick Insights](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -87,7 +88,7 @@ ht-degree: 82%
       + [Hinzufügen von Prognosen zu Ihrer Visualisierung](analysis-workspace/visualizations/forecasting.md)
    + Anmerkungen {#annotations}
       + [Erstellen einer Anmerkung](analysis-workspace/annotations/create-an-annotation.md)
-   + Kuratieren und freigeben {#curate-and-share}
+   + Kuratieren und Freigeben {#curate-and-share}
       + [Freigeben für alle in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tipps und Tricks {#tips-and-tricks}
       + [Dynamische Dropdown-Segmente erstellen](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
@@ -135,13 +136,13 @@ ht-degree: 82%
       + [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Experience Platform-Integration {#experience-platform-integration}
    + [Verbessertes Reporting für Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
-+ Anwendungsszenarien {#use-cases}
++ Anwendungsfälle {#use-cases}
    + Anwendungsfälle von Datenansichten {#data-views-use-cases}
       + [Berichte zu erstmaligen und wiederkehrenden Sitzungen](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Verwenden der Datenfeld-Unterstützung](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Komplexe Daten {#complex-data}
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
