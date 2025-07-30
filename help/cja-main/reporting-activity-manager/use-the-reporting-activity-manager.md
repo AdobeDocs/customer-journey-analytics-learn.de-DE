@@ -19,6 +19,6 @@ ht-degree: 10%
 
 Verwenden Sie Reporting Activity Manager in [!DNL Customer Journey Analytics], um die Berichtskapazität über organisationsübergreifende Verbindungen hinweg zu überwachen und zu verwalten. In diesem Video wird der Zugriff auf Schlüsselmetriken, die Fehlerbehebung bei Leistungsproblemen und die Optimierung der Systemeffizienz behandelt.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
