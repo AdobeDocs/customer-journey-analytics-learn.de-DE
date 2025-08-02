@@ -21,4 +21,4 @@ Verwenden Sie Reporting Activity Manager in [!DNL Customer Journey Analytics], u
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470323/?learn=on&captions=ger)
