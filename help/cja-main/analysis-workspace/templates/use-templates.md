@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie Vorlagen in [!DNL Customer Journey Analytics] verwenden, u
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/templates/use-templates).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470538/?learn=on&captions=ger)
