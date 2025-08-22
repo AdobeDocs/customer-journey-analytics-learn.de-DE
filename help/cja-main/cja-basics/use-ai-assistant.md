@@ -19,6 +19,6 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie mit dem KI-Assistenten in Customer Journey Analytics Konzepte erlernen, Probleme beheben und Workflows optimieren können. Erschließen Sie das volle Potenzial von CJA mit einer konversativen KI, die auf der Experience League-Dokumentation trainiert wurde und sich sowohl für Anfänger als auch für Experten eignet.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
