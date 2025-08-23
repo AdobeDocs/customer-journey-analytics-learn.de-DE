@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie in Customer Journey Analytics eine benutzerdefinierte Vorl
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470931/?learn=on&captions=ger)
