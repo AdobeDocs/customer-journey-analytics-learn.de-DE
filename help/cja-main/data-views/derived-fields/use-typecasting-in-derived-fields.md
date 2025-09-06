@@ -21,4 +21,4 @@ Entdecken Sie Typecasting in von Customer Journey Analytics abgeleiteten Feldern
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471063/?learn=on&captions=ger)

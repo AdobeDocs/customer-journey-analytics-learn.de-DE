@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten in Customer Journey Analytics Konze
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471164/?learn=on&captions=ger)
