@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Erfahren Sie, wie Sie in Ihren Visualisierungen intelligente Beschriftungen aktivieren, damit automatisch Erkenntnisse zu Ihren Daten in natürlicher Sprache für Sie erstellt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443147/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=de).
