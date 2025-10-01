@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 889305cbdb9e9301445c511b82aafa51a0ab6069
+source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 79%
+source-wordcount: '557'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + Grundlagen zu Customer Journey Analytics {#cja-basics}
    + [Was ist Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Einführung in Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
+   + [Einführung in Customer Journey Analytics - B2B edition](cja-basics/cja-b2b-overview.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
    + [Verwenden des KI-Assistenten](cja-basics/use-ai-assistant.md)
@@ -159,6 +160,6 @@ ht-degree: 79%
    + Komplexe Daten {#complex-data}
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
