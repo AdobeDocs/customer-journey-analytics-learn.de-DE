@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Führen Sie über eine Einstellung in Datenansichten eine Währungsumrechnung in der Kunden-Journey-Analyse durch. Mit dieser Funktion können Sie mehrere Metriken erstellen, die in verschiedenen Währungen angezeigt werden. Eine ausführliche Dokumentation finden Sie unter [Formatieren von Komponenteneinstellungen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=de#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447533/?learn=on&captions=ger)

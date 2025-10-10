@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Erfahren Sie, wie **funnel** in Customer Journey Analytics eine visuelle Darstellung einer wichtigen Benutzer-Journey in Ihrem Produkt bereitstellt und Ihnen dabei hilft, herauszufinden, wo Reibungspunkte enthalten sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431279/?learn=on&captions=ger)
 
 Sie können auch mehrere Ereignisse in einem einzigen funnel-Schritt vergleichen und so eine „verzweigte funnel&quot; erstellen. Mit dieser „verzweigten funnel&quot; können Sie die Reibung von zwei Journey nebeneinander vergleichen. Dies ist nützlich, wenn es Schrittoptionen gibt oder ein A/B-Experiment in funnel ausgeführt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445808/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/funnel/friction).

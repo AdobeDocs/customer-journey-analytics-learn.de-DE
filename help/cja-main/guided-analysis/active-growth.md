@@ -20,6 +20,6 @@ ht-degree: 16%
 
 Erfahren Sie **wie „Aktives**&quot; in Customer Journey Analytics Einblicke in das Wachstum von Benutzenden über einen bestimmten Zeitraum bietet, aufgeteilt nach neuen, wiederholten, wiederkehrenden und inaktiven Benutzenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423394/?learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=de).

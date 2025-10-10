@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie schnell Tabellen und Visualisierungen erstellen können, um das nächste oder vorherige Element für einen bestimmten Dimensions-Wert zu identifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417570/?quality=12&learn=on&captions=ger)

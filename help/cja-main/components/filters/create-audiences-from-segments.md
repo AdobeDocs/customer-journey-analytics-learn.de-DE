@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Zielgruppen aus Customer Journey Analytics erstellen und i
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471282/?learn=on&captions=ger)

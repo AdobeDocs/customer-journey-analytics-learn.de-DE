@@ -21,4 +21,4 @@ Mathematisches Masterdatum in von Customer Journey Analytics abgeleiteten Felder
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471074/?learn=on&captions=ger)

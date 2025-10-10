@@ -22,4 +22,4 @@ Optimieren Sie die Analyse mithilfe von Abfragen in natürlicher Sprache, Echtze
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463917/?learn=on&enablevpops&captions=ger)

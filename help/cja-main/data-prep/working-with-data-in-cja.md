@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie [!UICONTROL Datensatz] [!UICONTROL schemas] in Customer Journey Analytics (CJA) in Variablen konvertiert werden und wie CJA mit einer sehr hohen Kardinalität umgeht.
 
->[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35931/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).

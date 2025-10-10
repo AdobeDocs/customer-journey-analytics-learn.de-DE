@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie die Ereignistiefe in von Customer Journey Analytics abgele
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471052/?learn=on&captions=ger)

@@ -24,4 +24,4 @@ Erstellen Sie [!UICONTROL Schnellsegmente] direkt in Ihren [!DNL Customer Journe
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411988/?quality=12&learn=on&captions=ger)

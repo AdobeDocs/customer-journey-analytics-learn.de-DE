@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie das Attributionsbedienfeld in [!DNL Customer Journey Analy
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/attribution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464731/?learn=on&captions=ger)

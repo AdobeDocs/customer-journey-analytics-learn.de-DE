@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Methoden zur Zeichenfolgenmanipulation den gewünschten Teil der Dimensionswerte in Customer Journey Analytics-Berichten erhalten. Nach der Anwendung erfolgt die Datenumwandlung unverzüglich und rückwirkend.
 
->[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417574/?quality=12&learn=on&captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=de).
