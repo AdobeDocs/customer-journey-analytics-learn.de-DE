@@ -21,4 +21,4 @@ Erfahren Sie mehr über **Zeitleiste** in Customer Journey Analytics, mit der Si
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/streams/timeline).

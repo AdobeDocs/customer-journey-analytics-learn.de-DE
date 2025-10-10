@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie [!UICONTROL Ringdiagramm]-Visualisierungen zu [!DNL Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Ringdiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+Weitere Informationen zu [!UICONTROL Ringdiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=de).

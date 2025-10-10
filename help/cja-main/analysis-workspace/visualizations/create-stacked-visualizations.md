@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierung
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=de).

@@ -20,6 +20,6 @@ ht-degree: 27%
 
 Erfahren Sie, wie [!DNL Content Analytics] die Asset-Verfolgung automatisiert und detaillierte Berichte zur Leistung von Website-Inhalten bereitstellt, einschließlich Ansichten, Klicks und Konversionen. Erfahren Sie, wie Sie Einblicke aus Asset- und Erlebnis-IDs, Metadaten wie Farben und Emotionen sowie vorlagengenerierte Visualisierungen nutzen können, um Ihre Inhaltsstrategie zu optimieren.
 
-Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
+Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)

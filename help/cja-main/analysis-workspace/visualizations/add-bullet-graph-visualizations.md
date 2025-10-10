@@ -27,4 +27,4 @@ Erfahren Sie[!UICONTROL &#x200B; wie &#x200B;] verwendet werden und wie Sie sie 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Weitere Informationen zu Visualisierungen [!UICONTROL horizontale Säulendiagramm] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+Weitere Informationen zu Visualisierungen [!UICONTROL horizontale Säulendiagramm] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=de).
