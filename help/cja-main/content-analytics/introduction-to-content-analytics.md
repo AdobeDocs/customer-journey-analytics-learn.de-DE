@@ -25,7 +25,7 @@ Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https:
 
 Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu zeigen, was Inhalte effektiv macht. Teams können die Interaktion besser optimieren, Konversionen fördern und intelligentere, datengestützte Entscheidungen treffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457319/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Funktionsweise
@@ -41,7 +41,7 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Funktionsweise" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457436/?format=jpeg&nocache=1742338375674&captions=ger" alt="Content Analytics - Funktionsweise"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Funktionsweise"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,7 +49,7 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Funktionsweise">Inhaltsanalyse – Funktionsweise</a>
+                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Funktionsweise">Content Analytics – Funktionsweise</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Content Analytics mit Customer Journey Analytics und Experience Platform zusammenarbeitet.</p>
                 </div>
@@ -134,7 +134,7 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Berichterstellung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473046/?format=jpeg&nocache=1742338375674&captions=ger" alt="Content Analytics - Berichterstellung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Berichterstellung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie die Anomalieerkennung in CJA dazu beiträgt, statistische Schwankungen in Ihren Daten zu identifizieren, Zeit zu sparen und wichtige Erkenntnisse hervorzuheben.
 
 <!-- 72_S106_3442453_58_anomaly-detection-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3459735/?learn=on&enablevpops=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3458302/?learn=on&enablevpops=true)

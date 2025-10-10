@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie Standardvisualisierungen [!UICONTROL Balken] und [!UICONTR
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Weitere Informationen zu Visualisierungen [!UICONTROL Balken] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=de).
+Weitere Informationen zu Visualisierungen [!UICONTROL Balken] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

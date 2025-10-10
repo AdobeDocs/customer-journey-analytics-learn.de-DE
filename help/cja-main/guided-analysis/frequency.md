@@ -1,6 +1,6 @@
 ---
 title: Häufigkeit
-description: Erfahren Sie, wie Sie mit der Häufigkeit des Customer Journey Analytics die Benutzerinteraktion mit Ereignissen in Ihrem Produkt analysieren können.
+description: Erfahren Sie, wie Sie mit der Häufigkeit in Customer Journey Analytics die Benutzerinteraktion mit Ereignissen in Ihrem Produkt analysieren können.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Erfahren Sie **wie Sie mit** Häufigkeit“ in Customer Journey Analytics die Benutzerinteraktion mit Ereignissen in Ihrem Produkt analysieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435811/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/trends/frequency).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency).

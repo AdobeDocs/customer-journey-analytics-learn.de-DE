@@ -7,7 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18792
 thumbnail: 3471043.jpeg
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+exl-id: f124f6ef-220d-498c-9cfa-a08a7983f300
+source-git-commit: aa5c836356364534d19030292870a214cc29f55d
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 10%
@@ -20,4 +21,4 @@ Mathematisches Masterdatum in von Customer Journey Analytics abgeleiteten Felder
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471074/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)

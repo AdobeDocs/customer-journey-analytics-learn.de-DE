@@ -18,10 +18,10 @@ ht-degree: 14%
 
 # Erstellen eines Schnellsegments
 
-Erstellen Sie [!UICONTROL Schnellsegmente] direkt in Ihren [!DNL Customer Journey Analytics]-Projekten und umgehen Sie die Komplexität des vollständigen [!UICONTROL Segment Builder]. Mit dieser Funktion können Sie Ihre Komponentendaten anhand einfacher Kriterien segmentieren und die Ergebnisse sofort anzeigen. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/cja-segments/quick-filters).
+Erstellen Sie [!UICONTROL Schnellsegmente] direkt in Ihren [!DNL Customer Journey Analytics]-Projekten und umgehen Sie die Komplexität des vollständigen [!UICONTROL Segment Builder]. Mit dieser Funktion können Sie Ihre Komponentendaten anhand einfacher Kriterien segmentieren und die Ergebnisse sofort anzeigen. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters).
 
 >[!NOTE]
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411988/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Überblick über die diagrammbasierte Zuordnung
-description: Diagrammbasiertes Stitching nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics zusammengefügt werden, indem eine gemeinsame Personenkennung darin verwendet wird.
+description: Diagrammbasierte Zuordnung nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Programme hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics verbunden werden, indem eine gemeinsame Personenkennung darin verwendet wird.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # Überblick über die diagrammbasierte Zuordnung
 
-Diagrammbasiertes Stitching nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Anwendungen hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics zusammengefügt werden, indem eine gemeinsame Personenkennung darin verwendet wird.
+Diagrammbasierte Zuordnung nutzt die Leistungsfähigkeit des Identitätsdiagramms, um Identitäten über Experience Platform-Programme hinweg auszurichten. Mit dieser Funktion können weitere Datensätze in Customer Journey Analytics verbunden werden, indem eine gemeinsame Personenkennung darin verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448725/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 Durch diagrammbasiertes Stitching mit dem Identitätsdiagramm erhalten Sie einen besseren Überblick über die Kunden-Journey durch:
 

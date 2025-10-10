@@ -1,6 +1,6 @@
 ---
 title: Wirkung der ersten Verwendung
-description: Erfahren Sie, wie sich die erste Verwendung auf das Customer Journey Analytics auswirkt und wie ein Vergleich der Leistung von Schlüsselindikatoren vor und nach der ersten Verwendung einer Produktfunktion angezeigt wird.
+description: Erfahren Sie, wie sich die erste Verwendung in Customer Journey Analytics auswirkt und wie ein Vergleich der Leistung von Schlüsselindikatoren vor und nach der ersten Verwendung einer Produktfunktion durch einen Benutzer dargestellt wird.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 17%
 
 # Wirkung der ersten Verwendung
 
-Erfahren Sie **wie „First Use Impact** in Customer Journey Analytics einen Vergleich der Leistung von Schlüsselindikatoren vor und nach der ersten Verwendung einer Produktfunktion durch einen Benutzer darstellt.
+Erfahren Sie **wie „Wirkung bei** ersten Verwendung“ in Customer Journey Analytics einen Vergleich der Leistung von Schlüsselindikatoren vor und nach der ersten Verwendung einer Produktfunktion zeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423496/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=de).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html).

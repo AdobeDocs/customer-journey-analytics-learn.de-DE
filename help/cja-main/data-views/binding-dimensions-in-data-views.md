@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Das Binden von Dimensionen ist eine interessante Funktion in Customer Journey Analytics, die es Ihnen ermöglicht, eine Dimension mit einer anderen Dimension zu verbinden, um die Persistenzzuordnung zu verfeinern. Wir stoßen oft auf Situationen, in denen wir unterschiedliche Werte im Laufe der Journey eines Benutzers erhalten und entscheiden müssen, wie wir diese Erfolgsmetriken zuweisen. Das Binden von Dimensionen ist eine Möglichkeit, um einige Schlüsselszenarien zu bewältigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409824/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)

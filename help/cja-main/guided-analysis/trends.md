@@ -1,6 +1,6 @@
 ---
 title: Trends
-description: Erfahren Sie mehr über Trends beim Customer Journey Analytics, was wertvolle Einblicke in die Leistung Ihres Produkts oder die Benutzerinteraktion im Laufe der Zeit bietet.
+description: Erfahren Sie mehr über die Trends in Customer Journey Analytics, das im Laufe der Zeit wertvolle insight zur Leistung Ihres Produkts oder zur Benutzerinteraktion bietet.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # Trends
 
-Erfahren Sie mehr über **Trends** in Customer Journey Analytics, die wertvolle Einblicke in die Leistung Ihres Produkts oder die Benutzerinteraktion im Laufe der Zeit bieten.
+Erfahren Sie mehr über **Trends** in Customer Journey Analytics, das im Laufe der Zeit wertvolle insight zur Leistung Ihres Produkts oder zur Benutzerinteraktion bietet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423440/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=de).

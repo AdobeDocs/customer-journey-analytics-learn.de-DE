@@ -1,6 +1,6 @@
 ---
-title: Timeline
-description: Erfahren Sie mehr über den zeitlichen Ablauf beim Customer Journey Analytics, der Ihnen dabei hilft, Erlebnismuster zu finden, bessere Benutzergeschichten zu erzählen und die Implementierung zu validieren.
+title: Zeitleiste
+description: Erfahren Sie mehr über den Zeitrahmen in Customer Journey Analytics, der Ihnen dabei hilft, Erlebnismuster zu finden, bessere Benutzergeschichten zu erzählen und die Implementierung zu validieren.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -15,10 +15,10 @@ ht-degree: 18%
 
 ---
 
-# Timeline
+# Zeitleiste
 
 Erfahren Sie mehr über **Zeitleiste** in Customer Journey Analytics, mit der Sie Erlebnismuster finden, bessere Benutzergeschichten erzählen und die Implementierung validieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435776/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/streams/timeline).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).

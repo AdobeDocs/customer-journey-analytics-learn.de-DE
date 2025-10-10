@@ -16,10 +16,10 @@ ht-degree: 89%
 
 ---
 
-# Verwenden von Objekt-Arrays im Customer Journey Analytics
+# Verwenden von Objekt-Arrays in Customer Journey Analytics
 
 Erfahren Sie, wie Sie Objekt-Arrays aus Profil- und Lookup-Datensätzen in CJA verwenden, um Ihre B2B- und B2C-Analyse von Verbindungen über Datenansichten bis hin zu Workspace anzureichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445275/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=de).

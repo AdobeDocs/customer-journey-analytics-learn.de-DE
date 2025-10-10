@@ -1,6 +1,6 @@
 ---
 title: Nettowachstum
-description: Erfahren Sie, wie das Nettowachstum in Customer Journey Analytics Einblicke in die Rate bietet, mit der Sie Anwender über einen bestimmten Zeitraum gewinnen oder verlieren.
+description: Erfahren Sie, wie das Nettowachstum in Customer Journey Analytics Einblicke in die Rate bietet, mit der Sie in einem bestimmten Zeitraum Benutzer gewinnen oder verlieren.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # Nettowachstum
 
-Erfahren Sie **wie „Nettowachstum** in Customer Journey Analytics Erkenntnisse über die Rate bietet, mit der Sie Anwender in einem bestimmten Zeitraum gewinnen oder verlieren.
+Erfahren Sie **wie „Nettowachstum** in Customer Journey Analytics Einblicke in die Rate bietet, mit der Sie in einem bestimmten Zeitraum Benutzer gewinnen oder verlieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423461/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=de).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).

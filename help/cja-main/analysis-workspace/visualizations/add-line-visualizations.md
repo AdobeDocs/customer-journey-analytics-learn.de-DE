@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen  Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
+title: Hinzufügen [!UICONTROL ] Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
 description: Erfahren Sie, wie Sie [!UICONTROL -]-Visualisierungen zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video

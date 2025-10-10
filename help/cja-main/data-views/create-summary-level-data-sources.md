@@ -11,15 +11,15 @@ exl-id: 709f1649-9a8b-46c7-b2e9-3b89d828d8f8
 source-git-commit: 0ca77a998d57b7302b982a0a7bfe8d45c1068aff
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Erstellen von Datenquellen auf Zusammenfassungsebene im Customer Journey Analytics
+# Erstellen von Datenquellen auf Zusammenfassungsebene in Customer Journey Analytics
 
-Customer Journey Analytics unterstützt Daten auf Zusammenfassungsebene, mit denen Benutzende Daten aggregieren und analysieren können, die nicht nach einzelnen IDs organisiert sind, z. B. Kampagnen- oder Produktdaten. Der Prozess der Integration dieser Zusammenfassungsdaten in Experience Platform wird beschrieben, einschließlich der Erstellung von Verbindungen, der Konfiguration von Datenansichten und der Kombination von Zusammenfassungsdaten mit Ereignisdaten für ein umfassendes Reporting. Diese Funktion ermöglicht tiefere Einblicke in die Kampagnenleistung und verbessert die Flexibilität des Reportings in CJA.
+Customer Journey Analytics unterstützt Daten auf Zusammenfassungsebene, mit denen Benutzende Daten aggregieren und analysieren können, die nicht nach einzelnen IDs organisiert sind, z. B. Kampagnen- oder Produktdaten. Die Integration dieser Zusammenfassungsdaten in Experience Platform wird beschrieben, einschließlich der Erstellung von Verbindungen, der Konfiguration von Datenansichten und der Kombination von Zusammenfassungsdaten mit Ereignisdaten für ein umfassendes Reporting. Diese Funktion ermöglicht tiefere Einblicke in die Kampagnenleistung und erhöht die Flexibilität des Reportings in CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449418/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 

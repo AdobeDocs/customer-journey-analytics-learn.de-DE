@@ -13,8 +13,8 @@ level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie mithilfe von [!UICONTROL Visualisierungen] die [!UICONTROL Attribution] auf den Kanälen in Adobe Customer Journey Analytics anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/33667/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).

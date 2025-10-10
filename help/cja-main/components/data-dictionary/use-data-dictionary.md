@@ -1,6 +1,6 @@
 ---
 title: Verwenden des Datenwörterbuchs
-description: Erfahren Sie mehr über das Datenwörterbuch in Analysis Workspace zum Customer Journey Analytics. Diese Funktion hilft Benutzenden und Admins, die in Projekten verwendeten Komponenten zu verfolgen und zu verstehen. 
+description: Erfahren Sie mehr über das Datenwörterbuch in Analysis Workspace für Customer Journey Analytics. Diese Funktion hilft Benutzenden und Admins, die in Projekten verwendeten Komponenten zu verfolgen und zu verstehen. 
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Verwenden des Datenwörterbuchs
 
-Erfahren Sie mehr über das Datenwörterbuch in Analysis Workspace zum Customer Journey Analytics. Diese Funktion hilft Benutzenden und Admins, die in Projekten verwendeten Komponenten zu verfolgen und zu verstehen. 
+Erfahren Sie mehr über das Datenwörterbuch in Analysis Workspace für Customer Journey Analytics. Diese Funktion hilft Benutzenden und Admins, die in Projekten verwendeten Komponenten zu verfolgen und zu verstehen. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Weitere Informationen zum Datenwörterbuch in Analysis Workspace für Customer Journey Analytics finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=de).
+Weitere Informationen zum Datenwörterbuch in Analysis Workspace für Customer Journey Analytics finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html).

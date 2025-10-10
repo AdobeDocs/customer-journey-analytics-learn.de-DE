@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie [!UICONTROL Bereich] und [!UICONTROL Bereich gestapelt] Vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Weitere Informationen zu Visualisierungen [!UICONTROL Bereich] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=de).
+Weitere Informationen zu Visualisierungen [!UICONTROL Bereich] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).

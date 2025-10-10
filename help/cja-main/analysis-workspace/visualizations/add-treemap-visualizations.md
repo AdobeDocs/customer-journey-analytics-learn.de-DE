@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie die [!UICONTROL Baumkarten]-Visualisierung in [!DNL Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Weitere Informationen zu Visualisierungen [!UICONTROL Baumstruktur] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=de).
+Weitere Informationen zu Visualisierungen [!UICONTROL Baumstruktur] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).

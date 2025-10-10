@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, warum der Umstieg von der gerätebasierten Analyse auf die kundenorientierte Analyse eine Notwendigkeit für den Wettbewerb ist und wie Customer Journey Analytics einen einzigartigen Mehrwert bietet.
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3463010/?learn=on&enablevpops=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)

@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen von Komponenten zum Freiform-Bedienfeld
-description: Verwenden Sie Freiform-Bedienfelder, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
+description: Verwenden Sie Panels vom Typ „Freiform“, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
 feature: Panels
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,17 +8,18 @@ doc-type: feature video
 thumbnail: 3458210.jpg
 kt: 17506
 last-substantial-update: 2025-05-09T00:00:00Z
-source-git-commit: c06efb236692ac9f9beca306af11e98aa8b821ef
+exl-id: e5427085-5ab8-4d6b-96c6-83bc8005a08e
+source-git-commit: 1af16cebb79b13e6d999afc7c9ecbdbc76d31a3f
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 12%
+ht-degree: 75%
 
 ---
 
 # Hinzufügen von Komponenten zum Freiform-Bedienfeld
 
-Verwenden Sie Freiform-Bedienfelder, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
+Verwenden Sie Panels vom Typ „Freiform“, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

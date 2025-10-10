@@ -1,6 +1,6 @@
 ---
 title: Erstellen [!UICONTROL vollständig gestapelten Balken] Visualisierungen in  [!DNL Analysis Workspace]  Projekten
-description: Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierungen in Projekten in  [!DNL Customer Journey Analytics] konfigurieren, die Prozentsätze  [!DNL Analysis Workspace]  Rohwerte verwenden.
+description: Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierungen in Projekten in  [!DNL Analysis Workspace]  konfigurieren, die Prozentsätze  [!DNL Customer Journey Analytics] Rohwerte verwenden.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -25,6 +25,6 @@ Erfahren Sie, wie Sie [!UICONTROL vollständig gestapelte Balken] Visualisierung
 >
 >Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/30079/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=de).
+Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

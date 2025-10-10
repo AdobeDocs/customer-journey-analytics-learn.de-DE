@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie der KI-Assistent von Adobe sofortige Dateneinblicke bietet, Workflows mit Abfragen in natürlicher Sprache umwandelt und umsetzbare Ergebnisse liefert.
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459921/?learn=on&enablevpops=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)

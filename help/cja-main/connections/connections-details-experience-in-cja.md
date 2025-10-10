@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Mit dem Verbindungs-Manager können Sie den Status der Datensatzaufnahme Ihrer Verbindung überprüfen. Diese Benutzeroberfläche informiert Sie auch darüber, wann Daten für den Analysebeginn in Workspace verfügbar sind. Erfahren Sie, wie Sie Datendiskrepanzen aufgrund einer Fehlkonfiguration identifizieren, die Datenimporttermine verwalten und Datensätze aus Verbindungen entfernen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410302/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)

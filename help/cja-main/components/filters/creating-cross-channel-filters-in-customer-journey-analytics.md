@@ -20,10 +20,10 @@ ht-degree: 7%
 
 # Erstellen kanalübergreifender [!UICONTROL Segmente] in Customer Journey Analytics
 
-Erfahren Sie, wie Sie [!UICONTROL Segmente] in Adobe Customer Journey Analytics erstellen, die mehr als eine Datenquelle und einen Kanal verwenden. Erfahren Sie außerdem, wie [!UICONTROL Segmente] in ([!UICONTROL ) kombiniert &#x200B;] können. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Erfahren Sie, wie Sie [!UICONTROL Segmente] in Adobe Customer Journey Analytics erstellen, die mehr als eine Datenquelle und einen Kanal verwenden. Erfahren Sie außerdem, wie [!UICONTROL Segmente] in ([!UICONTROL ) kombiniert ] können. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/35583/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
