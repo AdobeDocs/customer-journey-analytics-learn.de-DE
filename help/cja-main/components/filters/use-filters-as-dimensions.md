@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie Segmente vergleichen und visualisieren können, wenn sie a
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449071/?captions=ger&learn=on&quality=12)

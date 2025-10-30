@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie abgeleitete Felder erstellen, um komplexe Datenmanipulationen im laufenden Betrieb über einen anpassbaren Regel-Builder zu erstellen, und lassen Sie dann die Logik rückwirkend auf ihre Berichte anwenden. Dies kann erheblich Zeit sparen, da sichergestellt wird, dass die Daten in einem für Reporting, Analysen und Maßnahmen nutzbaren Format vorliegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450913/?captions=ger&learn=on)
 
 Mit dieser Funktion können Sie die Qualität und Genauigkeit von Daten in Ihren Projekten aufgrund von Datenfehlern oder -lücken verbessern.
 Beispiele für Anwendungsfälle sind:

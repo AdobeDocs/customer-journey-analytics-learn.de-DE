@@ -19,7 +19,7 @@ ht-degree: 100%
 
 In Customer Journey Analytics (CJA) ähneln Datenansichten den Virtual Report Suites in Adobe Analytics. Sie ermöglichen es Ihnen, die in CJA eingehenden Daten so zu konfigurieren, dass sie für Ihr Reporting und Ihre Analyse am nützlichsten sind. In diesem Video erhalten Sie einen Überblick über die Konfiguration von Datenansichten für Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410300/?captions=ger&quality=12&learn=on)
 
 Sehen Sie sich zusätzliche Videos zu Datenansichten an, um sich auf bestimmte Funktionen zu konzentrieren, mit denen Ihre Daten nützlicher werden.
 

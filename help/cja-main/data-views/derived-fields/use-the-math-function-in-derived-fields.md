@@ -20,6 +20,6 @@ ht-degree: 5%
 
 In diesem Video-Tutorial erfahren Sie, welches Potenzial die Verwendung von Mathematikfunktionen zum Erstellen abgeleiteter Felder in Customer Journey Analytics hat. Erfahren Sie, wie Sie Metriken anpassen können, indem Sie unerwünschte Komponenten wie Steuern aus den Gesamtwerten entfernen, und lernen Sie die Vorteile der Verwendung abgeleiteter Felder gegenüber berechneten Metriken kennen, einschließlich exklusiver Datenansichtsfunktionen wie Deduplizierung, Bucketing und Attribution. Sie erhalten die Flexibilität, maßgeschneiderte Metriken zu erstellen, die Ihren Analytics-Anforderungen entsprechen und Ihre datengestützten Entscheidungsfunktionen verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447218?captions=ger)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

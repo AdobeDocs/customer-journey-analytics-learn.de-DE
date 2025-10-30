@@ -20,6 +20,6 @@ ht-degree: 100%
 
 In diesem Video wird gezeigt, wie Datenvorbereitungsfunktionen für Analytics-Daten verwendet werden, einschließlich von Datenmanipulationsfunktionen wie der Zuordnung von Analytics-Variablen zu neuen benutzerdefinierten Feldern und der Durchführung von Transformationen und Berechnungen. Diese Aktivitäten werden im Workflow für Quellverbindungen für Analytics in Experience Platform durchgeführt.
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432289?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation zum Adobe Analytics-Quell-Connector](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=de){target="_blank"} und in der [Dokumentation zu den Funktionen für die Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=de){target="_blank"}.

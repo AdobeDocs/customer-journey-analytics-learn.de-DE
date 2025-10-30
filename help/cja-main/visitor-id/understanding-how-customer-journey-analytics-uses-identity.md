@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Dieses Video bietet keine Vertiefung Ihres technischen Know-hows, sondern einen praktischen Einblick in die Auswirkungen von [!UICONTROL Identitäten] auf Ihre Analyse in Adobe Customer Journey Analytics. Darüber hinaus werden auch Informationen zu kanalübergreifenden [!UICONTROL Visualisierungen] geboten, die durch das Zuordnen von [!UICONTROL Besucher]-IDs ermöglicht werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33387/?captions=ger&learn=on&quality=12)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de){target="_blank"}.

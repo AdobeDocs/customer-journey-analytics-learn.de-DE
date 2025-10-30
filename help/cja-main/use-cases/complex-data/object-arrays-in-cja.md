@@ -20,6 +20,6 @@ ht-degree: 89%
 
 Erfahren Sie, wie Sie Objekt-Arrays aus Profil- und Lookup-Datensätzen in CJA verwenden, um Ihre B2B- und B2C-Analyse von Verbindungen über Datenansichten bis hin zu Workspace anzureichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445275/?captions=ger&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=de){target="_blank"}.

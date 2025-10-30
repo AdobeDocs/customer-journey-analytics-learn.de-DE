@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie Dropdown-Segmente basierend auf einer gesamten Dimension e
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446825/?captions=ger&learn=on)

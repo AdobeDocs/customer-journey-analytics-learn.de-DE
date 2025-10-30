@@ -19,6 +19,6 @@ ht-degree: 18%
 
 Erfahren Sie mehr über **Zeitleiste** in Customer Journey Analytics, mit der Sie Erlebnismuster finden, bessere Benutzergeschichten erzählen und die Implementierung validieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435776/?captions=ger&learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

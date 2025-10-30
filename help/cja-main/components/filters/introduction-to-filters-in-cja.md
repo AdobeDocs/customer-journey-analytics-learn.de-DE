@@ -24,4 +24,4 @@ Segmente identifizieren Untergruppen von Besuchern oder Kunden anhand von Attrib
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35929/?captions=ger&quality=12&learn=on)

@@ -23,6 +23,6 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie Ihre Adobe Analytics-[!UICONTROL Segmente] in Customer Journey Analytics als „[!UICONTROL Filter]“ verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35584/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de){target="_blank"}.

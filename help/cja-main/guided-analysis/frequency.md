@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Erfahren Sie **wie Sie mit** Häufigkeit“ in Customer Journey Analytics die Benutzerinteraktion mit Ereignissen in Ihrem Produkt analysieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435811/?captions=ger&learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.

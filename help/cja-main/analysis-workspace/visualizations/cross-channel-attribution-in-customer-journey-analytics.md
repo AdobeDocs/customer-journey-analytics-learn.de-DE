@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie mithilfe von [!UICONTROL Visualisierungen] die [!UICONTROL Attribution] auf den Kanälen in Adobe Customer Journey Analytics anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33667/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de){target="_blank"}.

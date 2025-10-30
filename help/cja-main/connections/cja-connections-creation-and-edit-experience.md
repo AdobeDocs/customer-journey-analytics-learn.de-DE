@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Ein neues Verbindungserlebnis mit neuen Funktionen, mit denen Kunden ein rollierendes Datenaufbewahrungsfenster verwenden können, Daten basierend auf dem Zeitstempel der Ereignisse aktivieren und aufstocken können und vorhandene Daten nach Datensatz importieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409825/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=de){target="_blank"}.

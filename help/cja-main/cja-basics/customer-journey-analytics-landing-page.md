@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Die Landingpage für Customer Journey Analytics bietet eine Standardansicht Ihrer Projekte und mobilen Scorecards sowie einen Lernabschnitt, der Ihnen bei den ersten Schritten hilft.
 
->[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409826/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=de){target="_blank"}.
