@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
 exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 17%
@@ -20,6 +20,6 @@ ht-degree: 17%
 
 Erfahren Sie **wie „Wirkung bei** ersten Verwendung“ in Customer Journey Analytics einen Vergleich der Leistung von Schlüsselindikatoren vor und nach der ersten Verwendung einer Produktfunktion zeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423496/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=de).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}.

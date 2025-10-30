@@ -8,10 +8,10 @@ kt: 3958
 role: Admin
 level: Beginner
 exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 95%
 
 ---
 
@@ -23,4 +23,5 @@ Nachdem Sie in Customer Journey Analytics eine [!UICONTROL Verbindung] zu den [!
 
 ## Zusätzliche Ressourcen
 
-* [Customer Journey Analytics – Dokumentation zu Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=de)
+* [Customer Journey Analytics - Dokumentation zu Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=de){target="_blank"}.
+

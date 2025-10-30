@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -25,6 +25,6 @@ Erfahren Sie, wie Sie [!UICONTROL Text]-Visualisierungen in [!DNL Analysis Works
 >
 >Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/328063/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Text]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=de).
+Weitere Informationen zu [!UICONTROL Text]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.

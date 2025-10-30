@@ -11,7 +11,7 @@ kt: 3961
 role: User
 level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie mit Adobe Customer Journey Analytics [!UICONTROL Visualisierungen] erstellen können, die Daten aus mehreren [!UICONTROL Datensätzen] und Kanälen enthalten. Dabei können Daten auch [!UICONTROL besucherweise] zusammengeführt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33647/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
-Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de).
+Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de){target="_blank"}.

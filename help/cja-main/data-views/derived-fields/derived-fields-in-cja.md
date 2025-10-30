@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13438
 thumbnail: 3420258.jpeg
 exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 4%
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie abgeleitete Felder erstellen, um komplexe Datenmanipulationen im laufenden Betrieb über einen anpassbaren Regel-Builder zu erstellen, und lassen Sie dann die Logik rückwirkend auf ihre Berichte anwenden. Dies kann erheblich Zeit sparen, da sichergestellt wird, dass die Daten in einem für Reporting, Analysen und Maßnahmen nutzbaren Format vorliegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450913/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
 
 Mit dieser Funktion können Sie die Qualität und Genauigkeit von Daten in Ihren Projekten aufgrund von Datenfehlern oder -lücken verbessern.
 Beispiele für Anwendungsfälle sind:
@@ -28,4 +28,4 @@ Beispiele für Anwendungsfälle sind:
 * Konfigurieren Sie ein abgeleitetes Seitennamenfeld, das falsch erfasste Seitennamenwerte korrigiert.
 * Konfigurieren Sie ein abgeleitetes Marketing-Kanal-Feld, das den richtigen Marketing-Kanal basierend auf einer oder mehreren Bedingungen bestimmt, z. B. URL-Parameter, Seiten-URL oder Seitenname.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=de).
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=de){target="_blank"}.
