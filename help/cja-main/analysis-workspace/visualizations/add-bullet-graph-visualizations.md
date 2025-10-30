@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen [!UICONTROL horizontalen Säulendiagrammen] Visualisierungen zu  [!DNL Analysis Workspace]  Projekten
-description: Erfahren Sie[!UICONTROL  wie "]" verwendet werden und wie Sie sie zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
+description: Erfahren Sie[!UICONTROL &#x200B; wie "]" verwendet werden und wie Sie sie zu  [!DNL Analysis Workspace]  in  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen [!UICONTROL  Visualisierungen ] Aufzählungsdiagrammen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL &#x200B; Visualisierungen &#x200B;] Aufzählungsdiagrammen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie[!UICONTROL  wie ] verwendet werden und wie Sie sie in [!DNL Analysis Workspace] zu [!DNL Customer Journey Analytics] Projekten hinzufügen. Dieses Diagramm zeigt Ihnen, wie ein Interessenswert im Vergleich zu unseren Zielen ausfällt.
+Erfahren Sie[!UICONTROL &#x200B; wie &#x200B;] verwendet werden und wie Sie sie in [!DNL Analysis Workspace] zu [!DNL Customer Journey Analytics] Projekten hinzufügen. Dieses Diagramm zeigt Ihnen, wie ein Interessenswert im Vergleich zu unseren Zielen ausfällt.
 
 >[!NOTE]
 >
