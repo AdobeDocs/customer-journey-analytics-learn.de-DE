@@ -20,6 +20,6 @@ ht-degree: 75%
 
 Verwenden Sie Panels vom Typ „Freiform“, um Ihre Kundenerlebnisdaten über eine flexible Drag-and-Drop-Oberfläche zu untersuchen, zu vergleichen und zu korrelieren.
 
-Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
+Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie [!UICONTROL zusammenfassende] Visualisierungen in [!DNL An
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Weitere Informationen zu Visualisierungen [!UICONTROL Zusammenfassung] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Weitere Informationen zu Visualisierungen [!UICONTROL Zusammenfassung] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=de){target="_blank"}.
