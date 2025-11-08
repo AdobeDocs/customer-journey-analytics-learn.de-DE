@@ -23,4 +23,4 @@ Mit der CJA-Suche in Such- und Profildaten können Benutzerinnen und Benutzer ti
 
 Eine ausführliche Dokumentation finden Sie unter [Datensatztypen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=de#dataset-types){target="_blank"} und [Daten auf Kontoebene als Lookup-Datensatz hinzufügen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449880/?captions=ger&learn=on)
