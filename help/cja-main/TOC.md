@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
+source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 78%
+source-wordcount: '576'
+ht-degree: 76%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 78%
 + Grundlagen zu Customer Journey Analytics {#cja-basics}
    + [Was ist Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Einführung in Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Einführung in Customer Journey Analytics - B2B edition](cja-basics/cja-b2b-overview.md)
    + [Neue Begriffe und Konzepte](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Landingpage von Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
    + [Verwenden des KI-Assistenten](cja-basics/use-ai-assistant.md)
++ Customer Journey Analytics B2B Edition {#b2b}
+   + [Einführung in Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition - Über die ersten Fragen hinaus](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [Integrieren von CJA mit Marketo für B2B Insights](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Architektur {#architecture}
    + [Architektur und Integrationen](architecture/architecture-and-integrations-of-cja.md)
 + Datenvorbereitung und -planung {#data-prep}
@@ -36,7 +39,7 @@ ht-degree: 78%
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
-   + [Überblick über Zuordnung &#x200B;](visitor-id/overview-of-stitching.md)
+   + [Überblick über Zuordnung ](visitor-id/overview-of-stitching.md)
    + [Überblick über die diagrammbasierte Zuordnung](visitor-id/graph-based-stitching-overview.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
@@ -160,6 +163,6 @@ ht-degree: 78%
    + Komplexe Daten {#complex-data}
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
