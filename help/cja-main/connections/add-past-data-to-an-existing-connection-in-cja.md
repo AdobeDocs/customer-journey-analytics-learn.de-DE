@@ -4,14 +4,14 @@ description: Erfahren Sie mehr über das Hinzufügen neuer Daten zu einer Custom
 feature: Connections
 activity: setup
 doc-type: technical video
-role: Admin, Data Engineer, Data Architect
+role: Admin, Developer
 level: Beginner
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Optimieren Sie Ihre Analysen, indem Sie neue Daten aus anderen Kanälen zu einer Customer Journey Analytics-Verbindung hinzufügen. Erfahren Sie mehr über die Anforderungen für das Zusammenführen dieser neuen Daten und die Auswirkungen auf die Analysen und Berichte, die mithilfe von Konfigurationseinstellungen festgelegt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/36453/?captions=ger&learn=on&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
 Weitere Informationen zu Cross-Channel-Analysen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=de){target="_blank"}.
