@@ -22,4 +22,4 @@ Erfahren Sie, wie [!DNL Content Analytics] mit Customer Journey Analytics und Ex
 
 Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457436/?captions=ger&learn=on&enablevpops)
