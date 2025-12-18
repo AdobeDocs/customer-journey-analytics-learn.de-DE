@@ -39,7 +39,7 @@ ht-degree: 75%
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
-   + [Überblick über Zuordnung ](visitor-id/overview-of-stitching.md)
+   + [Überblick über Zuordnung &#x200B;](visitor-id/overview-of-stitching.md)
    + [Aktivierung und Validierung des Stitching](visitor-id/stitching-enablement-and-validation.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
