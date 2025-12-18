@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch die Aktivierung der Zuordnung für einen beliebigen Ereignisdatensatz. Darüber hinaus können Sie, sobald die Zuordnung für einen Datensatz aktiviert wurde, verschiedene Metriken und Dimensionen präsentieren, mit denen Sie überprüfen können, ob er funktioniert und welchen Wert er bringt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478129/?captions=ger&learn=on&enablevpops)
