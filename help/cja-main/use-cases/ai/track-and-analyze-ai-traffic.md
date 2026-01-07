@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie KI-generierten Traffic in Adobe Customer Journey Analytics mithilfe von abgeleiteten Feldern, Segmenten und Workspace-Projekten identifizieren und filtern können, um präzise, personalisierte Kundeneinblicke zu erhalten. Dieses kurze Tutorial für Administratoren und Marketing-Fachleute zeigt die schrittweise Einrichtung zur Erkennung von LLM-Bots über Benutzeragenten, Referrer und mehr, sodass Ihre Daten sauber und verwertbar bleiben.
 
-Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
+Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
