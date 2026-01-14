@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e97a621c4ccc75fbbdc08c270848d7c66ac2b072
+source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 74%
@@ -39,7 +39,7 @@ ht-degree: 74%
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
-   + [Überblick über Zuordnung &#x200B;](visitor-id/overview-of-stitching.md)
+   + [Überblick über Zuordnung ](visitor-id/overview-of-stitching.md)
    + [Aktivierung und Validierung des Stitching](visitor-id/stitching-enablement-and-validation.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
@@ -92,7 +92,7 @@ ht-degree: 74%
       + [Hinzufügen von Balkenvisualisierungen](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Hinzufügen von Säulendiagramm-Visualisierungen](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Hinzufügen von Ringvisualisierungen](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [Hinzufügen von Linienvisualisierungen](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Hinzufügen von Linienvisualisierungen](analysis-workspace/visualizations/line-visualization.md)
       + [Konfigurieren und Verwenden der Kartenvisualisierung](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Verwenden von zusammenfassenden Visualisierungen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
@@ -165,6 +165,6 @@ ht-degree: 74%
    + Komplexe Daten {#complex-data}
       + [Verwenden von Objekt-Arrays](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Szenario zur Konsolidierung digitaler Verhaltensdaten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Szenario zur Analyse der Anruf-Journey](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
