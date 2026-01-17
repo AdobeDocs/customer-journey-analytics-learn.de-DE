@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Entdecken Sie, wie Linienvisualisierungen Ihr Verständnis von Metriken im Laufe der Zeit verbessern können. Passen Sie die X/Y-Achsen an, zeigen Sie Min/Max-Beschriftungen an und fügen Sie Trendlinien hinzu, um Ihre Dateneinblicke mit Customer Journey Analytics zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478988/?captions=ger&learn=on&enablevpops)
