@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Gestalten Sie Ihre Freiformtabellen mit der Funktion Mehrere Dimension-Spalten in CJA noch leistungsfähiger. Zusätzlich zur Aufschlüsselung von Standarddimensionen können Sie Dimensionsdaten nebeneinander analysieren, um relationale Paare zu erstellen, um Ihre Daten besser darzustellen und zu verstehen. Die erweiterte Sortierfunktion bietet außerdem mehr Flexibilität bei der Bearbeitung von Tabellen, um Ihre Daten genau so anzuzeigen, wie Sie es wünschen! Weitere Informationen finden Sie in der [Dokumentation.](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479523/?captions=ger&learn=on&enablevpops)

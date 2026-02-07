@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie [!UICONTROL Bereich] und [!UICONTROL Bereich gestapelt] Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen. Diese Visualisierungen sind ideal geeignet, wenn mehrere Metriken vorhanden sind, für die Sie den Bereich basierend auf der Schnittmenge visualisieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479649/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu Visualisierungen [!UICONTROL Bereich] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=de){target="_blank"}.
