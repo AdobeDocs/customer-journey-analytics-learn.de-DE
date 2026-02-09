@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
+source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 99%
       + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Verwenden der Streudiagramm-Visualisierung](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Hinzufügen der Baumdiagramm-Visualisierung](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [Erstellen von vollständig gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Erstellen von 100 % gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Hinzufügen von Prognosen zu Ihrer Visualisierung](analysis-workspace/visualizations/forecasting.md)
    + Anmerkungen {#annotations}
       + [Erstellen einer Anmerkung](analysis-workspace/annotations/create-an-annotation.md)
