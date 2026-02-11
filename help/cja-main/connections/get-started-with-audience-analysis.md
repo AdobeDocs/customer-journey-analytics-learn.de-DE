@@ -20,6 +20,6 @@ ht-degree: 7%
 
 Erfahren Sie, wie Marketing-Experten mit der Zielgruppenanalyse Zielgruppensegmente aus Experience Platform aufnehmen und das tatsächliche Kundenverhalten kanalübergreifend analysieren können, um die Kampagnenoptimierung zu verbessern. Lernen Sie die einfachen Einrichtungsschritte kennen, um Daten zur Zielgruppenzugehörigkeit zu aktivieren, vordefinierte Vorlagen zu erkunden und umsetzbare Einblicke zu gewinnen, die Personalisierung, Konversionen und ROI fördern.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
