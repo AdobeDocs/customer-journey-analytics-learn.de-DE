@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie [!UICONTROL zusammenfassende] Visualisierungen in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierungen eignen sich perfekt, wenn Sie eine große Zahl hervorheben möchten, die in einem Projekt wichtig ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479899/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu Visualisierungen [!UICONTROL Zusammenfassung] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=de){target="_blank"}.

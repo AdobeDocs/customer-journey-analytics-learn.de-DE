@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie [!UICONTROL Ringdiagramm]-Visualisierungen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung ist ideal für den Vergleich der prozentualen Anteile eines Ganzen für einige wenige Elemente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479888/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu [!UICONTROL Ringdiagramm]-Visualisierungen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=de){target="_blank"}.
