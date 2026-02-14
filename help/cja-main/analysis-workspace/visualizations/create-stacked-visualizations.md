@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Analysis Workspace-Projekten in Customer Journey Analytics vollständig gestapelte Visualisierungen mit Prozentsätzen anstelle von Rohwerten konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479706/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu [!UICONTROL vollständig gestapelten Var]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=de){target="_blank"}.

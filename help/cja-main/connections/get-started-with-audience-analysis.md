@@ -22,4 +22,4 @@ Erfahren Sie, wie Marketing-Experten mit der Zielgruppenanalyse Zielgruppensegme
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479813/?captions=ger&learn=on&enablevpops)
