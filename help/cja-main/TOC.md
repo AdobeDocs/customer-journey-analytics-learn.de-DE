@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
+source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '611'
 ht-degree: 97%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 97%
       + [Verwenden von Segmenten als Dimensionen](components/filters/use-filters-as-dimensions.md)
       + [Erstellen von Zielgruppen aus Segmenten](components/filters/create-audiences-from-segments.md)
       + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + [Echtzeit-Reporting](components/real-time-reporting.md)
    + Dimensionen {#dimensions}
       + [Ereignistiefe](components/dimensions/event-depth-in-cja.md)
    + Berechnete Metriken {#calc-metrics}
