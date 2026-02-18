@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die [!UICONTROL Streuvisualisierung] in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] verwenden. Diese Visualisierung zeigt die Beziehung zwischen Dimensionselementen und bis zu drei Metriken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479978/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu [!UICONTROL Streuvisualisierungen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=de){target="_blank"}.
