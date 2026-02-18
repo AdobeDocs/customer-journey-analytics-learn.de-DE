@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie die [!UICONTROL Streuvisualisierung] in [!DNL Analysis Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Weitere Informationen zu [!UICONTROL Streuvisualisierungen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Weitere Informationen zu [!UICONTROL Streuvisualisierungen] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=de){target="_blank"}.
