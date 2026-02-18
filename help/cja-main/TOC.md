@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 23acbd278efd0b6bbbac65fa02b6a703790c3aef
+source-git-commit: 6184b0e86b72026dd95e9c31ac13ce674bc678f1
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 95%
+source-wordcount: '610'
+ht-degree: 96%
 
 ---
 
@@ -99,8 +99,8 @@ ht-degree: 95%
       + [Konfigurieren und Verwenden der Kartenvisualisierung](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Hinzufügen von Zusammenfassungsvisualisierungen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [Hinzufügen von Streudiagramm-Visualisierungen](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Hinzufügen von Baumkarten-Visualisierungen](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Hinzufügen von Streuvisualisierungen](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Hinzufügen der Baumdiagramm-Visualisierung](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Erstellen von 100 % gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Hinzufügen von Prognosen zu Ihrer Visualisierung](analysis-workspace/visualizations/forecasting.md)
    + Anmerkungen {#annotations}
