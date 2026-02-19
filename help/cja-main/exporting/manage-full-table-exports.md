@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Verwalten und Verwalten vollständiger Tabellenexporte
 
-Erfahren Sie, wie Sie vollständige Tabellenexporte in Customer Journey Analytics verwalten.  Diese Funktionen ermöglichen es CJA-Administratoren, die Aufsicht zu optimieren, manuelle Prüfungen zu reduzieren, die Automatisierung zu verbessern und eine zuverlässige Datenbereitstellung an Cloud-Ziele sicherzustellen. Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
+Erfahren Sie, wie Sie vollständige Tabellenexporte in Customer Journey Analytics verwalten.  Diese Funktionen ermöglichen es CJA-Administratoren, die Aufsicht zu optimieren, manuelle Prüfungen zu reduzieren, die Automatisierung zu verbessern und eine zuverlässige Datenbereitstellung an Cloud-Ziele sicherzustellen. Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
