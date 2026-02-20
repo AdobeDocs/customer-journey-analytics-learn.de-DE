@@ -22,4 +22,4 @@ Erfahren Sie, wie die Echtzeitberichterstellung in Adobe Customer Journey Analyt
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479953/?captions=ger&learn=on&enablevpops)
