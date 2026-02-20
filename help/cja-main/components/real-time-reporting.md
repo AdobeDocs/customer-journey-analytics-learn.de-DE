@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Erfahren Sie, wie die Echtzeitberichterstellung in Adobe Customer Journey Analytics wichtige Metriken wie Umsatz, Konversionen und Besuche direkt in Analysis Workspace liefert. Diese Funktion eignet sich ideal für große Werbeaktionen, Produkteinführungen und die Validierung von Journey. Mit ihr können Marketing-Experten schnellere, datengestützte Entscheidungen treffen, wenn jede Minute zählt.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
