@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die [!UICONTROL Baumkarten]-Visualisierung in [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics] hinzufügen und konfigurieren. Diese Visualisierung erstellt hierarchische Daten als eine Reihe verschachtelter Rechtecke und ermöglicht es Ihnen, Muster leicht zu sehen, die andernfalls schwer zu erkennen wären.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480265/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu Visualisierungen [!UICONTROL Baumstruktur] finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=de){target="_blank"}.
