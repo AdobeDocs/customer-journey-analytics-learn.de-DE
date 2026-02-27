@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -96,11 +96,11 @@ ht-degree: 95%
       + [Hinzufügen von Ringvisualisierungen](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Mehrere Dimensionsspalten in Freiformtabellen](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Hinzufügen von Linienvisualisierungen](analysis-workspace/visualizations/line-visualization.md)
-      + [Konfigurieren und Verwenden der Kartenvisualisierung](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [Hinzufügen von Zusammenfassungsvisualisierungen](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Hinzufügen und Konfigurieren der Zuordnungsvisualisierung](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [Visualisierungen von Zusammenfassungen hinzufügen](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Hinzufügen von Textvisualisierungen](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Hinzufügen von Streuvisualisierungen](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Hinzufügen der Baumdiagramm-Visualisierung](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Hinzufügen von Baumkarten-Visualisierungen](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Erstellen von 100 % gestapelten Visualisierungen](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Hinzufügen von Prognosen zu Ihrer Visualisierung](analysis-workspace/visualizations/forecasting.md)
    + Anmerkungen {#annotations}
