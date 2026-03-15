@@ -1,6 +1,6 @@
 ---
-title: Neue Begriffe und Konzepte in Customer Journey Analytics
-description: In diesem Video erläutern wir wichtige Begriffe und Konzepte in Adobe Customer Journey Analytics, deren Bezug zu Begriffen und Konzepten in Adobe Analytics und darüber, wo sie in der Benutzeroberfläche von Customer Journey Analytics zu finden sind.
+title: Analytics in CJA - Neue Begriffe und ihre Zuordnung
+description: Erfahren Sie, wie Sie Ihr bestehendes Adobe Analytics-Wissen in Customer Journey Analytics übersetzen können, indem Sie vertraute Konzepte wie Kernmetriken, Report Suites, Variablen und mehr CJA-Äquivalenten zuordnen.
 feature: Workspace Basics
 topics: null
 activity: use
@@ -8,20 +8,22 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: User
+role: Admin, User
 level: Beginner
+duration: 410
+last-substantial-update: 2026-03-11T00:00:00Z
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
-# Neue Begriffe und Konzepte in Customer Journey Analytics
+# Analytics in CJA - Neue Begriffe und ihre Zuordnung
 
-In diesem Video erläutern wir wichtige Begriffe und Konzepte in Customer Journey Analytics, deren Bezug zu Begriffen und Konzepten in Adobe Analytics und darüber, wo sie in der Benutzeroberfläche von Customer Journey Analytics zu finden sind.
+Erfahren Sie, wie Sie Ihr bestehendes Adobe Analytics-Wissen in Customer Journey Analytics übersetzen können, indem Sie vertraute Konzepte wie Kernmetriken, Report Suites, Variablen und mehr CJA-Äquivalenten zuordnen. In diesem allgemeinen Video wird die Beziehung zwischen CJA und Experience Platform erläutert und gezeigt, wo diese zugeordneten Begriffe in der Benutzeroberfläche zu finden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/35932/?captions=ger&quality=12&learn=on)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
-Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=de){target="_blank"}.
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
