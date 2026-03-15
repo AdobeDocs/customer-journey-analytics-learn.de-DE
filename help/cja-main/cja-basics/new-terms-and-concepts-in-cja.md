@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie Ihr bestehendes Adobe Analytics-Wissen in Customer Journey
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35932/?captions=ger&quality=12&learn=on)
