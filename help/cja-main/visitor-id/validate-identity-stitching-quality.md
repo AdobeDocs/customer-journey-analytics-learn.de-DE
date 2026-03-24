@@ -21,6 +21,6 @@ Erfahren Sie mehr über die Funktion zur Datensatzvorschau in Customer Journey A
 
 Bewerten Sie die Eignung des Datensatzes für ein zuverlässiges geräte- und kanalübergreifendes Reporting vor der Aufnahme, wodurch die Wertschöpfungszeit erheblich verkürzt und das Risiko von Identitätsstrategieentscheidungen mit Echtzeit-Einblicken verringert wird.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
