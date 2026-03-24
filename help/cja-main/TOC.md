@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
+source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 89%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -40,9 +40,10 @@ ht-degree: 89%
    + [Erste Schritte mit der Zielgruppenanalyse](connections/get-started-with-audience-analysis.md)
 + Besucheridentifizierung {#visitor-id}
    + [Verwendung von Identitäten durch CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
    + [Überblick über die Zuordnung](visitor-id/overview-of-stitching.md)
+   + [Validieren der Daten und Zusammenfügen der Qualität mithilfe der Vorschau](visitor-id/validate-identity-stitching-quality.md)
    + [Aktivierung und Validierung der Zuordnung](visitor-id/stitching-enablement-and-validation.md)
+   + [Konfigurieren einer fehlenden Personen-ID](visitor-id/configure-missing-person-id.md)
 + Datenansichten {#data-views}
    + [Übersicht über die Konfiguration von Datenansichten für CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Allgemeine Konfiguration für Datenansichten](data-views/basic-configuration-for-data-views.md)
