@@ -23,4 +23,4 @@ Bewerten Sie die Eignung des Datensatzes für ein zuverlässiges geräte- und ka
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481901/?captions=ger&learn=on&enablevpops)
