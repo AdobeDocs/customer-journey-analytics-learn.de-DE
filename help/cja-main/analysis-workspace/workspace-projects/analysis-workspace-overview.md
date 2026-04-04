@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Analysis Workspace] ist eine flexible Freiformanalyse-Umgebung, mit der Daten aus [!DNL Experience Platform] untersucht und visualisiert werden können. Erfahren Sie mehr über die grundlegenden Komponenten, die zum Erstellen von Projekten und Dashboards verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450605/?captions=ger&quality=12&learn=on)
