@@ -1,6 +1,6 @@
 ---
 title: Einführung in Content Analytics
-description: Die Messung der Content-Performance kann eine Herausforderung darstellen und führt häufig zu Vermutungen und Ineffizienz. Content Analytics eliminiert das Rätselraten, indem es tiefe Einblicke in die Funktionen bietet, die Inhalte effektiv machen.
+description: Die Messung der Content-Performance kann schwierig sein, was häufig zu Unsicherheiten und ineffizienten Vorgehensweisen führt. Content Analytics beseitigt diese Unsicherheiten und bietet umfassende Erkenntnisse dazu, was Inhalte effektiv macht.
 feature: Use Cases
 role: Leader, User
 level: Beginner
@@ -8,29 +8,30 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 34%
+source-wordcount: '283'
+ht-degree: 98%
 
 ---
 
 # Einführung in Content Analytics
 
-Die Messung der Content-Performance kann eine Herausforderung darstellen und führt häufig zu Vermutungen und Ineffizienz. Content Analytics beseitigt das Rätselraten, indem es tiefe Einblicke in die Funktionen bietet, die Inhalte effektiv machen - unabhängig davon, ob es sich um Ton, Bilder, Farbe oder Messaging handelt. Es beantwortet wichtige Fragen wie die Frage, was die Interaktion antreibt und wie Inhalte optimiert werden können.
+Die Messung der Content-Performance kann schwierig sein, was häufig zu Unsicherheiten und ineffizienten Vorgehensweisen führt. Content Analytics beseitigt Unsicherheiten und schafft Klarheit mit umfassenden Erkenntnissen dazu, was Inhalte effektiv macht – ob Ton, Bilder, Farbe oder Messaging. Damit lassen sich wichtige Aspekte wie die Frage klären, was Interaktionen fördert und wie Inhalte optimiert werden können.
 
-Weitere Informationen finden Sie in der Content Analytics [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} zu Content Analytics.
 
 ## Einführung
 
-Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu zeigen, was Inhalte effektiv macht. Teams können die Interaktion besser optimieren, Konversionen fördern und intelligentere, datengestützte Entscheidungen treffen.
+Content Analytics nutzt künstliche Intelligenz und die Infrastruktur von Experience Platform, um die Wirksamkeit von Inhalten zu ermitteln. Teams können die Interaktion besser optimieren, Konversionen fördern und intelligentere, datengestützte Entscheidungen treffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457319/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Funktionsweise
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * how-it-works.md
 -->
@@ -40,8 +41,8 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="how-it-works.md" title="Content Analytics - Funktionsweise" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457436/?captions=ger&format=jpeg&nocache=1742338375674" alt="Content Analytics - Funktionsweise"
+                    <a href="how-it-works.md" title="Content Analytics – Funktionsweise" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics – Funktionsweise"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,12 +50,12 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Funktionsweise">Content Analytics – Funktionsweise</a>
+                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics – Funktionsweise">Content Analytics – Funktionsweise</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Content Analytics mit Customer Journey Analytics und Experience Platform zusammenarbeitet.</p>
                 </div>
                 <a href="how-it-works.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>
@@ -62,9 +63,10 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Einrichten
+## Einrichtung
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * create-configuration.md
 * edit-configuration.md
@@ -76,8 +78,8 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="create-configuration.md" title="Content Analytics - Konfiguration erstellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458438/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Konfiguration erstellen"
+                    <a href="create-configuration.md" title="Content Analytics – Erstellen einer Konfiguration" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458438/?format=jpeg&nocache=1742338375674" alt="Content Analytics – Erstellen einer Konfiguration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -85,12 +87,12 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Konfiguration erstellen">Content Analytics – Erstellen einer Konfiguration</a>
+                        <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics – Erstellen einer Konfiguration">Content Analytics – Erstellen einer Konfiguration</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie den geführten Workflow für Content Analytics verwenden. Er vereinfacht den Einrichtungsprozess für Marketing-Fachleute und ermöglicht eine effiziente Datenerfassung, -verarbeitung und -berichterstattung in Customer Journey Analytics. </p>
                 </div>
                 <a href="create-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>
@@ -99,8 +101,8 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="edit-configuration.md" title="Content Analytics - Konfiguration bearbeiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458439/?format=jpeg&nocache=1742338375690" alt="Content Analytics - Konfiguration bearbeiten"
+                    <a href="edit-configuration.md" title="Content Analytics – Bearbeiten der Konfiguration" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458439/?format=jpeg&nocache=1742338375690" alt="Content Analytics – Bearbeiten der Konfiguration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +110,12 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Konfiguration bearbeiten">Content Analytics – Bearbeiten der Konfiguration</a>
+                        <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics – Bearbeiten der Konfiguration">Content Analytics – Bearbeiten der Konfiguration</a>
                     </p>
                     <p class="is-size-6">Bearbeiten Sie Content Analytics-Konfigurationen effizient durch das Anpassen von Namen, Datenansichten und Einstellungen zur Erlebniserfassung. Diese Aktion aktualisiert automatisch die Metriken und führt über die Tags-Erweiterung für Content Analytics eine Feinabstimmung für optimierte Erkenntnisse durch.</p>
                 </div>
                 <a href="edit-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>
@@ -121,9 +123,10 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Berichterstellung
+## Reporting
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * reporting.md
 -->
@@ -133,8 +136,8 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="reporting.md" title="Content Analytics - Berichterstellung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473046/?captions=ger&format=jpeg&nocache=1742338375674" alt="Content Analytics - Berichterstellung"
+                    <a href="reporting.md" title="Content Analytics – Reporting" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics – Reporting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,12 +145,12 @@ Content Analytics verwendet KI und die Experience Platform-Infrastruktur, um zu 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="reporting.md" target="_blank" rel="referrer" title="Content Analytics - Berichterstellung">Content Analytics - Berichterstellung</a>
+                        <a href="reporting.md" target="_blank" rel="referrer" title="Content Analytics – Reporting">Content Analytics – Reporting</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Content Analytics detaillierte Berichte zur Leistung von Website-Inhalten bereitstellt.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie mit Content Analytics detaillierte Performance-Berichte für Website-Content erhalten.</p>
                 </div>
                 <a href="reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>
