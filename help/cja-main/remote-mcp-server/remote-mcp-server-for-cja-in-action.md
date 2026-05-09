@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie KI-Tools wie Claude, ChatGPT oder Cursor mit dem Adobe Cus
 
 Weitere Informationen finden Sie in der [Dokumentation](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} zu Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486334/?captions=ger&learn=on&enablevpops)
