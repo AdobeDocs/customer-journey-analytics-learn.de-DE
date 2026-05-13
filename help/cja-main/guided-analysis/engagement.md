@@ -29,6 +29,6 @@ ht-degree: 13%
 
 Erfahren Sie **wie &quot;**&quot; in Customer Journey Analytics Erkenntnisse darüber liefert, wie oft Ihre Produktfunktionen verwendet werden im Vergleich zur Anzahl der Personen, die sie verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447476?captions=ger)
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}.

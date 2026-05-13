@@ -24,4 +24,4 @@ ht-degree: 0%
 Erfahren Sie, wie der Analytics Easy Mode verborgene Funktionen in Analysis Workspace aufdeckt, sodass Benutzende leichter auf leistungsstarke Tools zugreifen und ihre Workflows optimieren können.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459724/?captions=ger&learn=on&enablevpops=true)

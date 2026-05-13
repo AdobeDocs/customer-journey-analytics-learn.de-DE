@@ -38,4 +38,4 @@ Mit der CJA-Suche in Lookup- und Profildaten können Benutzerinnen und Benutzer 
 
 Eine ausführliche Dokumentation finden Sie unter [Typen von Datensätzen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=de#dataset-types){target="_blank"} und [Hinzufügen von Daten der Kontoebene als Lookup-Datensatz](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449880/?captions=ger&learn=on)

@@ -34,4 +34,4 @@ ht-degree: 65%
 
 Erwecken Sie Ihre Standortdaten mit der Kartenvisualisierung zum Leben. Identifizieren Sie Geo-Cluster und erstellen Sie Segmente direkt mithilfe des Auswahlwerkzeugs. Nur ein paar einfache Konfigurationsschritte und schon sind Sie bereit! Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470828/?captions=ger&learn=on&enablevpops)

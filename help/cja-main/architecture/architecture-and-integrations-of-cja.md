@@ -38,4 +38,4 @@ Erfahren Sie, wie Adobe Customer Journey Analytics auf Adobe Experience Platform
 
 Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330410/?captions=ger&learn=on&quality=12)

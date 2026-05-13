@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die grundlegende Einrichtung einer Tabellenbereitstellung von Customer Journey Analytics für die Data Landing Zone von AEP und Snowflake. Eine ausführliche Dokumentation finden Sie unter [Exportieren von Customer Journey Analytics-Berichten in die Cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=de){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450986/?captions=ger&learn=on)
 
 Mit dem „vollständigen Tabellenexport“ lassen sich auf sichere Weise Tabellen mit allen Berichtszeilen bereitstellen, die mit ihrem Cloud-Ziel verkettet sind. Der Export kann einmalig oder nach Zeitplan erfolgen.  Darüber hinaus vereinfacht der neue Export-Komponenten-Manager die Verwaltung aller Bereitstellungen.

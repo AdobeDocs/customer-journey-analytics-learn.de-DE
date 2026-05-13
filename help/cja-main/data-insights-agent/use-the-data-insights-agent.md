@@ -37,4 +37,4 @@ Analysieren Sie Daten mithilfe von Prompts in natürlicher Sprache, die Freiform
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463928/?captions=ger&learn=on&enablevpops)

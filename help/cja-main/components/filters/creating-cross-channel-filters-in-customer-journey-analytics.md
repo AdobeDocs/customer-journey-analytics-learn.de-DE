@@ -39,4 +39,4 @@ Erfahren Sie, wie Sie [!UICONTROL Segmente] in Adobe Customer Journey Analytics 
 >
 > &quot;[!UICONTROL Filter]&quot; wurden in der Benutzeroberfläche von Customer Journey Analytics in [!UICONTROL Segmente] umbenannt.
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35583/?captions=ger&quality=12&learn=on)
