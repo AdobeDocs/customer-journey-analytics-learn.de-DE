@@ -9,10 +9,27 @@ doc-type: feature video
 thumbnail: 343742.jpg
 kt: 10538
 exl-id: eaf2f29e-7eb3-4d79-85b7-e2bcb38523c7
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+TQID: https://experienceleague.adobe.com/CtzLoPJ0fvWJ1sKb6POKh0y-m9Y69G5awMmOivcp0U0
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+subfeature_v2:
+  - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107
+  - id: cb6c7d24-631f-46e5-9e39-3a2705f73962
+  - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
+  - id: fa6ac035-8403-478b-9ce1-3fe29d211fca
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 73
+ht-degree: 100%
 
 ---
 
@@ -20,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Ihren [!DNL Customer Journey Analytics]-Projekten eine [!UICONTROL Anmerkung] erstellen können, wenn Ereignisse wie Kampagnenstarts, Datenprobleme und Feiertage auftreten. Diese Funktion informiert Ihre Benutzer über Metrikabweichungen bei diesen Daten oder Datumsbereichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411986/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3411986/?captions=ger&quality=12&learn=on)
