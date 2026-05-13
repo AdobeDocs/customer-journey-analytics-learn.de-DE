@@ -25,6 +25,6 @@ ht-degree: 68%
 
 # Hinzufügen von Prognosen zu Ihrer Visualisierung
 
-Erfahren Sie, wie Sie Prognosewerte zu Ihrer Zeitreihenvisualisierung in Customer Journey Analytics hinzufügen können. Ausführliche Dokumentation finden Sie unter [Prognoseübersicht](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
+Erfahren Sie, wie Sie Prognosewerte zu Ihrer Zeitreihenvisualisierung in Customer Journey Analytics hinzufügen können. Ausführliche Dokumentation finden Sie unter [Prognoseübersicht](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)

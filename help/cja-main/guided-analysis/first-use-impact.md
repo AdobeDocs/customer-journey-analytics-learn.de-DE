@@ -29,4 +29,4 @@ Erfahren Sie **wie „Wirkung bei** ersten Verwendung“ in Customer Journey Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=de){target="_blank"}.

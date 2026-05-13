@@ -31,4 +31,4 @@ Erfahren Sie **wie „Nettowachstum** in Customer Journey Analytics Einblicke in
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=de){target="_blank"}.

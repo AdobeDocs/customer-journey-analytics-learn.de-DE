@@ -29,4 +29,4 @@ Erfahren Sie **wie Sie mit** Häufigkeit“ in Customer Journey Analytics die Be
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.

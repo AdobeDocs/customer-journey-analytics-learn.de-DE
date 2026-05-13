@@ -31,4 +31,4 @@ Erfahren Sie **wie „Aktives**&quot; in Customer Journey Analytics Einblicke in
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=de){target="_blank"}.
