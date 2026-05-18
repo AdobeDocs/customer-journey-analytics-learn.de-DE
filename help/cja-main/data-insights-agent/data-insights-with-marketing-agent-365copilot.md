@@ -34,4 +34,4 @@ Sehen Sie sich eine Demo der [!DNL Adobe Marketing Agent] in [!DNL Microsoft Tea
 
 Sehen Sie sich diese Videos an, um mehr über andere [Marketing](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}Workflows) und [Erste Schritte](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"} einschließlich Voraussetzungen, Datenzugriff und Berechtigungen zu erfahren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491181/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491203/?captions=ger&learn=on&enablevpops)
