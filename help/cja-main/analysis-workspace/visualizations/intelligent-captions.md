@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie in Ihren Visualisierungen intelligente Beschriftungen akti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=de){target="_blank"}.
