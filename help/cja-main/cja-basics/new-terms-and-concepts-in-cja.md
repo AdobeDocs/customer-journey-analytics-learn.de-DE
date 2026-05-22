@@ -39,6 +39,6 @@ ht-degree: 53%
 
 Erfahren Sie, wie Sie Ihr vorhandenes Wissen über Adobe Analytics auf Customer Journey Analytics übertragen, indem Sie vertraute Konzepte wie Kernmetriken, Report Suites, Variablen und mehr den entsprechenden CJA-Äquivalenten zuordnen. In diesem allgemeinen Video wird die Beziehung zwischen CJA und Experience Platform erläutert und gezeigt, wo diese zugeordneten Begriffe in der Benutzeroberfläche zu finden sind.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
