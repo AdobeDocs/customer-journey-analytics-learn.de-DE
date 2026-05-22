@@ -11,7 +11,7 @@ jira: KT-18527
 exl-id: 6839cc7b-07cb-48de-9943-69e2c8b4dc15
 source-git-commit: 4a0b6da0cacd435d063107c028b9e624dc127e5b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Die Ereignistiefe in Customer Journey Analytics ist eine standardmäßige Dimensionskomponente, die eine präzise sequenzielle Verfolgung von Benutzerinteraktionen innerhalb von Sitzungen ermöglicht und wertvolle Einblicke in Kundenverhaltensmuster auf digitalen und Offline-Plattformen bietet. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464860/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3464860/?captions=ger&learn=on&enablevpops)
