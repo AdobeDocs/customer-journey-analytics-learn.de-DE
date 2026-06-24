@@ -25,5 +25,5 @@ ht-degree: 0%
 Erfahren Sie, wie Benutzende mit abgeleiteten Inline-Feldern Daten direkt in Customer Journey Analytics bereinigen und gruppieren können, wodurch sich die Abhängigkeit von Admins verringert und Zeit gespart wird.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460295/?captions=ger&learn=on&enablevpops=true)
 

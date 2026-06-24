@@ -22,5 +22,5 @@ ht-degree: 0%
 Erfahren Sie, wie Sie Metriken für Benutzerübergänge erstellen, z. B. den Wechsel von Silber zu Gold, und sie mithilfe von abgeleiteten Feldern in CJA Marketing-Kanälen zuordnen.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460042/?captions=ger&learn=on&enablevpops=true)
 

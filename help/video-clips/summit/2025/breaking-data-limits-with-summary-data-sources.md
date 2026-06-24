@@ -22,5 +22,5 @@ ht-degree: 0%
 Erfahren Sie, wie Sie mithilfe von Zusammenfassungsdatenquellen in Customer Journey Analytics Berichte zu Marketing-Kosten erstellen, die Rendite von Werbeausgaben berechnen und Unternehmensziele verfolgen können.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460097/?captions=ger&learn=on&enablevpops=true)
 

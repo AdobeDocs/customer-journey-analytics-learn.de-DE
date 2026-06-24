@@ -22,5 +22,5 @@ ht-degree: 0%
 Erfahren Sie, wie Audience Agent von Adobe den Zustand der Zielgruppe proaktiv überwacht, Probleme identifiziert und umsetzbare Lösungen vorschlägt, um Zeit zu sparen und die Interaktion zu verbessern.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-audience-health-monitoring -->
->[!VIDEO](https://video.tv.adobe.com/v/3458303/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460064/?captions=ger&learn=on&enablevpops=true)
 

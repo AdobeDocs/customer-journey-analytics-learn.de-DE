@@ -22,5 +22,5 @@ ht-degree: 0%
 Erkunden Sie die Journey-Arbeitsfläche in CJA, einem leistungsstarken Visualisierungs-Tool zum Erstellen mehrstufiger Trichter und zum Analysieren von Journey.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460163/?captions=ger&learn=on&enablevpops=true)
 

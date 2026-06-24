@@ -28,5 +28,5 @@ ht-degree: 0%
 Erfahren Sie, wie die Gamifying Workspace-Funktion Benutzenden dabei hilft, Customer Journey Analytics durch Erfolge zu erkunden und zu meistern, was den Aufbau von Kenntnissen und die Zusammenarbeit ermöglicht.
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460207/?captions=ger&learn=on&enablevpops=true)
 
