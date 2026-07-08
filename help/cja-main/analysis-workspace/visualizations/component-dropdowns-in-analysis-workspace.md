@@ -20,4 +20,4 @@ ht-degree: 46%
 
 Verwenden Sie Dropdown-Listen für Komponenten, um aus einer Liste kompatibler Komponenten zu wählen und Ihre Visualisierungen zu erstellen. Sie können auch direkt aus der Dropdown-Liste neue Komponenten erstellen, wenn Sie nicht das finden, was Sie benötigen. Diese Bereiche funktionieren gleichzeitig weiterhin als Drop-Zonen, falls Sie einen komplizierteren Anwendungsfall haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493211/?captions=ger&learn=on&enablevpops)
