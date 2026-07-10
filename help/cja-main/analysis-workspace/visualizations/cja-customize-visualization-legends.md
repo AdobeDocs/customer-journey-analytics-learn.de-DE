@@ -20,4 +20,4 @@ ht-degree: 95%
 
 Die Anpassung der Legenden in Ihren Visualisierungen, auch als Bearbeitung der Serienbeschriftung bezeichnet, ist eine hervorragende Möglichkeit, Ihre Visualisierungen für alle verständlicher zu machen, die sich die Berichte ansehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495840/?captions=ger&learn=on&enablevpops)
