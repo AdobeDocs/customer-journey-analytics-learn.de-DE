@@ -24,5 +24,5 @@ ht-degree: 78%
 
 In diesem Video erfahren Sie, wie Tabellen und Visualisierungen über Einstellungen miteinander verknüpft sind, und Sie lernen, wie Sie diese Einstellungen für verschiedene Anwendungsfälle der Analyse konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495955/?captions=ger&learn=on&enablevpops)
 
