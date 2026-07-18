@@ -22,4 +22,4 @@ Passen Sie einfach an, wie Ihre Daten mit der Granularitätsauswahl in den Einst
 
 Ein unten eingebettetes Video zeigt die Schritte zur effektiven Verwendung dieser Funktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495998/?captions=ger&learn=on&enablevpops)
