@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Unter Visualisierungseinstellungen können Sie Ihrer Linienserie eine Trendlinie hinzufügen, was dazu beitragen kann, ein klareres Muster in den Daten darzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496138/?captions=ger&learn=on&enablevpops)
