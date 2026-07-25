@@ -20,4 +20,4 @@ ht-degree: 84%
 
 Je länger der Zeitraum ist, über den eine Metrik beobachtet wird, desto schwieriger ist es, richtungsweisende Trends für die Metrik zu erkennen. Um dies zu erleichtern, kann die Funktion „Kumulativer Durchschnitt“ in „Berechnete Metriken“ verwendet werden, um in Analysis Workspace Ausgleichung auf Metriken anzuwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496334/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496342/?captions=ger&learn=on&enablevpops)
