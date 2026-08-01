@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Inline-Klassifizierungen für CJA ermöglichen spontane Bearbeitungen direkt in Analysis Workspace, indem ein Wert in einer Tabelle aktualisiert oder mehrere Werte gruppiert werden. Dadurch wird ein kleiner, aber leistungsstarker Teil der Funktionen für abgeleitete Felder direkt in Workspace integriert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496559/?captions=ger&learn=on&enablevpops)
