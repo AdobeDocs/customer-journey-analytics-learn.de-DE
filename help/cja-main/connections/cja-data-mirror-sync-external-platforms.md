@@ -22,7 +22,7 @@ Die Konsistenz von Kundendaten in Cloud Data Warehouses und [!DNL Customer Journ
 
 Data Mirror vereinfacht diesen Prozess, indem es Änderungen aus unterstützten Cloud-Data-Warehouses wie Snowflake, BigQuery und Databricks automatisch in CJA reflektiert. Indem Sie den manuellen Aufwand reduzieren und die Systeme aufeinander abstimmen, können Teams darauf vertrauen, dass die für die Analyse verwendeten Daten auf dem neuesten Stand bleiben. In diesem Video wird gezeigt, wie Data Mirror funktioniert, und es werden die Schritte zur Konfiguration in Adobe Experience Platform erläutert.
 
-Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
+Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
 
