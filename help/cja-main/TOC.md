@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
+source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 79%
@@ -33,7 +33,7 @@ ht-degree: 79%
   + [Arbeiten mit Daten](data-prep/working-with-data-in-cja.md)
   + [Aufnehmen, Zuordnen und Transformieren von Adobe Analytics-Daten](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Importieren und Verwenden von Klassifizierungsdaten von Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
-+ Datenspiegelung {#data-mirror}
++ Data Mirror {#data-mirror}
   + [Mit externem Data Warehouse synchronisieren](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Zugriffssteuerung {#access-control}
   + [Einrichten von Berechtigungen](permissions/set-up-permissions.md)
