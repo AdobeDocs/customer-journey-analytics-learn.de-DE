@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '771'
+ht-degree: 79%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 81%
   + [Einrichten von Berechtigungen](permissions/set-up-permissions.md)
 + Verbindungen {#connections}
   + [Verbinden mit Experience Platform-Datenquellen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [Mit externem Data Warehouse synchronisieren](connections/cja-data-mirror-sync-external-platforms.md)
   + [Anzeigen, Beheben von Problemen und Ändern von Verbindungseinstellungen](connections/connections-details-experience-in-cja.md)
   + [Hinzufügen neuer Daten zu einer Verbindung](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [CJA-Suche nach Lookup- und Profildaten](connections/cja-lookup-data.md)
@@ -151,6 +152,7 @@ ht-degree: 81%
     + [Verwenden von Segmenten als Dimensionen](components/filters/use-filters-as-dimensions.md)
     + [Erstellen von Zielgruppen aus Segmenten](components/filters/create-audiences-from-segments.md)
     + [Verschieben von Adobe Analytics-Segmenten nach Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [Segmentierung auf Objektebene mithilfe von Unterereignissen](components/filters/object-level-segmentation-using-sub-events.md)
   + [Echtzeit-Reporting](components/real-time-reporting.md)
   + Dimensionen {#dimensions}
     + [Ereignistiefe](components/dimensions/event-depth-in-cja.md)
