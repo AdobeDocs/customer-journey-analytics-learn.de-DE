@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie [!UICONTROL Analyse von Unterereignissen] in [!DNL Custome
 
 Weiterführende Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497082?captions=ger&learn=on)
