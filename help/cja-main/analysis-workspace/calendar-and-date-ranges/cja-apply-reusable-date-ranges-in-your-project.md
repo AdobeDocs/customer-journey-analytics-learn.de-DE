@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Die Verwendung benutzerdefinierter Datumswerte und Datumsbereiche in Ihrem Produkt kann Ihnen dabei helfen, sich auf die Informationen zu konzentrieren, die Ihre Datengeschichte darstellen. In diesem Video erkunden wir einige Stellen, an denen Sie Datumsbereiche in Ihrem Analysis Workspace-Projekt verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497180/?captions=ger&learn=on&enablevpops)
