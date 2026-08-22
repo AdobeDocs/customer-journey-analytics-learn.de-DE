@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Verwenden Sie Datumsbereichsvergleiche in Ihrem Projekt, um die Leistung zu analysieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497522/?captions=ger&learn=on&enablevpops)
