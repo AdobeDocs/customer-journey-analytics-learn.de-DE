@@ -28,4 +28,4 @@ ht-degree: 71%
 
 Erfahren Sie mehr über die Einstellungen in Freiformtabellen in Analysis Workspace und darüber, wie sich diese auf die Daten auswirken, die in diese Tabellen aufgenommen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497648/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497657/?captions=ger&learn=on&enablevpops)
