@@ -39,4 +39,4 @@ ht-degree: 20%
 Segmente identifizieren Untergruppen von Besuchern oder Kunden anhand von Attributen und Ereignissen, wie Website-Besuchende oder Callcenter-Interaktionen. Erfahren Sie mehr über die wichtigsten Komponenten von Segment Builder in Customer Journey Analytics. Weitere Informationen zu Customer Journey Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35929/?captions=ger&quality=12&learn=on)
