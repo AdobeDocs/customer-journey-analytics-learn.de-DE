@@ -35,6 +35,6 @@ ht-degree: 9%
 
 # Verwenden von [!DNL segments] als Dimensionen in Analysis Workspace-Projekten
 
-Erfahren Sie, wie Sie Segmente vergleichen und visualisieren können, wenn sie als Dimensionen in Analysis Workspace-Projekten verwendet werden. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}.
+Erfahren Sie, wie Sie Segmente vergleichen und visualisieren können, wenn sie als Dimensionen in Analysis Workspace-Projekten verwendet werden. Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
