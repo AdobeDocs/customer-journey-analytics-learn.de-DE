@@ -6,15 +6,14 @@ role: Admin
 level: Intermediate
 doc-type: Feature Video
 duration: 349
-last-substantial-update: 2026-03-24T00:00:00Z
+last-substantial-update: 2026-03-24
 jira: KT-20509
-source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
+exl-id: c9c7989b-565f-49d1-828b-99e15b06da3b
+source-git-commit: 3228cf250870384e1985b3dd4a9b258fbef7fb0f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 5%
-
 ---
-
 # Validieren der Qualität von Daten und Identitätszuordnungen mithilfe der Vorschau
 
 Erfahren Sie mehr über die Funktion zur Datensatzvorschau in Customer Journey Analytics, die unmittelbar bei der Konfiguration von Verbindungen Metriken zur Identitätszuordnung bereitstellt, einschließlich der Abdeckung von Personen-IDs und der Abdeckung persistenter IDs.
