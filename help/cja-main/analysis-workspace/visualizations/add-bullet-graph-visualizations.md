@@ -1,6 +1,6 @@
 ---
 title: Hinzufügen [!UICONTROL Aufzählungs]-Visualisierungen zu [!DNL Analysis Workspace] Projekten
-description: Erfahren Sie[!UICONTROL  wie ] verwendet werden und wie Sie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzufügen.
+description: Erfahren Sie[!UICONTROL &#x200B; wie &#x200B;] verwendet werden und wie Sie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzufügen.
 feature: Visualizations
 kt: 13403
 role: User
@@ -30,9 +30,9 @@ workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 19%
 ---
-# Hinzufügen [!UICONTROL  Visualisierungen ] Aufzählungsdiagrammen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
+# Hinzufügen [!UICONTROL &#x200B; Visualisierungen &#x200B;] Aufzählungsdiagrammen zu [!DNL Analysis Workspace] Projekten in [!DNL Customer Journey Analytics]
 
-Erfahren Sie[!UICONTROL  wie ] verwendet werden und wie Sie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzufügen. Dieses Diagramm zeigt Ihnen, wie ein Interessenswert im Vergleich zu unseren Zielen ausfällt.
+Erfahren Sie[!UICONTROL &#x200B; wie &#x200B;] verwendet werden und wie Sie sie in [!DNL Customer Journey Analytics] zu [!DNL Analysis Workspace] Projekten hinzufügen. Dieses Diagramm zeigt Ihnen, wie ein Interessenswert im Vergleich zu unseren Zielen ausfällt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
