@@ -33,5 +33,5 @@ ht-degree: 75%
 
 Beim Hinzufügen von Visualisierungen in Analysis Workspace gibt es je nach Visualisierungstyp verschiedene Möglichkeiten, Daten hinzuzufügen. In diesem Video werden diese Methoden veranschaulicht. Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491939/?captions=ger&learn=on&enablevpops)
 

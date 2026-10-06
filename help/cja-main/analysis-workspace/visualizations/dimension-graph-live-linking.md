@@ -35,4 +35,4 @@ ht-degree: 8%
 
 Wenn Sie eine Visualisierung aus einem Dimensionswert hinzufügen oder erstellen, können Sie verschiedene Dimensionswerte auswählen und das Diagramm dynamisch ändern oder die Visualisierung sperren, um auf einer Dimension oder Position zu bleiben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492128/?captions=ger&learn=on&enablevpops)

@@ -36,4 +36,4 @@ Erfahren Sie, wie Sie KI-Tools wie [!DNL Claude], [!DNL ChatGPT] oder [!DNL Curs
 
 Weitere Informationen finden Sie in der [Dokumentation](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} zu Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486323/?captions=ger&learn=on&enablevpops)

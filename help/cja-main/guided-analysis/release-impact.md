@@ -34,6 +34,6 @@ ht-degree: 16%
 
 Erfahren Sie, wie **Release Impact** in Customer Journey Analytics einen Vergleich der Leistung von Schlüsselindikatoren vor und nach einem bestimmten Datum zeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423449/?captions=ger&learn=on)
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=de){target="_blank"}.

@@ -46,4 +46,4 @@ ht-degree: 100%
 
 Da viele Personen über mehrere Kanäle und Geräte mit Ihren Inhalten interagieren, wird es immer wichtiger, diese nicht authentifizierten Ereignisse mit authentifizierten zu verbinden. Dies ermöglicht einen ganzheitlichen Ansatz für das Reporting und letztlich für die Aktivierung. Dieses Video bietet einen kurzen Überblick über den Zuordnungsprozess.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452556/?captions=ger&learn=on)
