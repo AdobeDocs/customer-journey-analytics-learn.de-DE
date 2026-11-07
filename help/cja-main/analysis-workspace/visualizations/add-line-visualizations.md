@@ -45,6 +45,6 @@ Erfahren Sie, wie Sie [!UICONTROL -]-Visualisierungen in [!DNL Analysis Workspac
 >
 >Die [!DNL Analysis Workspace] Benutzeroberfläche und Funktionen sind in [!DNL Adobe Analytics] und [!DNL Customer Journey Analytics] ähnlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507406/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen zu [!UICONTROL -]-Visualisierungen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=de){target="_blank"}.
