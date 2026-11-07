@@ -55,4 +55,4 @@ Erfahren Sie, wie Sie geschäftliche Fragen mithilfe des Bedienfelds „Quick In
 
 Weitere Informationen dazu finden Sie in der [Dokumentation](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505755/?captions=ger&learn=on)
